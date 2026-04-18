@@ -6,21 +6,109 @@
   --color-brand-orange: #f97316;
 }
 
+/* Taille de police de base augmentée */
+html { font-size: 16px; }
+
 body {
   @apply bg-gray-50 text-gray-900 antialiased;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
 }
 
-/* Custom scrollbar for chat */
-.chat-scrollbar::-webkit-scrollbar {
-  width: 6px;
+/* Prose plus grand */
+.prose { font-size: 15px; line-height: 1.7; }
+.prose p { margin-bottom: 0.85em; }
+.prose li { margin-bottom: 0.3em; }
+.prose h1 { font-size: 1.5em; }
+.prose h2 { font-size: 1.3em; }
+.prose h3 { font-size: 1.1em; }
+
+/* ─── Scrollbars ─── */
+.chat-scrollbar::-webkit-scrollbar,
+.sidebar-scroll::-webkit-scrollbar { width: 4px; }
+.chat-scrollbar::-webkit-scrollbar-track,
+.sidebar-scroll::-webkit-scrollbar-track { background: transparent; }
+.chat-scrollbar::-webkit-scrollbar-thumb { background: #e5e7eb; border-radius: 10px; }
+.sidebar-scroll::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
+
+/* ─── Orbe ─── */
+@keyframes orb-breathe {
+  0%, 100% { transform: scale(1);     filter: brightness(1); }
+  50%       { transform: scale(1.06); filter: brightness(1.18); }
 }
-.chat-scrollbar::-webkit-scrollbar-track {
-  background: transparent;
+@keyframes orb-speak {
+  0%   { transform: scale(1)    rotate(0deg); }
+  10%  { transform: scale(1.08) rotate(3deg); }
+  25%  { transform: scale(0.94) rotate(-2deg); }
+  40%  { transform: scale(1.07) rotate(2deg); }
+  55%  { transform: scale(0.96) rotate(-3deg); }
+  70%  { transform: scale(1.06) rotate(1deg); }
+  85%  { transform: scale(0.98) rotate(-1deg); }
+  100% { transform: scale(1)    rotate(0deg); }
 }
-.chat-scrollbar::-webkit-scrollbar-thumb {
-  background: #e5e7eb;
-  border-radius: 10px;
+@keyframes ring-expand {
+  0%   { transform: scale(0.9); opacity: 0.7; }
+  100% { transform: scale(2.3); opacity: 0; }
 }
-.chat-scrollbar::-webkit-scrollbar-thumb:hover {
-  background: #d1d5db;
+@keyframes ring-expand-slow {
+  0%   { transform: scale(0.9); opacity: 0.35; }
+  100% { transform: scale(3.0); opacity: 0; }
+}
+@keyframes vortex-spin     { from { transform: rotate(0deg);   } to { transform: rotate(360deg);  } }
+@keyframes vortex-spin-rev { from { transform: rotate(0deg);   } to { transform: rotate(-360deg); } }
+
+/* ─── Curseur streaming ─── */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0; }
+}
+.animate-blink { animation: blink 1s step-end infinite; }
+
+/* ─── AgriLoader tracteur ─── */
+@keyframes tractor-drive {
+  from { transform: translateX(-40px); }
+  to   { transform: translateX(170px); }
+}
+@keyframes plant-grow {
+  0%   { transform: scaleY(0); opacity: 0; }
+  60%  { opacity: 1; }
+  100% { transform: scaleY(1); opacity: 1; }
+}
+
+/* ─── Landing page ─── */
+@keyframes hero-fade-up {
+  from { opacity: 0; transform: translateY(28px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes card-in {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes star-twinkle {
+  from { opacity: 0.2; transform: scale(0.8); }
+  to   { opacity: 0.8; transform: scale(1.2); }
+}
+@keyframes grass-sway {
+  from { transform: rotate(-4deg); }
+  to   { transform: rotate(4deg); }
+}
+
+.welcome-gradient-text {
+  background: linear-gradient(135deg, #166534 0%, #15803d 50%, #16a34a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.05));
+}
+
+/* ─── LandingPage : animations supplémentaires ─── */
+@keyframes stem-draw {
+  from { stroke-dashoffset: 100; }
+  to   { stroke-dashoffset: 0; }
+}
+@keyframes leaf-bloom {
+  from { transform: scale(0) rotate(-25deg); opacity: 0; }
+  to   { transform: scale(1) rotate(0deg);  opacity: 1; }
+}
+@keyframes sun-spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
 }
