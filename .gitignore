@@ -34,6 +34,7 @@ dist/
 .env
 .env.local
 .env.*.local
+**/.env
 
 # IDE
 .idea/
@@ -45,3 +46,10 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# RAG
+rag_cache.pkl
+# Dossiers de développement local inutiles en production
+scripts/
+docs/
+

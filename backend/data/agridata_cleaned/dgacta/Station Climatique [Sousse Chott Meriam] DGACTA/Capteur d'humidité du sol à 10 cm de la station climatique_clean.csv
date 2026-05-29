@@ -1,0 +1,733 @@
+﻿date,nom_ar,nom_fr,unite,valeur
+2026-04-18 21:00:00,Température,Température,°C,18.5
+2026-04-18 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.1
+2026-04-18 21:00:00,L'humidité du sol,L'humidité du sol,mV,694.9
+2026-04-18 19:00:00,Température,Température,°C,19.2
+2026-04-18 19:00:00,L'humidité du sol,L'humidité du sol,mV,695.0
+2026-04-18 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.1
+2026-04-18 17:00:00,L'humidité du sol,L'humidité du sol,mV,695.9
+2026-04-18 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.1
+2026-04-18 17:00:00,Température,Température,°C,19.7
+2026-04-18 15:00:00,Température,Température,°C,19.6
+2026-04-18 15:00:00,L'humidité du sol,L'humidité du sol,mV,698.8
+2026-04-18 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.3
+2026-04-18 13:00:00,L'humidité du sol,L'humidité du sol,mV,702.0
+2026-04-18 13:00:00,Température,Température,°C,18.8
+2026-04-18 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.4
+2026-04-18 11:00:00,Température,Température,°C,17.7
+2026-04-18 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.6
+2026-04-18 11:00:00,L'humidité du sol,L'humidité du sol,mV,705.3
+2026-04-18 09:00:00,L'humidité du sol,L'humidité du sol,mV,708.3
+2026-04-18 09:00:00,Température,Température,°C,16.3
+2026-04-18 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.8
+2026-04-18 07:00:00,Température,Température,°C,16.1
+2026-04-18 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.9
+2026-04-18 07:00:00,L'humidité du sol,L'humidité du sol,mV,710.2
+2026-04-18 05:00:00,Température,Température,°C,16.4
+2026-04-18 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.9
+2026-04-18 05:00:00,L'humidité du sol,L'humidité du sol,mV,710.2
+2026-04-18 03:00:00,Température,Température,°C,16.6
+2026-04-18 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.9
+2026-04-18 03:00:00,L'humidité du sol,L'humidité du sol,mV,710.5
+2026-04-18 01:00:00,Température,Température,°C,17.0
+2026-04-18 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.9
+2026-04-18 01:00:00,L'humidité du sol,L'humidité du sol,mV,710.5
+2026-04-17 23:00:00,Température,Température,°C,17.5
+2026-04-17 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.9
+2026-04-17 23:00:00,L'humidité du sol,L'humidité du sol,mV,710.7
+2026-04-17 21:00:00,L'humidité du sol,L'humidité du sol,mV,710.8
+2026-04-17 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.9
+2026-04-17 21:00:00,Température,Température,°C,18.0
+2026-04-17 19:00:00,Température,Température,°C,18.6
+2026-04-17 19:00:00,L'humidité du sol,L'humidité du sol,mV,710.9
+2026-04-17 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.9
+2026-04-17 17:00:00,Température,Température,°C,19.1
+2026-04-17 17:00:00,L'humidité du sol,L'humidité du sol,mV,711.0
+2026-04-17 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,13.9
+2026-04-15 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,12.0
+2026-04-15 07:00:00,L'humidité du sol,L'humidité du sol,mV,672.0
+2026-04-15 07:00:00,Température,Température,°C,15.0
+2026-04-15 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,11.8
+2026-04-15 05:00:00,L'humidité du sol,L'humidité du sol,mV,667.2
+2026-04-15 05:00:00,Température,Température,°C,15.2
+2026-04-15 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,11.5
+2026-04-15 03:00:00,L'humidité du sol,L'humidité du sol,mV,661.8
+2026-04-15 03:00:00,Température,Température,°C,15.3
+2026-04-15 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,11.2
+2026-04-15 01:00:00,L'humidité du sol,L'humidité du sol,mV,655.8
+2026-04-15 01:00:00,Température,Température,°C,15.6
+2026-04-14 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,11.0
+2026-04-14 23:00:00,L'humidité du sol,L'humidité du sol,mV,649.3
+2026-04-14 23:00:00,Température,Température,°C,15.9
+2026-04-14 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,10.6
+2026-04-14 21:00:00,L'humidité du sol,L'humidité du sol,mV,642.0
+2026-04-14 21:00:00,Température,Température,°C,16.2
+2026-04-14 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,10.3
+2026-04-14 19:00:00,L'humidité du sol,L'humidité du sol,mV,635.5
+2026-04-14 19:00:00,Température,Température,°C,16.7
+2026-04-14 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,10.2
+2026-04-14 17:00:00,L'humidité du sol,L'humidité du sol,mV,632.1
+2026-04-14 17:00:00,Température,Température,°C,16.9
+2026-04-14 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,10.0
+2026-04-14 15:00:00,L'humidité du sol,L'humidité du sol,mV,628.1
+2026-04-14 15:00:00,Température,Température,°C,16.9
+2026-04-14 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,9.8
+2026-04-14 13:00:00,L'humidité du sol,L'humidité du sol,mV,623.9
+2026-04-14 13:00:00,Température,Température,°C,16.5
+2026-04-14 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,9.6
+2026-04-14 11:00:00,Température,Température,°C,16.1
+2026-04-14 11:00:00,L'humidité du sol,L'humidité du sol,mV,619.3
+2026-04-14 09:00:00,Température,Température,°C,15.9
+2026-04-14 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,9.4
+2026-04-14 09:00:00,L'humidité du sol,L'humidité du sol,mV,612.9
+2026-04-14 07:00:00,L'humidité du sol,L'humidité du sol,mV,585.9
+2026-04-14 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.2
+2026-04-14 07:00:00,Température,Température,°C,16.5
+2026-04-14 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.3
+2026-04-14 05:00:00,Température,Température,°C,16.6
+2026-04-14 05:00:00,L'humidité du sol,L'humidité du sol,mV,587.0
+2026-04-14 03:00:00,L'humidité du sol,L'humidité du sol,mV,588.5
+2026-04-14 03:00:00,Température,Température,°C,16.9
+2026-04-14 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.3
+2026-04-14 01:00:00,Température,Température,°C,17.1
+2026-04-14 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.4
+2026-04-14 01:00:00,L'humidité du sol,L'humidité du sol,mV,590.2
+2026-04-13 23:00:00,L'humidité du sol,L'humidité du sol,mV,592.9
+2026-04-13 23:00:00,Température,Température,°C,17.4
+2026-04-13 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.5
+2026-04-13 21:00:00,Température,Température,°C,18.1
+2026-04-13 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2026-04-13 21:00:00,L'humidité du sol,L'humidité du sol,mV,551.1
+2026-04-13 19:00:00,Température,Température,°C,18.7
+2026-04-13 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2026-04-13 19:00:00,L'humidité du sol,L'humidité du sol,mV,552.1
+2026-04-13 17:00:00,Température,Température,°C,19.2
+2026-04-13 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-13 17:00:00,L'humidité du sol,L'humidité du sol,mV,553.1
+2026-04-13 15:00:00,Température,Température,°C,19.6
+2026-04-13 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-13 15:00:00,L'humidité du sol,L'humidité du sol,mV,553.2
+2026-04-13 13:00:00,Température,Température,°C,19.5
+2026-04-13 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-13 13:00:00,L'humidité du sol,L'humidité du sol,mV,553.4
+2026-04-13 11:00:00,Température,Température,°C,18.0
+2026-04-13 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-13 11:00:00,L'humidité du sol,L'humidité du sol,mV,552.8
+2026-04-13 09:00:00,Température,Température,°C,16.4
+2026-04-13 09:00:00,L'humidité du sol,L'humidité du sol,mV,552.0
+2026-04-13 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.7
+2026-04-12 13:00:00,Température,Température,°C,17.5
+2026-04-12 13:00:00,L'humidité du sol,L'humidité du sol,mV,553.8
+2026-04-12 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-12 11:00:00,L'humidité du sol,L'humidité du sol,mV,553.4
+2026-04-12 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-12 11:00:00,Température,Température,°C,17.0
+2026-04-12 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-12 09:00:00,L'humidité du sol,L'humidité du sol,mV,553.3
+2026-04-12 09:00:00,Température,Température,°C,16.7
+2026-04-12 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-12 07:00:00,L'humidité du sol,L'humidité du sol,mV,552.8
+2026-04-12 07:00:00,Température,Température,°C,16.5
+2026-04-12 05:00:00,L'humidité du sol,L'humidité du sol,mV,553.1
+2026-04-12 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-12 05:00:00,Température,Température,°C,16.6
+2026-04-12 03:00:00,L'humidité du sol,L'humidité du sol,mV,553.2
+2026-04-12 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-12 03:00:00,Température,Température,°C,16.7
+2026-04-12 01:00:00,Température,Température,°C,17.0
+2026-04-12 01:00:00,L'humidité du sol,L'humidité du sol,mV,553.7
+2026-04-12 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-11 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.8
+2026-04-11 23:00:00,L'humidité du sol,L'humidité du sol,mV,554.1
+2026-04-11 23:00:00,Température,Température,°C,17.5
+2026-04-11 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.9
+2026-04-11 21:00:00,L'humidité du sol,L'humidité du sol,mV,554.6
+2026-04-11 21:00:00,Température,Température,°C,18.0
+2026-04-11 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.9
+2026-04-11 19:00:00,L'humidité du sol,L'humidité du sol,mV,555.5
+2026-04-11 19:00:00,Température,Température,°C,18.7
+2026-04-11 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.9
+2026-04-11 17:00:00,L'humidité du sol,L'humidité du sol,mV,556.2
+2026-04-11 17:00:00,Température,Température,°C,19.5
+2026-04-11 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,6.9
+2026-04-11 15:00:00,L'humidité du sol,L'humidité du sol,mV,556.6
+2026-04-11 15:00:00,Température,Température,°C,19.5
+2026-04-02 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 22:00:00,L'humidité du sol,L'humidité du sol,mV,569.0
+2026-04-02 22:00:00,Température,Température,°C,12.7
+2026-04-02 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 20:00:00,L'humidité du sol,L'humidité du sol,mV,569.3
+2026-04-02 20:00:00,Température,Température,°C,13.0
+2026-04-02 18:00:00,Température,Température,°C,13.3
+2026-04-02 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 18:00:00,L'humidité du sol,L'humidité du sol,mV,569.4
+2026-04-02 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 16:00:00,Température,Température,°C,13.6
+2026-04-02 16:00:00,L'humidité du sol,L'humidité du sol,mV,569.4
+2026-04-02 14:00:00,Température,Température,°C,13.4
+2026-04-02 14:00:00,L'humidité du sol,L'humidité du sol,mV,569.3
+2026-04-02 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 12:00:00,Température,Température,°C,12.7
+2026-04-02 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 12:00:00,L'humidité du sol,L'humidité du sol,mV,568.9
+2026-04-02 10:00:00,Température,Température,°C,11.9
+2026-04-02 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 10:00:00,L'humidité du sol,L'humidité du sol,mV,568.6
+2026-04-02 08:00:00,Température,Température,°C,11.7
+2026-04-02 08:00:00,L'humidité du sol,L'humidité du sol,mV,568.5
+2026-04-02 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 06:00:00,L'humidité du sol,L'humidité du sol,mV,568.6
+2026-04-02 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 06:00:00,Température,Température,°C,11.7
+2026-04-02 04:00:00,L'humidité du sol,L'humidité du sol,mV,568.5
+2026-04-02 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 04:00:00,Température,Température,°C,11.8
+2026-04-02 02:00:00,Température,Température,°C,11.9
+2026-04-02 02:00:00,L'humidité du sol,L'humidité du sol,mV,568.6
+2026-04-02 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-02 00:00:00,Température,Température,°C,12.1
+2026-04-02 00:00:00,L'humidité du sol,L'humidité du sol,mV,568.8
+2026-04-02 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-01 22:00:00,L'humidité du sol,L'humidité du sol,mV,568.7
+2026-04-01 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-01 22:00:00,Température,Température,°C,12.2
+2026-04-01 20:00:00,L'humidité du sol,L'humidité du sol,mV,568.7
+2026-04-01 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-01 20:00:00,Température,Température,°C,12.3
+2026-04-01 18:00:00,L'humidité du sol,L'humidité du sol,mV,568.8
+2026-04-01 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-01 18:00:00,Température,Température,°C,12.5
+2026-04-01 16:00:00,L'humidité du sol,L'humidité du sol,mV,568.6
+2026-04-01 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-01 16:00:00,Température,Température,°C,12.5
+2026-04-01 14:00:00,L'humidité du sol,L'humidité du sol,mV,568.5
+2026-04-01 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-01 14:00:00,Température,Température,°C,12.4
+2026-04-01 12:00:00,L'humidité du sol,L'humidité du sol,mV,568.1
+2026-04-01 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-04-01 12:00:00,Température,Température,°C,12.1
+2026-04-01 10:00:00,L'humidité du sol,L'humidité du sol,mV,567.5
+2026-04-01 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-04-01 10:00:00,Température,Température,°C,11.8
+2026-04-01 08:00:00,L'humidité du sol,L'humidité du sol,mV,567.2
+2026-04-01 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-04-01 08:00:00,Température,Température,°C,11.6
+2026-04-01 06:00:00,L'humidité du sol,L'humidité du sol,mV,567.1
+2026-04-01 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-04-01 06:00:00,Température,Température,°C,11.7
+2026-04-01 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-04-01 04:00:00,L'humidité du sol,L'humidité du sol,mV,567.2
+2026-04-01 04:00:00,Température,Température,°C,11.9
+2026-04-01 02:00:00,L'humidité du sol,L'humidité du sol,mV,567.1
+2026-04-01 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-04-01 02:00:00,Température,Température,°C,12.1
+2026-04-01 00:00:00,L'humidité du sol,L'humidité du sol,mV,567.1
+2026-04-01 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-04-01 00:00:00,Température,Température,°C,12.4
+2026-03-31 22:00:00,L'humidité du sol,L'humidité du sol,mV,567.1
+2026-03-31 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-03-31 22:00:00,Température,Température,°C,12.7
+2026-03-31 20:00:00,L'humidité du sol,L'humidité du sol,mV,567.4
+2026-03-31 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-03-31 20:00:00,Température,Température,°C,13.1
+2026-03-31 18:00:00,L'humidité du sol,L'humidité du sol,mV,566.9
+2026-03-31 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-03-31 18:00:00,Température,Température,°C,13.6
+2026-03-31 16:00:00,L'humidité du sol,L'humidité du sol,mV,567.7
+2026-03-31 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-03-31 16:00:00,Température,Température,°C,14.1
+2026-03-31 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-03-31 14:00:00,L'humidité du sol,L'humidité du sol,mV,567.4
+2026-03-31 14:00:00,Température,Température,°C,13.8
+2026-03-31 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-03-31 12:00:00,L'humidité du sol,L'humidité du sol,mV,567.9
+2026-03-31 12:00:00,Température,Température,°C,13.8
+2026-03-31 10:00:00,L'humidité du sol,L'humidité du sol,mV,567.8
+2026-03-31 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-03-31 10:00:00,Température,Température,°C,13.7
+2026-03-31 08:00:00,L'humidité du sol,L'humidité du sol,mV,567.9
+2026-03-31 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.4
+2026-03-31 08:00:00,Température,Température,°C,13.6
+2026-03-31 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-31 06:00:00,L'humidité du sol,L'humidité du sol,mV,568.2
+2026-03-31 06:00:00,Température,Température,°C,13.6
+2026-03-31 05:00:00,L'humidité du sol,L'humidité du sol,mV,568.3
+2026-03-31 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-31 05:00:00,Température,Température,°C,13.7
+2026-03-31 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-31 04:00:00,Température,Température,°C,13.8
+2026-03-31 04:00:00,L'humidité du sol,L'humidité du sol,mV,568.4
+2026-03-31 02:00:00,Température,Température,°C,14.0
+2026-03-31 02:00:00,L'humidité du sol,L'humidité du sol,mV,568.5
+2026-03-31 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-31 00:00:00,L'humidité du sol,L'humidité du sol,mV,568.8
+2026-03-31 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-31 00:00:00,Température,Température,°C,14.3
+2026-03-30 22:00:00,L'humidité du sol,L'humidité du sol,mV,569.0
+2026-03-30 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 22:00:00,Température,Température,°C,14.8
+2026-03-30 20:00:00,L'humidité du sol,L'humidité du sol,mV,569.6
+2026-03-30 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 20:00:00,Température,Température,°C,15.1
+2026-03-30 18:00:00,L'humidité du sol,L'humidité du sol,mV,569.5
+2026-03-30 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 18:00:00,Température,Température,°C,15.5
+2026-03-30 16:00:00,L'humidité du sol,L'humidité du sol,mV,569.9
+2026-03-30 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 16:00:00,Température,Température,°C,15.9
+2026-03-30 14:00:00,L'humidité du sol,L'humidité du sol,mV,570.0
+2026-03-30 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 14:00:00,Température,Température,°C,15.4
+2026-03-30 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 12:00:00,L'humidité du sol,L'humidité du sol,mV,569.8
+2026-03-30 12:00:00,Température,Température,°C,14.4
+2026-03-30 10:00:00,L'humidité du sol,L'humidité du sol,mV,569.4
+2026-03-30 10:00:00,Température,Température,°C,13.4
+2026-03-30 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 08:00:00,Température,Température,°C,12.9
+2026-03-30 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 08:00:00,L'humidité du sol,L'humidité du sol,mV,569.3
+2026-03-30 06:00:00,L'humidité du sol,L'humidité du sol,mV,569.4
+2026-03-30 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 06:00:00,Température,Température,°C,13.0
+2026-03-30 04:00:00,Température,Température,°C,13.2
+2026-03-30 04:00:00,L'humidité du sol,L'humidité du sol,mV,569.7
+2026-03-30 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 02:00:00,Température,Température,°C,13.5
+2026-03-30 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 02:00:00,L'humidité du sol,L'humidité du sol,mV,570.1
+2026-03-30 00:00:00,L'humidité du sol,L'humidité du sol,mV,570.1
+2026-03-30 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-30 00:00:00,Température,Température,°C,13.7
+2026-03-29 22:00:00,L'humidité du sol,L'humidité du sol,mV,570.2
+2026-03-29 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-29 22:00:00,Température,Température,°C,13.9
+2026-03-29 20:00:00,L'humidité du sol,L'humidité du sol,mV,570.3
+2026-03-29 20:00:00,Température,Température,°C,14.1
+2026-03-29 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-29 18:00:00,Température,Température,°C,14.3
+2026-03-29 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-29 18:00:00,L'humidité du sol,L'humidité du sol,mV,570.7
+2026-03-29 16:00:00,L'humidité du sol,L'humidité du sol,mV,570.9
+2026-03-29 16:00:00,Température,Température,°C,14.5
+2026-03-29 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-29 14:00:00,Température,Température,°C,14.1
+2026-03-29 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-29 14:00:00,L'humidité du sol,L'humidité du sol,mV,570.8
+2026-03-29 12:00:00,Température,Température,°C,13.7
+2026-03-29 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-29 12:00:00,L'humidité du sol,L'humidité du sol,mV,570.7
+2026-03-29 10:00:00,Température,Température,°C,13.1
+2026-03-29 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-29 10:00:00,L'humidité du sol,L'humidité du sol,mV,570.5
+2026-03-29 08:00:00,Température,Température,°C,12.8
+2026-03-29 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-29 08:00:00,L'humidité du sol,L'humidité du sol,mV,570.2
+2026-03-29 06:00:00,Température,Température,°C,12.9
+2026-03-29 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.5
+2026-03-29 06:00:00,L'humidité du sol,L'humidité du sol,mV,570.2
+2026-03-29 04:00:00,L'humidité du sol,L'humidité du sol,mV,570.5
+2026-03-29 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-29 04:00:00,Température,Température,°C,12.9
+2026-03-29 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-29 02:00:00,L'humidité du sol,L'humidité du sol,mV,570.5
+2026-03-29 02:00:00,Température,Température,°C,13.0
+2026-03-29 00:00:00,L'humidité du sol,L'humidité du sol,mV,570.8
+2026-03-29 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-29 00:00:00,Température,Température,°C,13.1
+2026-03-28 22:00:00,L'humidité du sol,L'humidité du sol,mV,571.1
+2026-03-28 22:00:00,Température,Température,°C,13.4
+2026-03-28 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 20:00:00,L'humidité du sol,L'humidité du sol,mV,571.5
+2026-03-28 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 20:00:00,Température,Température,°C,13.7
+2026-03-28 18:00:00,Température,Température,°C,14.3
+2026-03-28 18:00:00,L'humidité du sol,L'humidité du sol,mV,571.9
+2026-03-28 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 16:00:00,L'humidité du sol,L'humidité du sol,mV,572.3
+2026-03-28 16:00:00,Température,Température,°C,14.5
+2026-03-28 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 14:00:00,L'humidité du sol,L'humidité du sol,mV,572.3
+2026-03-28 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 14:00:00,Température,Température,°C,13.7
+2026-03-28 12:00:00,L'humidité du sol,L'humidité du sol,mV,572.3
+2026-03-28 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 12:00:00,Température,Température,°C,13.0
+2026-03-28 10:00:00,L'humidité du sol,L'humidité du sol,mV,572.1
+2026-03-28 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 10:00:00,Température,Température,°C,12.4
+2026-03-28 08:00:00,L'humidité du sol,L'humidité du sol,mV,571.9
+2026-03-28 08:00:00,Température,Température,°C,11.9
+2026-03-28 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 06:00:00,L'humidité du sol,L'humidité du sol,mV,571.9
+2026-03-28 06:00:00,Température,Température,°C,12.0
+2026-03-28 04:00:00,L'humidité du sol,L'humidité du sol,mV,572.2
+2026-03-28 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 04:00:00,Température,Température,°C,12.2
+2026-03-28 02:00:00,L'humidité du sol,L'humidité du sol,mV,572.4
+2026-03-28 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 02:00:00,Température,Température,°C,12.4
+2026-03-28 00:00:00,L'humidité du sol,L'humidité du sol,mV,572.6
+2026-03-28 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.6
+2026-03-28 00:00:00,Température,Température,°C,12.6
+2026-03-27 22:00:00,L'humidité du sol,L'humidité du sol,mV,572.9
+2026-03-27 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 22:00:00,Température,Température,°C,12.9
+2026-03-27 20:00:00,L'humidité du sol,L'humidité du sol,mV,573.1
+2026-03-27 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 20:00:00,Température,Température,°C,13.2
+2026-03-27 18:00:00,L'humidité du sol,L'humidité du sol,mV,573.7
+2026-03-27 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 18:00:00,Température,Température,°C,13.6
+2026-03-27 16:00:00,L'humidité du sol,L'humidité du sol,mV,573.9
+2026-03-27 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 16:00:00,Température,Température,°C,13.9
+2026-03-27 14:00:00,L'humidité du sol,L'humidité du sol,mV,574.1
+2026-03-27 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 14:00:00,Température,Température,°C,13.6
+2026-03-27 12:00:00,L'humidité du sol,L'humidité du sol,mV,574.1
+2026-03-27 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 12:00:00,Température,Température,°C,13.3
+2026-03-27 10:00:00,L'humidité du sol,L'humidité du sol,mV,574.1
+2026-03-27 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 10:00:00,Température,Température,°C,12.6
+2026-03-27 08:00:00,L'humidité du sol,L'humidité du sol,mV,574.2
+2026-03-27 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 08:00:00,Température,Température,°C,12.3
+2026-03-27 06:00:00,L'humidité du sol,L'humidité du sol,mV,574.3
+2026-03-27 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 06:00:00,Température,Température,°C,12.4
+2026-03-27 04:00:00,L'humidité du sol,L'humidité du sol,mV,574.4
+2026-03-27 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 04:00:00,Température,Température,°C,12.5
+2026-03-27 02:00:00,L'humidité du sol,L'humidité du sol,mV,574.6
+2026-03-27 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 02:00:00,Température,Température,°C,12.7
+2026-03-27 00:00:00,L'humidité du sol,L'humidité du sol,mV,574.8
+2026-03-27 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.7
+2026-03-27 00:00:00,Température,Température,°C,13.0
+2026-03-26 22:00:00,L'humidité du sol,L'humidité du sol,mV,575.2
+2026-03-26 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 22:00:00,Température,Température,°C,13.3
+2026-03-26 20:00:00,L'humidité du sol,L'humidité du sol,mV,575.4
+2026-03-26 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 20:00:00,Température,Température,°C,13.7
+2026-03-26 18:00:00,L'humidité du sol,L'humidité du sol,mV,575.8
+2026-03-26 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 18:00:00,Température,Température,°C,14.0
+2026-03-26 16:00:00,L'humidité du sol,L'humidité du sol,mV,576.0
+2026-03-26 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 16:00:00,Température,Température,°C,14.3
+2026-03-26 14:00:00,L'humidité du sol,L'humidité du sol,mV,576.2
+2026-03-26 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 14:00:00,Température,Température,°C,14.2
+2026-03-26 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 12:00:00,L'humidité du sol,L'humidité du sol,mV,576.1
+2026-03-26 12:00:00,Température,Température,°C,13.7
+2026-03-26 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 10:00:00,L'humidité du sol,L'humidité du sol,mV,575.9
+2026-03-26 10:00:00,Température,Température,°C,12.8
+2026-03-26 08:00:00,L'humidité du sol,L'humidité du sol,mV,575.6
+2026-03-26 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 08:00:00,Température,Température,°C,12.2
+2026-03-26 06:00:00,L'humidité du sol,L'humidité du sol,mV,575.8
+2026-03-26 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 06:00:00,Température,Température,°C,12.4
+2026-03-26 04:00:00,L'humidité du sol,L'humidité du sol,mV,576.0
+2026-03-26 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 04:00:00,Température,Température,°C,12.8
+2026-03-26 02:00:00,L'humidité du sol,L'humidité du sol,mV,576.3
+2026-03-26 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 02:00:00,Température,Température,°C,13.2
+2026-03-26 00:00:00,L'humidité du sol,L'humidité du sol,mV,576.8
+2026-03-26 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-26 00:00:00,Température,Température,°C,13.7
+2026-03-25 22:00:00,L'humidité du sol,L'humidité du sol,mV,577.0
+2026-03-25 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-25 22:00:00,Température,Température,°C,14.0
+2026-03-25 20:00:00,L'humidité du sol,L'humidité du sol,mV,577.5
+2026-03-25 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-25 20:00:00,Température,Température,°C,14.7
+2026-03-25 18:00:00,L'humidité du sol,L'humidité du sol,mV,578.0
+2026-03-25 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-25 18:00:00,Température,Température,°C,15.4
+2026-03-25 16:00:00,L'humidité du sol,L'humidité du sol,mV,578.1
+2026-03-25 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-25 16:00:00,Température,Température,°C,15.5
+2026-03-25 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-25 14:00:00,L'humidité du sol,L'humidité du sol,mV,578.0
+2026-03-25 14:00:00,Température,Température,°C,15.1
+2026-03-25 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-25 12:00:00,L'humidité du sol,L'humidité du sol,mV,577.7
+2026-03-25 12:00:00,Température,Température,°C,14.3
+2026-03-25 10:00:00,L'humidité du sol,L'humidité du sol,mV,577.0
+2026-03-25 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-25 10:00:00,Température,Température,°C,13.4
+2026-03-25 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-25 08:00:00,L'humidité du sol,L'humidité du sol,mV,576.7
+2026-03-25 08:00:00,Température,Température,°C,13.0
+2026-03-25 06:00:00,L'humidité du sol,L'humidité du sol,mV,576.9
+2026-03-25 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-25 06:00:00,Température,Température,°C,13.0
+2026-03-25 05:00:00,L'humidité du sol,L'humidité du sol,mV,576.9
+2026-03-25 05:00:00,Température,Température,°C,13.1
+2026-03-25 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-25 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-25 04:00:00,L'humidité du sol,L'humidité du sol,mV,576.8
+2026-03-25 04:00:00,Température,Température,°C,13.2
+2026-03-25 02:00:00,L'humidité du sol,L'humidité du sol,mV,577.0
+2026-03-25 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-25 02:00:00,Température,Température,°C,13.3
+2026-03-25 00:00:00,L'humidité du sol,L'humidité du sol,mV,577.3
+2026-03-25 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.8
+2026-03-25 00:00:00,Température,Température,°C,13.5
+2026-03-24 22:00:00,L'humidité du sol,L'humidité du sol,mV,577.4
+2026-03-24 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 22:00:00,Température,Température,°C,13.9
+2026-03-24 20:00:00,L'humidité du sol,L'humidité du sol,mV,577.6
+2026-03-24 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 20:00:00,Température,Température,°C,14.2
+2026-03-24 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 18:00:00,Température,Température,°C,14.6
+2026-03-24 18:00:00,L'humidité du sol,L'humidité du sol,mV,577.4
+2026-03-24 16:00:00,L'humidité du sol,L'humidité du sol,mV,577.3
+2026-03-24 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 16:00:00,Température,Température,°C,14.7
+2026-03-24 14:00:00,Température,Température,°C,14.7
+2026-03-24 14:00:00,L'humidité du sol,L'humidité du sol,mV,578.8
+2026-03-24 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 12:00:00,L'humidité du sol,L'humidité du sol,mV,578.7
+2026-03-24 12:00:00,Température,Température,°C,14.2
+2026-03-24 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 10:00:00,L'humidité du sol,L'humidité du sol,mV,578.6
+2026-03-24 10:00:00,Température,Température,°C,13.5
+2026-03-24 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 07:00:00,L'humidité du sol,L'humidité du sol,mV,578.3
+2026-03-24 07:00:00,Température,Température,°C,13.1
+2026-03-24 06:00:00,Température,Température,°C,13.1
+2026-03-24 06:00:00,L'humidité du sol,L'humidité du sol,mV,578.4
+2026-03-24 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 05:00:00,Température,Température,°C,13.3
+2026-03-24 05:00:00,L'humidité du sol,L'humidité du sol,mV,578.4
+2026-03-24 04:00:00,L'humidité du sol,L'humidité du sol,mV,578.4
+2026-03-24 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 04:00:00,Température,Température,°C,13.3
+2026-03-24 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 03:00:00,L'humidité du sol,L'humidité du sol,mV,578.6
+2026-03-24 03:00:00,Température,Température,°C,13.4
+2026-03-24 02:00:00,L'humidité du sol,L'humidité du sol,mV,578.7
+2026-03-24 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 02:00:00,Température,Température,°C,13.6
+2026-03-24 01:00:00,L'humidité du sol,L'humidité du sol,mV,578.8
+2026-03-24 01:00:00,Température,Température,°C,13.8
+2026-03-24 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-24 00:00:00,L'humidité du sol,L'humidité du sol,mV,579.1
+2026-03-24 00:00:00,Température,Température,°C,14.1
+2026-03-23 23:00:00,L'humidité du sol,L'humidité du sol,mV,579.4
+2026-03-23 23:00:00,Température,Température,°C,14.5
+2026-03-23 23:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 22:00:00,Température,Température,°C,14.7
+2026-03-23 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 22:00:00,L'humidité du sol,L'humidité du sol,mV,579.6
+2026-03-23 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-23 21:00:00,Température,Température,°C,14.9
+2026-03-23 21:00:00,L'humidité du sol,L'humidité du sol,mV,579.7
+2026-03-23 20:00:00,L'humidité du sol,L'humidité du sol,mV,579.7
+2026-03-23 20:00:00,Température,Température,°C,15.1
+2026-03-23 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-23 19:00:00,Température,Température,°C,15.3
+2026-03-23 19:00:00,L'humidité du sol,L'humidité du sol,mV,579.8
+2026-03-23 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-23 18:00:00,Température,Température,°C,15.4
+2026-03-23 18:00:00,L'humidité du sol,L'humidité du sol,mV,579.9
+2026-03-23 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-23 16:00:00,Température,Température,°C,15.6
+2026-03-23 16:00:00,L'humidité du sol,L'humidité du sol,mV,579.9
+2026-03-23 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-23 14:00:00,L'humidité du sol,L'humidité du sol,mV,579.6
+2026-03-23 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 14:00:00,Température,Température,°C,15.3
+2026-03-23 12:00:00,Température,Température,°C,14.8
+2026-03-23 12:00:00,L'humidité du sol,L'humidité du sol,mV,579.0
+2026-03-23 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 10:00:00,Température,Température,°C,14.3
+2026-03-23 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 10:00:00,L'humidité du sol,L'humidité du sol,mV,578.4
+2026-03-23 08:00:00,L'humidité du sol,L'humidité du sol,mV,578.1
+2026-03-23 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 08:00:00,Température,Température,°C,14.1
+2026-03-23 06:00:00,L'humidité du sol,L'humidité du sol,mV,578.2
+2026-03-23 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 06:00:00,Température,Température,°C,14.1
+2026-03-23 05:00:00,L'humidité du sol,L'humidité du sol,mV,578.3
+2026-03-23 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 05:00:00,Température,Température,°C,14.1
+2026-03-23 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 04:00:00,Température,Température,°C,14.1
+2026-03-23 04:00:00,L'humidité du sol,L'humidité du sol,mV,578.4
+2026-03-23 02:00:00,Température,Température,°C,14.2
+2026-03-23 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 02:00:00,L'humidité du sol,L'humidité du sol,mV,579.2
+2026-03-23 00:00:00,L'humidité du sol,L'humidité du sol,mV,579.4
+2026-03-23 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-23 00:00:00,Température,Température,°C,14.3
+2026-03-22 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 22:00:00,Température,Température,°C,14.4
+2026-03-22 22:00:00,L'humidité du sol,L'humidité du sol,mV,579.5
+2026-03-22 20:00:00,L'humidité du sol,L'humidité du sol,mV,579.7
+2026-03-22 20:00:00,Température,Température,°C,14.5
+2026-03-22 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 18:00:00,Température,Température,°C,14.8
+2026-03-22 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-22 18:00:00,L'humidité du sol,L'humidité du sol,mV,579.8
+2026-03-22 16:00:00,L'humidité du sol,L'humidité du sol,mV,579.8
+2026-03-22 16:00:00,Température,Température,°C,15.0
+2026-03-22 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-22 14:00:00,Température,Température,°C,14.7
+2026-03-22 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 14:00:00,L'humidité du sol,L'humidité du sol,mV,579.5
+2026-03-22 12:00:00,Température,Température,°C,14.2
+2026-03-22 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 12:00:00,L'humidité du sol,L'humidité du sol,mV,578.8
+2026-03-22 10:00:00,Température,Température,°C,13.6
+2026-03-22 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 10:00:00,L'humidité du sol,L'humidité du sol,mV,578.3
+2026-03-22 08:00:00,Température,Température,°C,13.3
+2026-03-22 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 08:00:00,L'humidité du sol,L'humidité du sol,mV,577.8
+2026-03-22 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 06:00:00,Température,Température,°C,13.4
+2026-03-22 06:00:00,L'humidité du sol,L'humidité du sol,mV,577.9
+2026-03-22 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 05:00:00,Température,Température,°C,13.4
+2026-03-22 05:00:00,L'humidité du sol,L'humidité du sol,mV,577.9
+2026-03-22 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 04:00:00,L'humidité du sol,L'humidité du sol,mV,577.9
+2026-03-22 04:00:00,Température,Température,°C,13.5
+2026-03-22 02:00:00,L'humidité du sol,L'humidité du sol,mV,579.4
+2026-03-22 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 02:00:00,Température,Température,°C,13.6
+2026-03-22 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-22 00:00:00,L'humidité du sol,L'humidité du sol,mV,579.5
+2026-03-22 00:00:00,Température,Température,°C,13.6
+2026-03-21 22:00:00,L'humidité du sol,L'humidité du sol,mV,579.6
+2026-03-21 22:00:00,Température,Température,°C,13.8
+2026-03-21 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-21 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-21 20:00:00,Température,Température,°C,14.1
+2026-03-21 20:00:00,L'humidité du sol,L'humidité du sol,mV,579.9
+2026-03-21 18:00:00,Température,Température,°C,14.6
+2026-03-21 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-21 18:00:00,L'humidité du sol,L'humidité du sol,mV,580.2
+2026-03-21 16:00:00,Température,Température,°C,14.8
+2026-03-21 16:00:00,L'humidité du sol,L'humidité du sol,mV,580.3
+2026-03-21 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-21 14:00:00,L'humidité du sol,L'humidité du sol,mV,580.1
+2026-03-21 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-21 14:00:00,Température,Température,°C,14.3
+2026-03-21 12:00:00,Température,Température,°C,13.7
+2026-03-21 12:00:00,L'humidité du sol,L'humidité du sol,mV,580.0
+2026-03-21 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-21 10:00:00,L'humidité du sol,L'humidité du sol,mV,579.7
+2026-03-21 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-21 10:00:00,Température,Température,°C,12.9
+2026-03-21 08:00:00,L'humidité du sol,L'humidité du sol,mV,579.2
+2026-03-21 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-21 08:00:00,Température,Température,°C,12.3
+2026-03-21 06:00:00,L'humidité du sol,L'humidité du sol,mV,579.4
+2026-03-21 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-21 06:00:00,Température,Température,°C,12.2
+2026-03-21 05:00:00,Température,Température,°C,12.3
+2026-03-21 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-21 05:00:00,L'humidité du sol,L'humidité du sol,mV,579.5
+2026-03-21 04:00:00,Température,Température,°C,12.5
+2026-03-21 04:00:00,L'humidité du sol,L'humidité du sol,mV,579.5
+2026-03-21 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,7.9
+2026-03-21 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-21 02:00:00,Température,Température,°C,12.9
+2026-03-21 02:00:00,L'humidité du sol,L'humidité du sol,mV,579.9
+2026-03-21 00:00:00,Température,Température,°C,13.2
+2026-03-21 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-21 00:00:00,L'humidité du sol,L'humidité du sol,mV,579.9
+2026-03-20 22:00:00,L'humidité du sol,L'humidité du sol,mV,580.3
+2026-03-20 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 22:00:00,Température,Température,°C,13.6
+2026-03-20 20:00:00,Température,Température,°C,14.2
+2026-03-20 20:00:00,L'humidité du sol,L'humidité du sol,mV,580.6
+2026-03-20 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 18:00:00,L'humidité du sol,L'humidité du sol,mV,581.0
+2026-03-20 18:00:00,Température,Température,°C,14.5
+2026-03-20 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 16:00:00,L'humidité du sol,L'humidité du sol,mV,580.9
+2026-03-20 16:00:00,Température,Température,°C,14.5
+2026-03-20 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 14:00:00,L'humidité du sol,L'humidité du sol,mV,580.9
+2026-03-20 14:00:00,Température,Température,°C,14.5
+2026-03-20 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 12:00:00,L'humidité du sol,L'humidité du sol,mV,580.6
+2026-03-20 12:00:00,Température,Température,°C,14.3
+2026-03-20 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 10:00:00,L'humidité du sol,L'humidité du sol,mV,580.5
+2026-03-20 10:00:00,Température,Température,°C,14.0
+2026-03-20 08:00:00,Température,Température,°C,13.8
+2026-03-20 08:00:00,L'humidité du sol,L'humidité du sol,mV,580.2
+2026-03-20 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 06:00:00,Température,Température,°C,13.8
+2026-03-20 06:00:00,L'humidité du sol,L'humidité du sol,mV,580.1
+2026-03-20 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 05:00:00,Température,Température,°C,13.9
+2026-03-20 05:00:00,L'humidité du sol,L'humidité du sol,mV,580.2
+2026-03-20 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 04:00:00,L'humidité du sol,L'humidité du sol,mV,580.2
+2026-03-20 04:00:00,Température,Température,°C,14.0
+2026-03-20 02:00:00,L'humidité du sol,L'humidité du sol,mV,580.3
+2026-03-20 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 02:00:00,Température,Température,°C,14.3
+2026-03-20 00:00:00,L'humidité du sol,L'humidité du sol,mV,580.5
+2026-03-20 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-20 00:00:00,Température,Température,°C,14.6
+2026-03-19 22:00:00,L'humidité du sol,L'humidité du sol,mV,580.9
+2026-03-19 22:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 22:00:00,Température,Température,°C,14.9
+2026-03-19 20:00:00,L'humidité du sol,L'humidité du sol,mV,581.1
+2026-03-19 20:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 20:00:00,Température,Température,°C,15.2
+2026-03-19 18:00:00,L'humidité du sol,L'humidité du sol,mV,581.2
+2026-03-19 18:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 18:00:00,Température,Température,°C,15.6
+2026-03-19 16:00:00,L'humidité du sol,L'humidité du sol,mV,581.3
+2026-03-19 16:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 16:00:00,Température,Température,°C,15.8
+2026-03-19 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 14:00:00,L'humidité du sol,L'humidité du sol,mV,581.3
+2026-03-19 14:00:00,Température,Température,°C,15.6
+2026-03-19 12:00:00,L'humidité du sol,L'humidité du sol,mV,581.2
+2026-03-19 12:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 12:00:00,Température,Température,°C,15.1
+2026-03-19 10:00:00,L'humidité du sol,L'humidité du sol,mV,581.2
+2026-03-19 10:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 10:00:00,Température,Température,°C,14.4
+2026-03-19 08:00:00,L'humidité du sol,L'humidité du sol,mV,581.0
+2026-03-19 08:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 08:00:00,Température,Température,°C,14.2
+2026-03-19 06:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 06:00:00,L'humidité du sol,L'humidité du sol,mV,581.1
+2026-03-19 06:00:00,Température,Température,°C,14.4
+2026-03-19 05:00:00,L'humidité du sol,L'humidité du sol,mV,581.2
+2026-03-19 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 05:00:00,Température,Température,°C,14.4
+2026-03-19 04:00:00,L'humidité du sol,L'humidité du sol,mV,581.2
+2026-03-19 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 04:00:00,Température,Température,°C,14.5
+2026-03-19 02:00:00,L'humidité du sol,L'humidité du sol,mV,580.9
+2026-03-19 02:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0
+2026-03-19 02:00:00,Température,Température,°C,14.5
+2026-03-19 00:00:00,L'humidité du sol,L'humidité du sol,mV,581.0
+2026-03-19 00:00:00,Température,Température,°C,14.8
+2026-03-19 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,8.0

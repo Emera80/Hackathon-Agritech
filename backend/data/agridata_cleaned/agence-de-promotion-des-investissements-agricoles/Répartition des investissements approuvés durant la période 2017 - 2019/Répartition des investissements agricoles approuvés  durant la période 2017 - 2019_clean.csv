@@ -1,0 +1,1862 @@
+﻿nbr_projets,inv_approuve,prime_approuvee,nbr_emploi,gouv_ar,gouv_fr,delegation_ar,delegation_fr,secteur_act_ar,secteur_act_ar_1,mois_ar,mois_fr,annee_doa,feuille
+2,150179,73590.0,2,قفصة,GAFSA,سيدي عيش,SIDI ICH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+3,191000,94007.0,3,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+5,441823,154515.0,6,زغوان,ZAGHOUANE,الفحص,FAHS,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+12,644869,314157.0,12,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,56000,13000.0,2,بنزرت,BIZERTE,منزل جميل,MANZEL JMIL,تربية الأحياء المائية,AQUACULTURE,ديسمبر,déc.,2017,SQL Results
+3,314000,157958.0,3,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,102298,12920.0,2,مدنين,MEDENINE,جرجيس,JERJIS,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+7,358236,141140.0,7,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,55500,18483.0,1,القصرين,KASSERINE,فريانة,FERYANA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+9,787915,364272.0,10,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+9,605100,109465.0,16,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,مارس,mars,2018,SQL Results
+3,48000,15624.0,3,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+5,715000,291118.0,8,بنزرت,BIZERTE,أوتيك,UTIK,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,64009,21306.0,2,الكاف,KEF,الطويرف,Touiref,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,61000,30657.0,3,بنزرت,BIZERTE,غار الملح,GAR EL MELH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,41465,20733.0,2,الكاف,KEF,الطويرف,Touiref,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+4,301808,131413.0,5,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,55200,18400.0,2,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+2,181000,59309.0,2,القيروان,KAIROUAN,الشراردة,CHRARDA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+5,325223,158248.0,5,باجة,BEJA,باجة الشما لية,BEJANORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,133267,56950.0,2,سليانة,SILIANA,مكثر,MAKTHER,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,184529,101492.0,3,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,223000,106692.0,3,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,480440,190127.0,6,بنزرت,BIZERTE,غار الملح,GAR EL MELH,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,243675,96701.0,3,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+9,1081873,298634.0,14,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,268530,89510.0,3,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+4,307009,168857.0,4,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,196296,53871.0,0,منــوبة,MANOUBA,منوبة,MANOUBA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+5,419203,221251.0,5,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+4,383841,211112.0,4,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+8,413326,136008.0,8,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+7,500516,203135.0,9,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+4,297834,146399.0,7,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,304152,43665.0,4,نابل,NABEUL,منزل تميم,MANZEL TMIM,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,987000,210825.0,17,منــوبة,MANOUBA,البطان,EL BATAN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+5,306813,152399.0,5,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,227230,91801.0,3,نابل,NABEUL,منزل تميم,MANZEL TMIM,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+4,243180,102428.0,3,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,108326,31289.0,2,باجة,BEJA,تستور,TASTOUR,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+7,870483,346348.0,11,قفصة,GAFSA,سيدي عيش,SIDI ICH,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,463000,183263.0,10,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+7,810860,318316.0,11,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,107800,16168.0,2,المنستير,MOUNASTIR,المكنين,MEKNIN,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+3,217974,103508.0,3,جندوبة,JENDOUBA,جندوبة,JENDOUBA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,70614,38225.0,1,الكاف,KEF,الطويرف,Touiref,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+16,1401737,550827.0,19,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,287862,130428.0,3,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+12,2983607,902717.333333333,19,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,108491,13597.0,2,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+3,42915,16244.0,3,الكاف,KEF,الدهماني,DAHMENI,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,47606,13500.0,1,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+12,685219,272406.0,12,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+4,260342,143188.0,4,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+6,616423,235107.0,9,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+6,1178124,245525.0,11,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+9,892024,338777.0,12,قفصة,GAFSA,سيدي عيش,SIDI ICH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,78980,26326.6666666667,1,جندوبة,JENDOUBA,عين دراهم,AIN DRAHEM,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+5,451000,229400.0,5,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,258021,112300.0,2,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,220530,96301.0,2,مدنين,MEDENINE,ميدون,MIDOUN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+3,208000,97841.0,3,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,65550,36052.0,2,الكاف,KEF,تاجروين,TAJERWIN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,40800,5910.0,1,المنستير,MOUNASTIR,قصيبة المديوني,KSIBET ALMADYOUNI,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,54000,8100.0,1,بن عروس,BEN AROUSSE,رادس,RADES,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+5,317498,173968.0,5,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+5,402441,134147.0,5,قبلي,KEBELLI,الفوار,ELFAWAR,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,85800,46365.0,1,صفاقس,SFAXE,الحنشة,HANCHA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,440000,53268.0,8,بن عروس,BEN AROUSSE,فوشانة,FOUCHANA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+7,910374,307253.0,9,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+5,391946,155227.0,5,قابس,GABES,المطوية,EL METWEYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,69000,9630.0,1,المنستير,MOUNASTIR,طبلبة,TBOLBA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+7,6381000,1148015.0,23,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+3,272000,129395.0,3,المهدية,MAHDIA,السواسي,ESSWASSI,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,97120,29324.0,2,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+3,201000,65315.6666666667,3,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+3,230914,102256.0,3,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,327000,132803.0,4,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+4,616374,300134.0,5,سليانة,SILIANA,قعفور,GAAFOUR,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,182000,59387.0,3,القيروان,KAIROUAN,الشراردة,CHRARDA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,80000,6675.0,2,سوسة,SOUSSE,النفيضة,NFIDHA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,80000,39482.0,2,بنزرت,BIZERTE,راس الجبل,RAS JBEL,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,229213,126069.0,3,سيدي بوزيد,SIDI BOUZIDE,المزونة,ELMZOUNA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,174756,83708.0,3,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,618000,176868.333333333,7,الكاف,KEF,القصور,ELKSOUR,التحويل الأولي,PREMIERE TRANSFORMATION,سبتمبر,sept.,2018,SQL Results
+1,407000,90661.0,6,نابل,NABEUL,الميدة,ELMIDA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,177095,57948.3333333333,3,قفصة,GAFSA,السند,ESNAD,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+2,249582,92216.0,3,قفصة,GAFSA,القصر,EL KSSAR,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+9,864621,341426.0,9,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,1322000,373157.0,10,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+4,318437,146918.0,4,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+5,918872,255462.0,10,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+6,712287,256987.0,8,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+5,2775724,740677.0,15,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,151871,83502.0,2,صفاقس,SFAXE,الغريبة,ELGRIBA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,52000,28589.0,1,منــوبة,MANOUBA,البطان,EL BATAN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,163055,71058.0,2,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+4,257104,141408.0,4,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+5,328824,96575.0,5,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,282000,101462.0,4,تطاوين,TATAWINE,تطاوين الجنوبية,TATAWIN SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,158000,86900.0,2,باجة,BEJA,باجة الشما لية,BEJANORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,1938000,290944.0,15,مدنين,MEDENINE,جرجيس,JERJIS,الصيد البحري,PECHE,ديسمبر,déc.,2017,SQL Results
+2,194983,64988.0,2,سليانة,SILIANA,برقو,BERGOU,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,207509,67559.0,3,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,92223,30738.0,1,سليانة,SILIANA,العروسة,ALAROUSSA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,167100,54794.0,3,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,29900,16444.0,1,نابل,NABEUL,دار شعبان الفهري,DAR CHAABEN EL FEHRI,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,676000,231173.0,8,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,13000,3966.0,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,782000,148471.0,16,نابل,NABEUL,قليبية,KLIBYA,الصيد البحري,PECHE,فيفري,févr.,2018,SQL Results
+4,393000,181664.0,4,تطاوين,TATAWINE,غمراسن,GOMRASSEN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,605000,184375.0,3,سليانة,SILIANA,مكثر,MAKTHER,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+7,535077,262214.0,7,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,94300,14145.0,2,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+2,154512,84981.0,2,القصرين,KASSERINE,العيون,EL AYOUN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+3,495912,166849.0,5,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,86505,47579.0,1,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+6,753927,267515.0,12,قفصة,GAFSA,سيدي عيش,SIDI ICH,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+5,512004,177160.0,7,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,63000,6823.0,1,المهدية,MAHDIA,بو مرداس,BOU MERDES,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+2,125838,41946.0,2,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,169384,62579.0,2,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,52571,13550.0,1,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+2,120000,32708.0,2,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,54076,13880.0,1,صفاقس,SFAXE,الغريبة,ELGRIBA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+2,126052,42017.3333333333,2,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,1037000,287185.0,12,سليانة,SILIANA,سليانة الجنوبية,SILIANA SUD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,81904,45047.0,1,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,144000,47847.6666666667,2,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,69000,37934.0,1,صفاقس,SFAXE,بئر علي بن خليفة,BIR ALI KHELIFFA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,156000,48202.3333333333,2,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,1775000,518850.0,7,المهدية,MAHDIA,المهدية,MAHDIA,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+1,21308,7031.0,1,الكاف,KEF,قلعة سنان,KALAT SINAN,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,63000,8927.0,1,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,1470000,521954.0,10,سوسة,SOUSSE,كندار,KENDRA,التحويل الأولي,PREMIERE TRANSFORMATION,فيفري,févr.,2018,SQL Results
+6,788907,213022.0,10,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,127568,69487.0,2,باجة,BEJA,قبلاط,KBELLAT,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,69000,13102.0,0,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الصيد البحري,PECHE,ديسمبر,déc.,2017,SQL Results
+1,53864,13610.0,1,صفاقس,SFAXE,الصخيرة,SKHIRA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,326000,83833.0,3,زغوان,ZAGHOUANE,زغوان,ZAGOUAN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,128478,56123.0,2,جندوبة,JENDOUBA,جندوبة,JENDOUBA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,95000,45072.0,1,المهدية,MAHDIA,شربان,CHERBEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,311857,140026.0,5,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,138900,76395.0,2,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,183000,60579.0,2,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,74598,35420.0,0,توزر,TOZEUR,حزوة,HIZWA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,287000,94676.0,3,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,65000,34375.0,1,سوسة,SOUSSE,مساكن,MSAKEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,215232,47839.0,4,الكاف,KEF,القصور,ELKSOUR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,199400,75893.0,2,صفاقس,SFAXE,عقارب,AGAREB,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,336000,107104.0,5,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,63000,30711.0,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+3,195832,77915.0,4,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,44351,5595.0,1,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,89000,48276.0,1,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,78000,11045.0,1,المهدية,MAHDIA,المهدية,MAHDIA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,1733000,567009.0,15,الكاف,KEF,الدهماني,DAHMENI,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,53364,13482.0,1,صفاقس,SFAXE,العامرة,EL AMRA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,65000,18744.0,1,المهدية,MAHDIA,هبيرة,HBIRA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,21000,6300.0,1,المنستير,MOUNASTIR,بني حسان,BENI HASSEN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,200000,76847.0,1,مدنين,MEDENINE,ميدون,MIDOUN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,115135,63325.0,1,قبلي,KEBELLI,رجيم معتوق,ٌRegim Maatoug,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,1283402,241720.0,19,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الصيد البحري,PECHE,مارس,mars,2018,SQL Results
+1,15000,1845.0,1,المنستير,MOUNASTIR,زرمدين,ZMERDIN,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,55300,6928.0,1,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,82903,45597.0,1,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+4,493684,213508.0,5,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,55210,14136.0,1,صفاقس,SFAXE,بئر علي بن خليفة,BIR ALI KHELIFFA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+2,190792,104936.0,2,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,68500,15607.0,3,سوسة,SOUSSE,أكودة,AKOUDA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,224999,75834.0,2,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,58000,30800.0,1,سوسة,SOUSSE,القلعة الصغرى,KALAA SOUGRA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,100510,12553.0,2,صفاقس,SFAXE,المحرس,MAHRES,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,568000,236197.666666667,8,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,60000,8400.0,1,المهدية,MAHDIA,الشابة,CHEBBA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,52818,13500.0,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,150000,87388.0,2,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+2,90000,47308.0,2,سوسة,SOUSSE,بوفيشة,BOUFICHA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,113000,33900.0,3,تــونس,TUNIS,المرسى,LA MARSA,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,68000,9450.0,2,بنزرت,BIZERTE,منزل بورقيبة,MANZEL BOURGIBA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,45155,6774.0,1,نابل,NABEUL,قربة,KOURBA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,145000,45025.0,4,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,94420,17483.0,1,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+1,60300,20100.0,1,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,78000,25900.0,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,65500,20794.0,2,قفصة,GAFSA,القطار,ALKATAR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,196418,60958.0,2,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,40579,14531.0,1,القصرين,KASSERINE,حيدرة,HIDRA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,270000,120324.0,4,نابل,NABEUL,الحمامات,HAMMAMET,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,89000,29658.3333333333,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+2,748000,165341.0,20,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,84000,11644.0,1,المهدية,MAHDIA,بو مرداس,BOU MERDES,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,66000,21439.0,1,القيروان,KAIROUAN,الشراردة,CHRARDA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,45700,15233.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,41000,6150.0,1,المنستير,MOUNASTIR,زرمدين,ZMERDIN,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,51952,10748.0,0,نابل,NABEUL,سليمان,SLIMAN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,71810,35905.0,1,القصرين,KASSERINE,جدليان,JDELYAN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,40354,6052.0,1,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,127457,40036.0,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,89000,25837.0,1,المهدية,MAHDIA,أولاد الشامخ,AWLED CHAMEKH,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,164683,33218.0,6,صفاقس,SFAXE,قرقنة,KAREKNA,الصيد البحري,PECHE,مارس,mars,2018,SQL Results
+1,4700,524.0,0,أريانة,ARIANA,سيدي ثابت,SID THABET,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,102830,56557.0,1,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,1030000,244224.0,8,زغوان,ZAGHOUANE,زغوان,ZAGOUAN,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,63000,6868.0,1,المهدية,MAHDIA,ملولش,MLOULECH,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,76400,42020.0,1,صفاقس,SFAXE,بئر علي بن خليفة,BIR ALI KHELIFFA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,220408,101177.0,2,قفصة,GAFSA,بلخير,BELKHIR,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,800000,170336.0,13,المهدية,MAHDIA,الشابة,CHEBBA,الصيد البحري,PECHE,جويلية,juill.,2018,SQL Results
+1,55660,6973.0,1,صفاقس,SFAXE,المحرس,MAHRES,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,224033,78168.0,1,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,73000,36789.0,3,بنزرت,BIZERTE,العا لية,ELALIYA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,54103,6835.0,1,صفاقس,SFAXE,صفاقس الجنوبية,SFAXE SUD,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,83425,27808.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,46485,15495.0,1,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+3,356782,133280.0,2,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,175000,24720.0,1,المنستير,MOUNASTIR,الوردانين,WIRDANIN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,49076,6189.0,1,منــوبة,MANOUBA,البطان,EL BATAN,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,63500,33683.0,1,المنستير,MOUNASTIR,البقا لطة,BKALTA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,42000,10369.0,1,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,62000,29386.0,1,المهدية,MAHDIA,المهدية,MAHDIA,الفلاحي,AGRICULTURE,جويلية,juill.,2017,SQL Results
+1,79000,40973.0,1,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,72980,36740.0,1,صفاقس,SFAXE,المحرس,MAHRES,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,73890,44334.0,7,منــوبة,MANOUBA,طبربة,TOUBOURBA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,137000,65982.0,1,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,132614,59041.0,2,سليانة,SILIANA,بوعرادة,BOU ARADA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,1045000,396125.0,5,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+1,400000,73534.0,7,أريانة,ARIANA,سيدي ثابت,SID THABET,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,73667,8595.0,1,قابس,GABES,غنوش,GANOUCH,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,117045,36527.0,1,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,42000,14000.0,1,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,64400,9659.0,2,تــونس,TUNIS,حي الخضراء,CITE EL KHATHRA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+4,632816,180008.0,6,قابس,GABES,مارث,MARETH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+4,234700,27372.0,4,المنستير,MOUNASTIR,طبلبة,TBOLBA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+2,633129,136866.0,11,مدنين,MEDENINE,جرجيس,JERJIS,الصيد البحري,PECHE,أكتوبر,oct.,2017,SQL Results
+5,244200,64850.0,15,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,أكتوبر,oct.,2017,SQL Results
+1,78700,39350.0,1,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,55000,7626.0,1,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+2,163500,86149.0,10,المنستير,MOUNASTIR,بني حسان,BENI HASSEN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+3,258887,83956.0,3,توزر,TOZEUR,توزر,TOZEUR,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,159000,52235.0,2,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,361716,113107.0,3,قابس,GABES,قابس الجنوبية,GABES SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+17,1370000,440240.0,17,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+14,1133482,560411.0,14,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+2,142407,17541.0,2,مدنين,MEDENINE,حومة السوق,HOUMMET SOUK,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,1330000,517901.0,1,المهدية,MAHDIA,ملولش,MLOULECH,التحويل الأولي,PREMIERE TRANSFORMATION,فيفري,févr.,2018,SQL Results
+21,1796688,484515.0,21,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+6,396016,201631.0,6,الكاف,KEF,القصور,ELKSOUR,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,156400,52130.6666666667,2,باجة,BEJA,باجة الشما لية,BEJANORD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+4,307691,102563.0,4,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+6,567000,181741.0,6,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+2,139746,55848.0,2,سليانة,SILIANA,الكريب,EL KRIB,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,81985,45092.0,1,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+10,731000,259387.666666667,10,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+13,1000561,506242.0,14,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,148928,77699.0,2,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+4,302000,86227.0,4,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+6,469397,239911.0,6,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,266000,94481.0,3,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+13,1173708,436808.0,14,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+8,549000,176447.666666667,8,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+2,481000,244226.0,3,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,316500,123488.0,2,سليانة,SILIANA,مكثر,MAKTHER,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,119150,65534.0,2,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,263568,140839.0,3,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+5,279679,153825.0,5,القصرين,KASSERINE,تا لة,TELA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+5,249950,73006.0,5,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+4,474190,165377.0,6,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,1062000,261307.0,2,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+4,237702,71280.6666666667,4,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+2,124981,34664.0,2,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,التحويل الأولي,PREMIERE TRANSFORMATION,أكتوبر,oct.,2018,SQL Results
+1,69000,18922.6666666667,1,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,أوت,août,2018,SQL Results
+2,124000,13520.0,2,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+4,1005506,295674.0,14,جندوبة,JENDOUBA,بوسا لم,BOUSALEM,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+10,659184,360228.0,9,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,519000,229005.0,6,بنزرت,BIZERTE,ماطر,MATEUR,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,162000,84264.0,2,المنستير,MOUNASTIR,بني حسان,BENI HASSEN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,163874,89439.0,2,باجة,BEJA,باجة الجنوبية,BEJA SUD,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+4,296244,150251.0,4,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+7,443497,119191.0,6,توزر,TOZEUR,توزر,TOZEUR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,59000,16189.0,1,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+3,244000,78419.3333333333,3,القيروان,KAIROUAN,الشراردة,CHRARDA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+6,678432,212434.0,6,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,439000,222829.0,6,بنزرت,BIZERTE,ماطر,MATEUR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,44300,6435.0,1,المنستير,MOUNASTIR,جمال,JAMMEL,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+3,201106,81678.0,3,سيدي بوزيد,SIDI BOUZIDE,المزونة,ELMZOUNA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+4,415290,195555.0,4,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,198698,106038.0,1,جندوبة,JENDOUBA,بلطة بوعوان,BALTA BOU OUN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,106300,35079.0,3,الكاف,KEF,الدهماني,DAHMENI,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+2,112186,37395.3333333333,3,قفصة,GAFSA,السند,ESNAD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+5,245375,134957.0,5,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+1,90850,44404.0,1,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,56000,24941.0,3,المنستير,MOUNASTIR,جمال,JAMMEL,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+2,113000,53968.0,2,المنستير,MOUNASTIR,قصيبة المديوني,KSIBET ALMADYOUNI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,128000,9900.0,13,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الصيد البحري,PECHE,مارس,mars,2018,SQL Results
+3,57686,23657.0,3,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,274159,146098.0,3,القصرين,KASSERINE,تا لة,TELA,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+4,182358,74177.0,3,الكاف,KEF,السرس,SERS,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,110000,50150.0,1,بنزرت,BIZERTE,الغزالة,GZELA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,101393,33037.3333333333,1,توزر,TOZEUR,حزوة,HIZWA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+2,151000,46919.0,2,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,2569,959.0,3,بنزرت,BIZERTE,جرزونة,JARZOUNA,الصيد البحري,PECHE,سبتمبر,sept.,2017,SQL Results
+1,74300,37150.0,1,نابل,NABEUL,نابل,NABEUL,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+3,268000,133971.0,3,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+6,477000,153314.0,6,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+9,377633,206475.0,5,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,123700,34039.0,2,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,132000,54266.0,1,المنستير,MOUNASTIR,بنبلة,BENBLA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,207660,113796.0,3,جندوبة,JENDOUBA,غارالدماء,GAR DIMA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,311320,154410.0,2,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+4,290650,53318.6666666667,4,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+1,194313,81403.0,1,القصرين,KASSERINE,جدليان,JDELYAN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,191998,67210.0,2,منــوبة,MANOUBA,البطان,EL BATAN,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,6604,3100.0,1,الكاف,KEF,الجريصة,JERISSA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,198745,76662.0,3,قابس,GABES,قابس الجنوبية,GABES SUD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+5,453348,167471.0,6,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,182937,86523.0,4,قفصة,GAFSA,الرديف,ERDAYEF,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+6,398600,173489.0,6,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,654023,200756.333333333,4,توزر,TOZEUR,نفطة,NAFTA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,93500,24756.0,0,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الصيد البحري,PECHE,ماي,mai,2018,SQL Results
+3,684194,267498.666666667,11,قابس,GABES,الحامة,HAMMA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,116073,14951.0,2,قابس,GABES,قابس المدينة,GABES MEDINA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,209479,115215.0,3,جندوبة,JENDOUBA,جندوبة,JENDOUBA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,334124,161875.0,3,باجة,BEJA,باجة الجنوبية,BEJA SUD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,250617,100768.0,2,سليانة,SILIANA,العروسة,ALAROUSSA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,384525,203297.0,3,جندوبة,JENDOUBA,جندوبة,JENDOUBA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+4,274795,89679.0,4,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,144200,20955.0,2,المنستير,MOUNASTIR,الوردانين,WIRDANIN,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+3,388233,113018.0,3,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,التحويل الأولي,PREMIERE TRANSFORMATION,أكتوبر,oct.,2018,SQL Results
+1,108000,10931.0,1,سوسة,SOUSSE,سيدي الهاني,SIDI ELHANI,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,119242,65485.0,1,جندوبة,JENDOUBA,بلطة بوعوان,BALTA BOU OUN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+4,365679,180422.0,4,جندوبة,JENDOUBA,بوسا لم,BOUSALEM,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,61184,29434.0,1,نابل,NABEUL,حمام الغزاز,HAMMEM GZEZ,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,126902,33693.3333333333,2,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+3,122260,33980.3333333333,3,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,49906,12515.0,1,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,319053,117426.0,3,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,149558,44530.0,1,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,2088000,547664.0,4,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,299386,57253.0,3,جندوبة,JENDOUBA,فرنانة,FERNANA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,127946,32278.0,2,صفاقس,SFAXE,جبنيانة,JEBINYANA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,117000,37047.0,2,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,152764,50921.3333333333,2,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+5,297900,138397.0,6,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,136000,74800.0,2,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,168233,49090.3333333333,2,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,73050,24350.0,1,توزر,TOZEUR,دقاش,DGECH,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+2,2832000,909477.0,35,زغوان,ZAGHOUANE,الفحص,FAHS,الفلاحي,AGRICULTURE,أوت,août,2017,SQL Results
+3,187000,59669.0,3,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+7,412180,110727.0,7,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+2,194025,90589.0,2,سليانة,SILIANA,الكريب,EL KRIB,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,52427,13244.0,1,صفاقس,SFAXE,الحنشة,HANCHA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,635000,265148.0,5,قفصة,GAFSA,سيدي عيش,SIDI ICH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,61000,14913.0,1,المهدية,MAHDIA,شربان,CHERBEN,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+3,371000,181080.0,5,بنزرت,BIZERTE,بنزرت الجنوبية,BIZETE SUD,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,94500,47250.0,1,سليانة,SILIANA,بوعرادة,BOU ARADA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,6604,1969.0,1,الكاف,KEF,الجريصة,JERISSA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,148568,49522.6666666667,3,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,109050,36346.0,2,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,463000,108953.0,3,نابل,NABEUL,بني خلاد,BENI KHALLED,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,323877,120007.0,4,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,127621,70191.0,1,سليانة,SILIANA,الكريب,EL KRIB,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,55300,13856.0,1,صفاقس,SFAXE,الصخيرة,SKHIRA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+4,166769,91725.0,4,القصرين,KASSERINE,حاسي الفريد,HASSI ELFRID,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,101000,47876.0,1,تطاوين,TATAWINE,غمراسن,GOMRASSEN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,192159,100683.0,2,القصرين,KASSERINE,العيون,EL AYOUN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,168466,42552.6666666667,3,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,التحويل الأولي,PREMIERE TRANSFORMATION,نوفمبر,nov.,2018,SQL Results
+1,75000,41221.0,1,تطاوين,TATAWINE,غمراسن,GOMRASSEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,44000,6255.0,1,المنستير,MOUNASTIR,بنبلة,BENBLA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,61000,6710.0,1,سوسة,SOUSSE,مساكن,MSAKEN,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,83921,45699.0,1,صفاقس,SFAXE,المحرس,MAHRES,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,40813,5479.0,1,زغوان,ZAGHOUANE,زغوان,ZAGOUAN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,158781,83094.0,2,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,327500,41738.0,4,بن عروس,BEN AROUSSE,مرناق,MORNAG,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,75635,8880.0,1,قابس,GABES,غنوش,GANOUCH,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+4,247000,27634.0,4,المهدية,MAHDIA,الشابة,CHEBBA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+2,1970000,422656.0,42,نابل,NABEUL,الهوارية,HAWARIYA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+4,284486,137525.0,4,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,422000,137652.666666667,5,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,44700,14900.0,1,جندوبة,JENDOUBA,طبرقة,TABARKA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,6600,3910.0,0,المنستير,MOUNASTIR,الوردانين,WIRDANIN,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+5,1069732,292320.0,36,سليانة,SILIANA,الكريب,EL KRIB,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,91000,32125.1414291877,1,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,72729,40000.0,1,صفاقس,SFAXE,الغريبة,ELGRIBA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,195810,59889.3189920897,4,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,التحويل الأولي,PREMIERE TRANSFORMATION,أكتوبر,oct.,2018,SQL Results
+1,43279,6492.0,1,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+4,543015,230368.0,6,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,257886,84053.0,3,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,222405,111163.0,2,الكاف,KEF,السرس,SERS,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,108000,34900.0,0,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,53983,6820.0,1,قابس,GABES,المطوية,EL METWEYA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+2,99900,53260.0,1,المنستير,MOUNASTIR,المكنين,MEKNIN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,163434,60036.0,2,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,90057,47664.0,1,باجة,BEJA,قبلاط,KBELLAT,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,230000,82751.0,2,باجة,BEJA,مجاز الباب,MJEZ ELBEB,التحويل الأولي,PREMIERE TRANSFORMATION,فيفري,févr.,2018,SQL Results
+1,32900,9870.0,1,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,8500,4675.0,0,مدنين,MEDENINE,ميدون,MIDOUN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,58202,14999.0,1,مدنين,MEDENINE,بن قردان,BEN GERDAN,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,138000,9315.0,2,بنزرت,BIZERTE,بنزرت الجنوبية,BIZETE SUD,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,319000,159050.0,1,سليانة,SILIANA,الكريب,EL KRIB,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+4,319000,104309.0,4,القيروان,KAIROUAN,الشراردة,CHRARDA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,123618,39279.0,1,جندوبة,JENDOUBA,غارالدماء,GAR DIMA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,49000,7350.0,2,مدنين,MEDENINE,جرجيس,JERJIS,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,95000,49736.0,1,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,78525,26175.0,1,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,427000,114790.0,3,منــوبة,MANOUBA,طبربة,TOUBOURBA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,76400,11460.0,1,نابل,NABEUL,قرمبا لية,GROUMBELIA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,83113,44049.0,1,صفاقس,SFAXE,العامرة,EL AMRA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,127051,42350.3333333333,2,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,940000,453170.0,9,المهدية,MAHDIA,الجم,EL JEM,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+1,54500,6804.0,1,سوسة,SOUSSE,أكودة,AKOUDA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,55000,5980.0,1,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,92402,30553.0,2,قفصة,GAFSA,القطار,ALKATAR,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,102000,48483.0,2,المهدية,MAHDIA,أولاد الشامخ,AWLED CHAMEKH,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,77644,25879.0,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,79000,43450.0,1,الكاف,KEF,الطويرف,Touiref,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,155928,51976.0,2,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,74760,24920.0,1,جندوبة,JENDOUBA,بلطة بوعوان,BALTA BOU OUN,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,2400000,547344.0,3,صفاقس,SFAXE,الحنشة,HANCHA,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+1,89679,36912.0,1,توزر,TOZEUR,نفطة,NAFTA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,56460,7074.0,1,مدنين,MEDENINE,حومة السوق,HOUMMET SOUK,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,1700000,223645.0,7,نابل,NABEUL,قربة,KOURBA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,145500,78423.0,2,المنستير,MOUNASTIR,زرمدين,ZMERDIN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,161700,82702.0,2,المنستير,MOUNASTIR,المكنين,MEKNIN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,229700,92738.0,3,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,1500000,505745.0,28,المهدية,MAHDIA,الشابة,CHEBBA,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+3,514540,227909.0,5,باجة,BEJA,قبلاط,KBELLAT,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,98000,45204.0,2,المنستير,MOUNASTIR,بني حسان,BENI HASSEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,245000,57276.0,4,منــوبة,MANOUBA,البطان,EL BATAN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,117000,35864.0,3,بنزرت,BIZERTE,سجنان,SAJNEN,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,47700,13500.0,1,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,46553,5825.0,1,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,71100,23698.0,1,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,52000,13500.0,1,تطاوين,TATAWINE,الصمّار,SAMMAR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,540000,270000.0,0,المنستير,MOUNASTIR,الساحلين,SAHLIN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,281000,140500.0,1,سليانة,SILIANA,مكثر,MAKTHER,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,62000,34100.0,1,تطاوين,TATAWINE,الذهيبة,THEHIBA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,3350000,920703.333333333,3,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,71000,23164.0,1,القيروان,KAIROUAN,عين جلولة,AIN JALOULA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,56017,18672.3333333333,1,قفصة,GAFSA,بلخير,BELKHIR,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,1495000,539908.0,4,المهدية,MAHDIA,الشابة,CHEBBA,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,187000,62686.0,2,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,101000,33043.0,1,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,53483,6795.0,1,قابس,GABES,قابس المدينة,GABES MEDINA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,83000,27391.0,1,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,78000,9600.0,1,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,التحويل الأولي,PREMIERE TRANSFORMATION,سبتمبر,sept.,2018,SQL Results
+1,1024000,375971.0,15,المنستير,MOUNASTIR,زرمدين,ZMERDIN,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+3,376984,166079.0,2,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,484349,243996.0,5,نابل,NABEUL,قربة,KOURBA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,157751,65020.0,2,جندوبة,JENDOUBA,غارالدماء,GAR DIMA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,129000,48248.0,1,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,75200,31755.0,2,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,52911,14854.6666666667,1,قفصة,GAFSA,سيدي عيش,SIDI ICH,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,1070000,320163.333333333,12,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,100000,32733.0,1,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,144200,72100.0,1,جندوبة,JENDOUBA,فرنانة,FERNANA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,67815,37298.0,1,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,59000,31571.0,1,تطاوين,TATAWINE,غمراسن,GOMRASSEN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,64200,35310.0,1,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,85000,44523.0,1,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,131000,33573.0,6,مدنين,MEDENINE,جرجيس,JERJIS,الصيد البحري,PECHE,جوان,juin,2018,SQL Results
+1,56980,31339.0,1,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,66341,19004.0,1,نابل,NABEUL,تاكلسة,TAKELSSA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,83000,27141.0,3,قفصة,GAFSA,القصر,EL KSSAR,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,100661,30338.0,15,جندوبة,JENDOUBA,طبرقة,TABARKA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,137000,14010.0,1,المنستير,MOUNASTIR,البقا لطة,BKALTA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,70400,23466.6666666667,1,قفصة,GAFSA,المظيلة,ELMTHILA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,46713,13121.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,المزونة,ELMZOUNA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,112906,36135.0,1,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,3150000,1021705.0,13,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,155768,48455.3333333333,2,سليانة,SILIANA,مكثر,MAKTHER,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,86000,45320.0,1,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,59000,19470.0,1,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+6,783704,319621.0,12,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,126992,36497.0,1,نابل,NABEUL,منزل بوزلفة,MANZEL BOUZALFA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+3,284000,116245.0,5,بنزرت,BIZERTE,أوتيك,UTIK,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+11,646935,297329.0,11,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+6,268953,80258.0,6,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+3,243472,103787.0,3,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,116000,34502.0,0,المنستير,MOUNASTIR,صيادة لمطة بوحجر,SAYADAT LAMTA BOUHJAR,الصيد البحري,PECHE,مارس,mars,2018,SQL Results
+5,433972,125190.0,7,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,1000000,140479.0,6,منــوبة,MANOUBA,المرناقية,MOURNAGIA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,54319,6805.0,1,مدنين,MEDENINE,ميدون,MIDOUN,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+2,984000,180303.0,26,المنستير,MOUNASTIR,صيادة لمطة بوحجر,SAYADAT LAMTA BOUHJAR,الصيد البحري,PECHE,ديسمبر,déc.,2017,SQL Results
+1,132000,48757.0,1,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+4,300000,159649.0,4,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,51864,14555.0,1,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+2,108800,59841.0,2,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+4,362933,109762.0,5,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+6,413000,210304.0,6,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+7,665998,216236.0,7,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+9,918298,373065.0,12,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+9,766000,319390.0,12,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,1758000,547515.0,8,المهدية,MAHDIA,شربان,CHERBEN,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,134118,73765.0,2,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,542017,258442.0,3,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+8,862562,390461.0,8,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+12,782300,382837.0,13,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,337414,128116.0,6,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,66506,17605.0,1,سليانة,SILIANA,الكريب,EL KRIB,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,177540,59180.0,2,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,71330,39232.0,0,نابل,NABEUL,قرمبا لية,GROUMBELIA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+4,751245,294458.0,6,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,129500,16944.0,2,المنستير,MOUNASTIR,طبلبة,TBOLBA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+12,1067400,297441.666666667,12,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,التحويل الأولي,PREMIERE TRANSFORMATION,أفريل,avr.,2018,SQL Results
+2,131106,33034.0,2,صفاقس,SFAXE,جبنيانة,JEBINYANA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+5,610000,304218.0,13,بنزرت,BIZERTE,سجنان,SAJNEN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,1200000,366070.0,13,باجة,BEJA,تبرسق,TBORSOK,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+9,657865,237256.0,12,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,341000,124294.0,7,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,156000,80115.0,2,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,298762,142876.0,4,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+6,429000,139649.0,6,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,95843,52714.0,1,القصرين,KASSERINE,جدليان,JDELYAN,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,92000,18765.0,1,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+10,680782,233912.0,10,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,354754,172437.0,3,باجة,BEJA,باجة الجنوبية,BEJA SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,54172,13886.0,1,صفاقس,SFAXE,عقارب,AGAREB,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,59441,7449.0,1,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,51000,7063.0,1,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+12,1292117,504389.666666667,16,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,241445,131374.0,3,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,264779,88259.6666666667,3,جندوبة,JENDOUBA,بلطة بوعوان,BALTA BOU OUN,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+2,164982,65660.0,2,زغوان,ZAGHOUANE,الناظور,NATHOUR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,48747,14526.0,1,صفاقس,SFAXE,الغريبة,ELGRIBA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+3,206920,67233.3333333333,3,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,75000,21166.6666666667,1,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,187000,58420.0,1,المهدية,MAHDIA,السواسي,ESSWASSI,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,102698,29397.0,2,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+8,413195,190662.0,10,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+4,275162,147979.0,4,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,2670000,319594.0,6,سوسة,SOUSSE,هرقلة,HIRGLA,تربية الأحياء المائية,AQUACULTURE,نوفمبر,nov.,2017,SQL Results
+3,126719,67051.0,3,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+5,282131,154394.0,4,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+2,96790,53235.0,2,القصرين,KASSERINE,العيون,EL AYOUN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,198339,79606.0,1,نابل,NABEUL,بني خيار,BENI KHYAR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+7,509000,162639.0,7,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+2,166360,87736.0,2,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+12,704841,294166.0,12,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,60000,16766.0,2,بنزرت,BIZERTE,جومين,JOUMIN,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+7,600304,195902.0,7,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+6,445492,227023.0,6,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,82479,27493.0,1,جندوبة,JENDOUBA,غارالدماء,GAR DIMA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,52000,9747.0,0,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الصيد البحري,PECHE,أفريل,avr.,2018,SQL Results
+1,193000,56975.0,3,المنستير,MOUNASTIR,صيادة لمطة بوحجر,SAYADAT LAMTA BOUHJAR,الصيد البحري,PECHE,أفريل,avr.,2018,SQL Results
+1,92000,48178.0,1,المنستير,MOUNASTIR,جمال,JAMMEL,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+5,444318,185862.0,9,بنزرت,BIZERTE,بنزرت الجنوبية,BIZETE SUD,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,117000,37601.6666666667,2,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+2,184000,96696.0,2,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,81330,44732.0,1,سليانة,SILIANA,قعفور,GAAFOUR,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,158838,42004.0,7,مدنين,MEDENINE,جرجيس,JERJIS,الصيد البحري,PECHE,أفريل,avr.,2018,SQL Results
+4,317493,173504.0,4,صفاقس,SFAXE,الغريبة,ELGRIBA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,62000,8872.0,1,المهدية,MAHDIA,بو مرداس,BOU MERDES,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+3,204822,68274.0,3,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+4,403950,182117.0,5,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,715252,184677.0,4,قابس,GABES,قابس الجنوبية,GABES SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,90685,23944.0,4,مدنين,MEDENINE,بن قردان,BEN GERDAN,الصيد البحري,PECHE,أفريل,avr.,2018,SQL Results
+5,575500,214841.0,9,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+3,8094000,879072.0,7,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,55450,18483.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+2,253155,81750.0,2,قابس,GABES,قابس الجنوبية,GABES SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,46085,15361.6666666667,1,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,378000,52240.0,12,سوسة,SOUSSE,القصيبة الزاوية الثريات,KSIBET EZAWYA ETHRAYAT,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,88508,46963.0,1,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,295000,127688.0,3,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+5,462700,225408.0,10,بنزرت,BIZERTE,جومين,JOUMIN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,61799,20597.0,1,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+2,162011,73021.0,2,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,136000,67590.0,1,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+4,265416,110160.0,4,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,2600,1430.0,1,الكاف,KEF,الطويرف,Touiref,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,48000,5905.0,1,تــونس,TUNIS,سيدي حسين,SID HSSIN,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,96000,10819.0,1,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,218000,84541.0,3,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,62068,9310.0,1,نابل,NABEUL,منزل بوزلفة,MANZEL BOUZALFA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,1397000,462941.0,2,المهدية,MAHDIA,هبيرة,HBIRA,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,80000,37519.0,1,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+4,360967,198533.0,4,القصرين,KASSERINE,العيون,EL AYOUN,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+4,261884,85354.0,4,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,570000,65795.0,10,أريانة,ARIANA,أريانة المدينة,ARIANA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+8,433000,223193.0,8,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,135646,45215.3333333333,2,قفصة,GAFSA,بلخير,BELKHIR,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,64000,32953.0,1,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+7,630000,337895.0,7,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+5,2469245,644918.0,15,زغوان,ZAGHOUANE,الفحص,FAHS,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,271077,99992.0,5,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,75000,40293.0,2,تطاوين,TATAWINE,غمراسن,GOMRASSEN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+4,389000,154449.0,5,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,44000,13791.0,1,المهدية,MAHDIA,هبيرة,HBIRA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+3,638000,294660.0,7,بنزرت,BIZERTE,جومين,JOUMIN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,78763,43321.0,1,نابل,NABEUL,قليبية,KLIBYA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,141338,47112.6666666667,2,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,95263,31754.3333333333,1,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,142978,41841.0,2,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,تربية الأحياء المائية,AQUACULTURE,جويلية,juill.,2018,SQL Results
+2,926000,297438.0,17,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,1341943,502024.0,7,سليانة,SILIANA,مكثر,MAKTHER,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,2857000,793763.333333333,9,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+4,461336,200975.0,6,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+6,347686,99676.0,6,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+3,375450,194873.0,6,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,13500,4050.0,0,مدنين,MEDENINE,جرجيس,JERJIS,تربية الأحياء المائية,AQUACULTURE,سبتمبر,sept.,2018,SQL Results
+1,59902,13500.0,1,توزر,TOZEUR,دقاش,DGECH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+4,304500,114840.0,5,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,3930000,558925.0,26,أريانة,ARIANA,أريانة المدينة,ARIANA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+4,436000,177788.0,6,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,83773,27922.0,1,سليانة,SILIANA,قعفور,GAAFOUR,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,338000,54267.0,2,زغوان,ZAGHOUANE,بئر مشارقة,BIR MCHARGA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,216221,69281.0,4,نابل,NABEUL,تاكلسة,TAKELSSA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,84000,34768.0,1,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الفلاحي,AGRICULTURE,أوت,août,2017,SQL Results
+1,64750,21582.0,1,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,332080,172977.0,3,باجة,BEJA,تستور,TASTOUR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,54000,29700.0,1,القصرين,KASSERINE,حيدرة,HIDRA,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+3,893000,318154.0,6,بنزرت,BIZERTE,بنزرت الجنوبية,BIZETE SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,109604,29731.6666666667,2,توزر,TOZEUR,دقاش,DGECH,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,53388,26694.0,1,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+3,314157,167738.0,3,الكاف,KEF,الكاف الغربية,EL KEF OUSET,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,282531,155393.0,3,باجة,BEJA,باجة الشما لية,BEJANORD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,288000,91667.0,2,سيدي بوزيد,SIDI BOUZIDE,المزونة,ELMZOUNA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,459617,246737.0,6,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,174845,59730.0,2,منــوبة,MANOUBA,واد الليل,WAD ELIL,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,66000,21850.0,1,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,68359,22559.0,1,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+5,203373,92558.0,6,القصرين,KASSERINE,حاسي الفريد,HASSI ELFRID,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+4,285000,153383.0,4,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,72368,24893.0,2,سليانة,SILIANA,كسرى,KESSRA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,433900,164541.0,4,أريانة,ARIANA,قلعة الأندلس,KALAT AL ANDALOUS,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,82699,27566.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,503000,201702.0,0,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+1,83000,15422.0,1,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+4,1285000,258486.0,5,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,48000,15183.0,1,القيروان,KAIROUAN,العلا,AL ALAA,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,77325,42528.0,1,قابس,GABES,قابس الغربية,GABES WEST,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,48000,13020.0,1,المهدية,MAHDIA,أولاد الشامخ,AWLED CHAMEKH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,187522,34603.0,1,القصرين,KASSERINE,جدليان,JDELYAN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,260000,78595.3333333333,2,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+3,286000,156365.0,3,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,151000,20633.0,2,تــونس,TUNIS,سيدي حسين,SID HSSIN,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,150000,47251.0,1,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+3,141000,47208.0,2,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,89705,23215.0,1,نابل,NABEUL,الهوارية,HAWARIYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,60060,33034.0,1,مدنين,MEDENINE,أجيم,AJIM,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+1,47000,14337.0,1,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+3,173235,95281.0,3,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,68500,13500.0,1,الكاف,KEF,قلعة سنان,KALAT SINAN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,143000,53889.0,1,تــونس,TUNIS,حلق الوادي,LA GOULETTE,الصيد البحري,PECHE,أفريل,avr.,2018,SQL Results
+3,239743,71700.6666666667,4,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,التحويل الأولي,PREMIERE TRANSFORMATION,أفريل,avr.,2018,SQL Results
+2,230400,120412.0,4,بنزرت,BIZERTE,منزل بورقيبة,MANZEL BOURGIBA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,1230000,525161.0,13,المنستير,MOUNASTIR,جمال,JAMMEL,التحويل الأولي,PREMIERE TRANSFORMATION,سبتمبر,sept.,2018,SQL Results
+4,268104,125959.0,4,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,380000,190000.0,1,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,14600,2015.0,1,تــونس,TUNIS,المرسى,LA MARSA,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,979000,266221.666666667,4,القصرين,KASSERINE,العيون,EL AYOUN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,274384,84943.0,3,نابل,NABEUL,بني خلاد,BENI KHALLED,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,73817,36909.0,1,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,50932,16668.3333333333,1,توزر,TOZEUR,توزر,TOZEUR,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,1560000,543459.0,14,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,التحويل الأولي,PREMIERE TRANSFORMATION,نوفمبر,nov.,2018,SQL Results
+1,126484,42161.3333333333,1,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+2,127988,42659.0,2,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,40829,12248.0,1,صفاقس,SFAXE,العامرة,EL AMRA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+3,342500,137326.0,4,تطاوين,TATAWINE,تطاوين الجنوبية,TATAWIN SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,95000,46700.0,1,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,5000,2642.0,1,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,41950,20975.0,1,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,170802,56934.0,2,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,83420,50052.0,1,سليانة,SILIANA,الكريب,EL KRIB,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,77557,22123.0,1,توزر,TOZEUR,دقاش,DGECH,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,102654,29677.0,1,سليانة,SILIANA,سليانة الجنوبية,SILIANA SUD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,379000,70310.0,3,نابل,NABEUL,سليمان,SLIMAN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,343700,33371.0,0,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,سبتمبر,sept.,2018,SQL Results
+1,500000,91731.0,5,نابل,NABEUL,الميدة,ELMIDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,48407,13500.0,1,قابس,GABES,مارث,MARETH,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,92885,46443.0,1,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,51280,15384.0,1,قابس,GABES,الحامة,HAMMA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,200000,67661.0,4,نابل,NABEUL,قليبية,KLIBYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,572000,190666.666666667,1,سليانة,SILIANA,سليانة الجنوبية,SILIANA SUD,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,199872,60211.0,6,مدنين,MEDENINE,حومة السوق,HOUMMET SOUK,الصيد البحري,PECHE,فيفري,févr.,2018,SQL Results
+1,67203,22401.0,1,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,2000000,543545.0,15,زغوان,ZAGHOUANE,بئر مشارقة,BIR MCHARGA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,118621,62973.0,2,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,47607,13500.0,1,قفصة,GAFSA,الرديف,ERDAYEF,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,700000,207556.333333333,9,القصرين,KASSERINE,سبيبة,SBIBA,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+1,90000,45925.0,1,بنزرت,BIZERTE,العا لية,ELALIYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,375000,109969.0,13,سوسة,SOUSSE,بوفيشة,BOUFICHA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,175000,45029.0,2,بنزرت,BIZERTE,غار الملح,GAR EL MELH,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,59096,16588.0,1,الكاف,KEF,الكاف الغربية,EL KEF OUSET,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,310000,98933.3333333333,1,الكاف,KEF,الدهماني,DAHMENI,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,108130,33320.0,3,قابس,GABES,قابس المدينة,GABES MEDINA,الصيد البحري,PECHE,فيفري,févr.,2018,SQL Results
+1,63050,21016.6666666667,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,94612,27321.0,3,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,75000,16563.0,1,بنزرت,BIZERTE,سجنان,SAJNEN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,151585,46478.0,2,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,79000,26008.3333333333,1,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,2118000,302581.0,11,بنزرت,BIZERTE,أوتيك,UTIK,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,211000,38665.0,3,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,119546,52627.0,2,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,77000,9707.0,1,تــونس,TUNIS,حلق الوادي,LA GOULETTE,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+2,152000,47205.6666666667,2,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+3,315000,157219.0,6,بنزرت,BIZERTE,ماطر,MATEUR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+13,978876,499667.0,13,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,66600,9291.0,1,المنستير,MOUNASTIR,البقا لطة,BKALTA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,78154,25366.3333333333,1,قفصة,GAFSA,السند,ESNAD,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+4,418711,136353.333333333,4,توزر,TOZEUR,نفطة,NAFTA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+8,518729,268898.0,8,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+8,796530,288491.0,13,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+4,386500,154804.0,10,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,510000,136737.0,4,صفاقس,SFAXE,بئر علي بن خليفة,BIR ALI KHELIFFA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+5,611736,262249.0,8,باجة,BEJA,باجة الجنوبية,BEJA SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+3,290000,139966.0,3,المهدية,MAHDIA,هبيرة,HBIRA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+4,304711,136097.0,4,الكاف,KEF,الدهماني,DAHMENI,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+3,184000,96641.0,3,تطاوين,TATAWINE,الصمّار,SAMMAR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+5,402000,162250.0,5,القيروان,KAIROUAN,الشراردة,CHRARDA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+5,320975,103693.666666667,5,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,92611,29895.0,1,زغوان,ZAGHOUANE,الناظور,NATHOUR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+3,493536,226708.0,3,قابس,GABES,المطوية,EL METWEYA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,1607000,528119.0,12,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,التحويل الأولي,PREMIERE TRANSFORMATION,مارس,mars,2018,SQL Results
+7,682554,256243.0,8,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,116000,50724.0,1,المهدية,MAHDIA,هبيرة,HBIRA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+8,486425,267537.0,7,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+10,721328,334626.0,12,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,245235,112899.0,4,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,155605,51425.3333333333,2,توزر,TOZEUR,توزر,TOZEUR,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+8,655164,310624.0,9,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+4,316000,115831.0,5,تطاوين,TATAWINE,تطاوين الجنوبية,TATAWIN SUD,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,419257,158948.0,4,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,589000,234341.0,8,بنزرت,BIZERTE,ماطر,MATEUR,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+5,364880,200686.0,5,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+6,557000,227357.0,7,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,72000,34233.0,1,تطاوين,TATAWINE,الصمّار,SAMMAR,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+5,469484,196337.0,6,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+5,542738,254541.0,6,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,49098,12404.0,1,قبلي,KEBELLI,رجيم معتوق,ٌRegim Maatoug,التحويل الأولي,PREMIERE TRANSFORMATION,أكتوبر,oct.,2018,SQL Results
+12,792565,304350.0,13,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,55298,6928.0,1,قابس,GABES,غنوش,GANOUCH,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,137200,45733.3333333333,2,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+5,398000,128235.0,5,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+4,363730,127030.0,5,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,222088,70410.6666666667,3,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,171503,55736.0,3,قابس,GABES,الحامة,HAMMA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,136000,41396.0,2,المهدية,MAHDIA,السواسي,ESSWASSI,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+3,178000,58461.6666666667,3,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+11,723848,352704.0,9,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+5,487500,57525.0,5,المنستير,MOUNASTIR,طبلبة,TBOLBA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+3,299699,134555.0,3,قبلي,KEBELLI,الفوار,ELFAWAR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,107000,31175.0,1,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,569000,163546.0,5,نابل,NABEUL,قليبية,KLIBYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+7,573602,274130.0,7,القصرين,KASSERINE,حاسي الفريد,HASSI ELFRID,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,83751,46063.0,1,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,158968,52468.6666666667,2,توزر,TOZEUR,توزر,TOZEUR,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+6,773654,316596.0,6,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+6,332253,76962.3333333333,6,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,التحويل الأولي,PREMIERE TRANSFORMATION,أكتوبر,oct.,2018,SQL Results
+2,210750,110365.0,2,سليانة,SILIANA,سليانة الجنوبية,SILIANA SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+4,325052,96012.0,3,توزر,TOZEUR,توزر,TOZEUR,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,110000,30481.3333333333,2,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,37000,10101.0,1,تطاوين,TATAWINE,غمراسن,GOMRASSEN,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,53170,17721.0,1,القصرين,KASSERINE,سبيبة,SBIBA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,52268,6602.0,1,قابس,GABES,قابس المدينة,GABES MEDINA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+5,619055,292129.0,5,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,92362,50799.0,1,نابل,NABEUL,منزل تميم,MANZEL TMIM,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,98098,53953.0,1,نابل,NABEUL,الهوارية,HAWARIYA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+7,341562,46270.0,7,قابس,GABES,غنوش,GANOUCH,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+4,290000,88921.3333333333,4,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,42150,23183.0,1,قفصة,GAFSA,الرديف,ERDAYEF,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,170000,87700.0,3,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,286738,146435.0,4,باجة,BEJA,باجة الجنوبية,BEJA SUD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,328000,166252.0,3,بنزرت,BIZERTE,منزل بورقيبة,MANZEL BOURGIBA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+3,160266,43172.0,3,صفاقس,SFAXE,جبنيانة,JEBINYANA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,40450,20575.0,0,منــوبة,MANOUBA,برج العامري,BOURJ EL AMRI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,105000,15750.0,2,المهدية,MAHDIA,الشابة,CHEBBA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+8,630165,333681.0,8,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+2,131000,69805.0,2,المنستير,MOUNASTIR,جمال,JAMMEL,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+8,828642,360521.0,10,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+6,476300,168210.0,7,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,135583,60328.0,2,سليانة,SILIANA,بوعرادة,BOU ARADA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,254000,35443.0,4,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+6,597524,179969.0,7,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,47012,13163.0,1,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,54267,14850.0,1,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,68500,13500.0,1,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,202722,99306.0,3,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,106100,53050.0,2,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,52300,9226.0,0,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,ماي,mai,2018,SQL Results
+3,246000,81595.0,3,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,34300,18526.0,0,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الصيد البحري,PECHE,جويلية,juill.,2018,SQL Results
+1,71000,39050.0,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+7,672999,271267.0,7,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,202506,108699.0,2,جندوبة,JENDOUBA,واد مليز,WAD MLIZ,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,82200,27400.0,1,قفصة,GAFSA,القصر,EL KSSAR,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+2,19254575,1489611.0,231,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,88386,29462.0,1,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,53000,15703.0,1,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+5,480129,172807.0,6,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,87575,28752.3333333333,1,باجة,BEJA,عمدون,AMDOUN,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,1350000,526262.0,11,باجة,BEJA,قبلاط,KBELLAT,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,7000,2100.0,0,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الصيد البحري,PECHE,نوفمبر,nov.,2017,SQL Results
+4,222600,114775.0,4,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,88600,40700.0,1,صفاقس,SFAXE,جبنيانة,JEBINYANA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,1586000,435420.0,13,الكاف,KEF,الدهماني,DAHMENI,الفلاحي,AGRICULTURE,أوت,août,2017,SQL Results
+1,80487,25745.6666666667,1,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,61749,32881.0,1,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,111046,37015.3333333333,1,قبلي,KEBELLI,رجيم معتوق,ٌRegim Maatoug,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,112000,46967.0,1,المهدية,MAHDIA,هبيرة,HBIRA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+4,338826,186354.0,4,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,258142,141295.0,3,الكاف,KEF,القصور,ELKSOUR,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,128039,46210.0,3,قابس,GABES,مارث,MARETH,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,86792,11793.0,3,مدنين,MEDENINE,حومة السوق,HOUMMET SOUK,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,920000,230040.0,4,المهدية,MAHDIA,بو مرداس,BOU MERDES,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+2,133637,44545.6666666667,3,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,10500,1161.0,1,بنزرت,BIZERTE,بنزرت الشما لية,BIZETE NORD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+4,588388,187063.0,5,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,84000,45238.0,1,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+5,397000,197404.0,6,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,34517,18984.0,1,قابس,GABES,قابس الجنوبية,GABES SUD,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,111880,31145.0,2,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+3,308060,137151.0,4,زغوان,ZAGHOUANE,الناظور,NATHOUR,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+4,343264,130973.0,5,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,2745000,730551.0,8,منــوبة,MANOUBA,برج العامري,BOURJ EL AMRI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,164253,41240.0,3,صفاقس,SFAXE,جبنيانة,JEBINYANA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+2,153000,45914.0,2,المهدية,MAHDIA,شربان,CHERBEN,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,21000,10911.0,1,سوسة,SOUSSE,سيدي الهاني,SIDI ELHANI,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,53650,17883.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,92978,30764.0,1,القصرين,KASSERINE,تا لة,TELA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,180000,87616.0,2,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,9670000,1300980.0,14,المنستير,MOUNASTIR,طبلبة,TBOLBA,تربية الأحياء المائية,AQUACULTURE,ديسمبر,déc.,2018,SQL Results
+1,52093,6580.0,1,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,459990,171543.0,3,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,62300,20765.0,1,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,56000,6879.0,1,سوسة,SOUSSE,هرقلة,HIRGLA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+4,279590,110196.0,4,الكاف,KEF,السرس,SERS,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,1347000,524264.0,4,المهدية,MAHDIA,أولاد الشامخ,AWLED CHAMEKH,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+2,169000,91314.0,2,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,294000,25478.0,4,المنستير,MOUNASTIR,طبلبة,TBOLBA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,74305,40869.0,1,زغوان,ZAGHOUANE,صواف,SAWAF,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,106947,35649.0,1,توزر,TOZEUR,دقاش,DGECH,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,2912000,541805.0,3,المنستير,MOUNASTIR,المكنين,MEKNIN,التحويل الأولي,PREMIERE TRANSFORMATION,مارس,mars,2018,SQL Results
+5,2197481,427378.0,16,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,68901,36197.0,2,قفصة,GAFSA,بلخير,BELKHIR,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,145540,69461.0,3,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+2,222139,87109.0,1,نابل,NABEUL,الحمامات,HAMMAMET,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,124729,61983.0,2,جندوبة,JENDOUBA,غارالدماء,GAR DIMA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,130035,40743.0,2,باجة,BEJA,باجة الشما لية,BEJANORD,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+2,257000,72902.0,19,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,نوفمبر,nov.,2018,SQL Results
+3,176298,48971.6666666667,3,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,58000,14093.0,1,المهدية,MAHDIA,أولاد الشامخ,AWLED CHAMEKH,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+4,324598,168037.0,4,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,53278,28465.0,1,نابل,NABEUL,قرمبا لية,GROUMBELIA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,1150000,418272.0,4,المهدية,MAHDIA,المهدية,MAHDIA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,136290,74960.0,2,صفاقس,SFAXE,بئر علي بن خليفة,BIR ALI KHELIFFA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,81000,26660.0,1,القيروان,KAIROUAN,السبيخة,SBIKHA,التحويل الأولي,PREMIERE TRANSFORMATION,نوفمبر,nov.,2017,SQL Results
+1,61080,9160.0,1,قابس,GABES,المطوية,EL METWEYA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,73800,10843.0,1,المنستير,MOUNASTIR,طبلبة,TBOLBA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,126000,48886.0,13,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الصيد البحري,PECHE,نوفمبر,nov.,2017,SQL Results
+1,60000,6672.0,1,المهدية,MAHDIA,الشابة,CHEBBA,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+2,220122,92972.0,3,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,1654000,529109.0,10,المهدية,MAHDIA,الجم,EL JEM,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+2,173315,95322.0,2,القصرين,KASSERINE,تا لة,TELA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,65350,21781.0,1,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,22915,7638.33333333333,1,جندوبة,JENDOUBA,جندوبة الشما لية,JENDOUBA NORD,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,310000,154450.0,1,بنزرت,BIZERTE,الغزالة,GZELA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,134000,43311.6666666667,2,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,53507,6759.0,1,صفاقس,SFAXE,المحرس,MAHRES,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,67000,8290.0,2,بنزرت,BIZERTE,بنزرت الشما لية,BIZETE NORD,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,197000,56603.0,2,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,53000,7321.0,1,المهدية,MAHDIA,ملولش,MLOULECH,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,199000,57912.0,1,سليانة,SILIANA,قعفور,GAAFOUR,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,163000,69638.0,2,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,227916,64623.6666666667,3,جندوبة,JENDOUBA,جندوبة,JENDOUBA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,86263,28754.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,63000,19733.3333333333,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+3,215137,87414.0,4,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,121313,66722.0,2,قفصة,GAFSA,القطار,ALKATAR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,162912,82110.0,2,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,43500,14500.0,1,قفصة,GAFSA,القصر,EL KSSAR,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,101738,33152.3333333333,1,توزر,TOZEUR,حزوة,HIZWA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+6,435000,129098.333333333,4,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,77000,21823.0,1,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,62000,6805.0,1,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,51149,6460.0,1,صفاقس,SFAXE,طينة,TINA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,1329000,519000.0,3,المنستير,MOUNASTIR,بني حسان,BENI HASSEN,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,80510,11957.0,3,نابل,NABEUL,قليبية,KLIBYA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,80000,43617.0,1,سوسة,SOUSSE,سيدي الهاني,SIDI ELHANI,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,197400,52720.0,1,صفاقس,SFAXE,بئر علي بن خليفة,BIR ALI KHELIFFA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,42592,6389.0,1,نابل,NABEUL,منزل بوزلفة,MANZEL BOUZALFA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,74000,24184.0,1,القيروان,KAIROUAN,عين جلولة,AIN JALOULA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,54000,8097.0,1,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,50000,23736.0,1,سوسة,SOUSSE,القلعة الصغرى,KALAA SOUGRA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,63510,21170.0,1,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+2,215542,94765.0,2,زغوان,ZAGHOUANE,بئر مشارقة,BIR MCHARGA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,95200,52359.0,1,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,30030,9909.0,1,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,88634,48068.0,2,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+4,309190,170056.0,4,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,83079,20427.0,1,جندوبة,JENDOUBA,واد مليز,WAD MLIZ,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,5940,1782.0,1,القصرين,KASSERINE,القصرين الشما لية,KASSERIN NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,211982,51004.0,2,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,101444,13951.0,2,قابس,GABES,غنوش,GANOUCH,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,209800,108306.0,3,المنستير,MOUNASTIR,الوردانين,WIRDANIN,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,66500,36575.0,1,منــوبة,MANOUBA,المرناقية,MOURNAGIA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,60100,33055.0,1,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,100000,28239.0,6,صفاقس,SFAXE,قرقنة,KAREKNA,الصيد البحري,PECHE,نوفمبر,nov.,2017,SQL Results
+2,124834,16045.0,2,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الخدمات,SERVICE,أوت,août,2017,SQL Results
+2,187000,59971.0,2,القيروان,KAIROUAN,عين جلولة,AIN JALOULA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,69856,35121.0,1,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,103895,34000.0,1,الكاف,KEF,الكاف الشرقية,KEF EST,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,130000,17621.0,2,بنزرت,BIZERTE,راس الجبل,RAS JBEL,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,85900,12882.0,1,المنستير,MOUNASTIR,المكنين,MEKNIN,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,50944,7642.0,1,تــونس,TUNIS,حلق الوادي,LA GOULETTE,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,157999,61131.0,1,قابس,GABES,مارث,MARETH,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,88500,28929.3333333333,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,78899,19726.0,1,صفاقس,SFAXE,العامرة,EL AMRA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,47300,24805.0,1,المنستير,MOUNASTIR,المكنين,MEKNIN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,178500,53550.0,1,باجة,BEJA,باجة الجنوبية,BEJA SUD,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,66227,36425.0,1,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,102000,33924.6666666667,1,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,51400,17132.0,1,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,25773,3866.0,1,قابس,GABES,قابس الجنوبية,GABES SUD,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,56500,6750.0,1,المنستير,MOUNASTIR,البقا لطة,BKALTA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,2686000,525838.0,5,المهدية,MAHDIA,بو مرداس,BOU MERDES,التحويل الأولي,PREMIERE TRANSFORMATION,فيفري,févr.,2018,SQL Results
+1,105000,31047.0,1,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,46213,13500.0,1,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,4000000,758880.0,47,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,72000,39600.0,1,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,660000,149225.0,13,المهدية,MAHDIA,الشابة,CHEBBA,الصيد البحري,PECHE,مارس,mars,2018,SQL Results
+1,84000,36850.0,2,أريانة,ARIANA,رواد,RAWED,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,364000,97515.0,3,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,47000,15159.0,1,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,77200,19367.0,1,المهدية,MAHDIA,السواسي,ESSWASSI,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,128356,42785.3333333333,1,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,1022000,292058.333333333,15,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,56460,14148.0,1,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,113591,62475.0,1,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,71000,35500.0,1,الكاف,KEF,الجريصة,JERISSA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+8,662000,272440.0,9,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,71000,10104.0,1,سوسة,SOUSSE,كندار,KENDRA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+2,476212,168775.666666667,4,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,177000,86911.0,2,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+5,423621,140761.333333333,5,توزر,TOZEUR,توزر,TOZEUR,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+2,275244,68782.0,2,نابل,NABEUL,قربة,KOURBA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+4,286000,38083.0,4,المهدية,MAHDIA,المهدية,MAHDIA,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,287000,83528.0,3,توزر,TOZEUR,دقاش,DGECH,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,72790,40047.0,1,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,276000,79651.6666666667,2,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+9,859000,392951.0,10,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,91268,33976.0,2,القصرين,KASSERINE,حيدرة,HIDRA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,145000,41784.0,2,المهدية,MAHDIA,السواسي,ESSWASSI,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+7,483197,241381.0,7,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+3,327236,73832.3333333333,3,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+5,370800,83517.0,3,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,نوفمبر,nov.,2017,SQL Results
+6,707000,243508.0,8,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+5,483810,256749.0,5,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+8,477719,211133.0,8,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+2,122230,40110.0,3,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+3,328690,168970.0,3,باجة,BEJA,تستور,TASTOUR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+5,569064,145068.333333333,5,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,التحويل الأولي,PREMIERE TRANSFORMATION,أفريل,avr.,2018,SQL Results
+4,281637,91742.0,4,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+2,103214,32631.0,2,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+2,157067,86388.0,2,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+20,1902963,713911.0,28,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,1863000,314965.0,5,بنزرت,BIZERTE,العا لية,ELALIYA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+9,687766,355456.0,9,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+5,526626,184863.0,7,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,148000,78208.0,2,المهدية,MAHDIA,ملولش,MLOULECH,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,210939,69882.3333333333,2,توزر,TOZEUR,نفطة,NAFTA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+4,330211,114269.666666667,4,قبلي,KEBELLI,الفوار,ELFAWAR,التحويل الأولي,PREMIERE TRANSFORMATION,أفريل,avr.,2018,SQL Results
+1,67435,22478.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,111650,37157.3333333333,1,قبلي,KEBELLI,الفوار,ELFAWAR,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+6,329497,180512.0,5,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+4,284000,132624.0,4,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,70361,23453.6666666667,1,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,22383,6654.0,1,صفاقس,SFAXE,عقارب,AGAREB,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+6,730194,316185.0,11,قفصة,GAFSA,سيدي عيش,SIDI ICH,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+15,1578790,709611.0,15,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+23,1641622,676951.0,26,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,77000,25665.0,1,القيروان,KAIROUAN,عين جلولة,AIN JALOULA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+4,502000,225126.0,10,بنزرت,BIZERTE,الغزالة,GZELA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+4,281700,141361.0,5,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,74130,40772.0,1,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,51200,7451.0,1,المنستير,MOUNASTIR,الساحلين,SAHLIN,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+3,354250,136846.0,3,نابل,NABEUL,قربة,KOURBA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+5,533124,197436.0,6,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+5,262181,109898.0,5,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,52906,13271.0,1,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,209000,114004.0,3,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+3,426000,161620.0,3,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,317000,153908.0,0,باجة,BEJA,باجة الجنوبية,BEJA SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+4,218896,72235.0,4,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+11,849029,393130.0,10,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+12,881586,477053.0,12,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+4,417288,135018.0,6,قابس,GABES,الحامة,HAMMA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+2,170996,65306.0,2,جندوبة,JENDOUBA,جندوبة,JENDOUBA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+5,289979,147497.0,5,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,350580,116830.0,3,قبلي,KEBELLI,الفوار,ELFAWAR,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+4,1113454,236734.0,7,جندوبة,JENDOUBA,جندوبة,JENDOUBA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,347452,106339.0,2,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+6,489770,189136.0,9,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,92700,32386.0,2,سليانة,SILIANA,العروسة,ALAROUSSA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+10,665686,218540.0,12,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+3,137203,19329.0,3,مدنين,MEDENINE,جرجيس,JERJIS,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,1900000,510980.0,13,المنستير,MOUNASTIR,جمال,JAMMEL,التحويل الأولي,PREMIERE TRANSFORMATION,فيفري,févr.,2018,SQL Results
+2,543000,120354.0,26,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الصيد البحري,PECHE,فيفري,févr.,2018,SQL Results
+2,231989,97656.0,1,نابل,NABEUL,منزل بوزلفة,MANZEL BOUZALFA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,78250,43038.0,1,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,178461,86990.0,1,الكاف,KEF,نبر,NEBR,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,16078,8843.0,1,القصرين,KASSERINE,جدليان,JDELYAN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,55862,30724.0,1,القصرين,KASSERINE,القصرين الشما لية,KASSERIN NORD,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+1,53817,17939.0,1,توزر,TOZEUR,تمغزة,TAMAGZA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+8,591080,192198.666666667,8,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,43399,14530.0,1,جندوبة,JENDOUBA,واد مليز,WAD MLIZ,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,168600,92731.0,3,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,1800000,533732.0,18,المنستير,MOUNASTIR,الساحلين,SAHLIN,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+2,96187,36831.0,2,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,373754,161505.0,3,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,221115,93428.0,3,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,134000,43816.0,2,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+5,591208,281881.0,5,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,205000,66224.0,3,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+4,306775,100768.333333333,4,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+4,220476,85236.0,4,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,579000,238991.0,7,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,120350,40116.6666666667,2,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,98285,54057.0,1,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,175650,96608.0,3,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+8,519229,198252.0,9,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+6,955580,300756.0,8,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,196308,107970.0,2,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+7,528932,285912.0,7,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,262350,102149.0,3,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+2,151638,52455.0,3,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+5,660550,174314.0,5,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,99000,52737.0,5,سوسة,SOUSSE,النفيضة,NFIDHA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,374000,161963.0,4,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,59000,6958.0,1,المهدية,MAHDIA,الشابة,CHEBBA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+2,228903,53375.0,2,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+1,71180,39105.0,1,صفاقس,SFAXE,عقارب,AGAREB,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,45255,5706.0,1,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,36500,12165.0,1,الكاف,KEF,السرس,SERS,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,45500,15166.6666666667,1,قفصة,GAFSA,سيدي عيش,SIDI ICH,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,182000,88768.0,2,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+5,386000,124833.0,5,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+2,104473,52456.0,2,سليانة,SILIANA,كسرى,KESSRA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,176850,48598.0,1,قفصة,GAFSA,بلخير,BELKHIR,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+6,499521,274738.0,6,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,253012,85049.0,2,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,356353,142673.0,5,قفصة,GAFSA,سيدي عيش,SIDI ICH,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+5,440781,207214.0,9,بنزرت,BIZERTE,بنزرت الجنوبية,BIZETE SUD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,415802,108394.0,2,سليانة,SILIANA,الكريب,EL KRIB,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,145000,78045.0,2,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,21883,10941.0,1,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,128453,42388.0,2,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+2,134000,43835.0,2,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,55300,6928.0,1,مدنين,MEDENINE,ميدون,MIDOUN,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,157190,27065.0,4,الكاف,KEF,القصور,ELKSOUR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,244400,106583.0,4,تطاوين,TATAWINE,تطاوين الجنوبية,TATAWIN SUD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+4,373031,124343.666666667,4,قبلي,KEBELLI,الفوار,ELFAWAR,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+5,647500,279650.0,9,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,72830,24033.0,1,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,80000,22266.0,1,القيروان,KAIROUAN,عين جلولة,AIN JALOULA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,95608,37949.0,3,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,190000,21507.0,3,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,203879,23012.0,3,نابل,NABEUL,الهوارية,HAWARIYA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,51907,13500.0,1,قابس,GABES,مارث,MARETH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,103985,57192.0,1,صفاقس,SFAXE,عقارب,AGAREB,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,81000,43199.0,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,87550,29183.3333333333,1,توزر,TOZEUR,تمغزة,TAMAGZA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+5,508000,187331.0,6,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,134250,73837.0,2,صفاقس,SFAXE,عقارب,AGAREB,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,2400000,581352.0,29,سوسة,SOUSSE,النفيضة,NFIDHA,الفلاحي,AGRICULTURE,أوت,août,2017,SQL Results
+1,1500000,398388.0,12,سليانة,SILIANA,برقو,BERGOU,الفلاحي,AGRICULTURE,أوت,août,2017,SQL Results
+1,645633,315816.0,0,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,172280,56070.0,2,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+8,698000,287321.0,9,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,136825,65929.0,2,جندوبة,JENDOUBA,بوسا لم,BOUSALEM,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,55300,15394.0,1,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,673000,340238.333333333,4,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+3,237000,79877.0,5,المنستير,MOUNASTIR,البقا لطة,BKALTA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,2635844,610793.0,201,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,30000,16500.0,1,صفاقس,SFAXE,المحرس,MAHRES,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+4,350199,173620.0,4,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,307404,168977.0,3,قبلي,KEBELLI,رجيم معتوق,ٌRegim Maatoug,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,142000,42510.0,2,المهدية,MAHDIA,السواسي,ESSWASSI,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,111947,60794.0,1,توزر,TOZEUR,حزوة,HIZWA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,266000,116131.0,5,بنزرت,BIZERTE,منزل بورقيبة,MANZEL BOURGIBA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,51000,16792.0,1,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,128000,38772.6666666667,2,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,300000,92350.0,3,توزر,TOZEUR,دقاش,DGECH,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,141240,71034.0,2,سليانة,SILIANA,قعفور,GAAFOUR,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,3614000,566948.0,15,نابل,NABEUL,بوعرقوب,BOU ARGOUB,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+1,114500,17175.0,1,المنستير,MOUNASTIR,بنبلة,BENBLA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,527000,143821.0,2,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,101646,31112.0,1,القصرين,KASSERINE,حيدرة,HIDRA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,201949,81645.0,3,سيدي بوزيد,SIDI BOUZIDE,المزونة,ELMZOUNA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,62903,9350.0,1,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,39400,13133.3333333333,1,قفصة,GAFSA,السند,ESNAD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,83055,28860.0,1,نابل,NABEUL,بني خيار,BENI KHYAR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,86484,46855.0,1,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,114000,12987.0,2,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,91426,27000.0,2,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+3,315000,159214.0,4,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+5,265234,76732.0,5,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الخدمات,SERVICE,جانفي,janv.,2018,SQL Results
+1,29980,9893.0,2,زغوان,ZAGHOUANE,الفحص,FAHS,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,59000,8222.0,1,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+3,524030,151171.0,4,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,53364,6741.0,1,مدنين,MEDENINE,جرجيس,JERJIS,الخدمات,SERVICE,جانفي,janv.,2018,SQL Results
+1,82000,43780.0,1,المنستير,MOUNASTIR,طبلبة,TBOLBA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,17300,2175.0,0,المنستير,MOUNASTIR,قصيبة المديوني,KSIBET ALMADYOUNI,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+2,211821,47633.0,8,نابل,NABEUL,قرمبا لية,GROUMBELIA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+5,426252,172211.0,5,باجة,BEJA,نفزة,NEFZA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,86000,36109.0,0,بنزرت,BIZERTE,العا لية,ELALIYA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,1720000,520012.0,13,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,التحويل الأولي,PREMIERE TRANSFORMATION,ماي,mai,2018,SQL Results
+2,195156,41835.0,2,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,التحويل الأولي,PREMIERE TRANSFORMATION,أفريل,avr.,2018,SQL Results
+1,52778,13632.0,1,صفاقس,SFAXE,الغريبة,ELGRIBA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,352512,94382.6666666667,2,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+1,66139,27789.0,2,زغوان,ZAGHOUANE,الفحص,FAHS,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,160306,87497.0,2,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,159000,66311.0,2,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,3389,1864.0,1,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,123717,59279.0,2,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,181800,58617.0,2,نابل,NABEUL,بني خيار,BENI KHYAR,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,194313,85715.0,3,نابل,NABEUL,الحمامات,HAMMAMET,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,364000,100413.0,3,بنزرت,BIZERTE,بنزرت الجنوبية,BIZETE SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,157503,48523.0,2,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,40333,13370.0,1,الكاف,KEF,قلعة الخصبة,KALAA KHESBA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,104661,29685.6666666667,2,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,146000,77467.0,2,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,482000,117518.333333333,3,القصرين,KASSERINE,فريانة,FERYANA,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,162000,83647.0,2,المنستير,MOUNASTIR,جمال,JAMMEL,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+4,301158,150938.0,4,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+2,138000,47167.0,2,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,59652,16774.0,1,مدنين,MEDENINE,بن قردان,BEN GERDAN,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,63000,8198.0,1,المهدية,MAHDIA,المهدية,MAHDIA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,60938,6750.0,1,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,77978,42888.0,1,القصرين,KASSERINE,حيدرة,HIDRA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,69500,38225.0,1,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,207871,103936.0,1,سليانة,SILIANA,العروسة,ALAROUSSA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,119000,57819.0,2,المهدية,MAHDIA,بو مرداس,BOU MERDES,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,58000,19333.3333333333,1,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,97030,32343.0,1,الكاف,KEF,الجريصة,JERISSA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,431000,121055.0,10,سوسة,SOUSSE,بوفيشة,BOUFICHA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,55300,15394.6666666667,1,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,88000,43821.0,1,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,152750,61309.0,2,صفاقس,SFAXE,المحرس,MAHRES,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,268000,136134.0,4,بنزرت,BIZERTE,منزل بورقيبة,MANZEL BOURGIBA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,65973,32987.0,1,نابل,NABEUL,دار شعبان الفهري,DAR CHAABEN EL FEHRI,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,47331,6894.0,1,صفاقس,SFAXE,طينة,TINA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,62000,34100.0,1,تطاوين,TATAWINE,الذهيبة,THEHIBA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,170000,75988.0,3,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,120815,40269.0,1,الكاف,KEF,تاجروين,TAJERWIN,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,99000,46202.0,1,المهدية,MAHDIA,شربان,CHERBEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,44000,23710.0,1,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,87000,45657.0,1,المهدية,MAHDIA,المهدية,MAHDIA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,333200,100232.0,1,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,308950,174477.0,20,المهدية,MAHDIA,المهدية,MAHDIA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,2800000,726080.0,56,منــوبة,MANOUBA,البطان,EL BATAN,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,223713,123044.0,3,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,52000,6571.0,2,بنزرت,BIZERTE,غار الملح,GAR EL MELH,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,80000,26173.0,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+2,172000,56087.0,2,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+2,181000,59788.6666666667,2,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,89000,25947.0,1,المهدية,MAHDIA,هبيرة,HBIRA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,107747,35915.6666666667,1,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,150000,45001.0,2,بن عروس,BEN AROUSSE,مقرين,MEGRINE,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,72000,23373.0,1,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,76000,41594.0,1,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,135596,37722.6666666667,2,جندوبة,JENDOUBA,بوسا لم,BOUSALEM,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,73319,40325.0,1,صفاقس,SFAXE,عقارب,AGAREB,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,94000,53006.0,1,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,94000,49335.0,1,المهدية,MAHDIA,بو مرداس,BOU MERDES,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,58120,19374.0,1,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,292000,132156.0,4,المهدية,MAHDIA,ملولش,MLOULECH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,53170,17721.0,1,القصرين,KASSERINE,سبيبة,SBIBA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,12000,6242.0,1,سوسة,SOUSSE,مساكن,MSAKEN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,53843,17768.0,1,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,60000,32930.0,1,تطاوين,TATAWINE,الصمّار,SAMMAR,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,44800,14040.0,2,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,76000,23584.0,1,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,481000,240500.0,0,باجة,BEJA,تستور,TASTOUR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,46713,13500.0,1,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,44713,12556.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,60035,32575.0,1,قابس,GABES,قابس الغربية,GABES WEST,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,70250,23416.6666666667,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,75075,25025.0,1,قبلي,KEBELLI,الفوار,ELFAWAR,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,82000,27068.3333333333,1,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,57032,8515.0,1,صفاقس,SFAXE,صفاقس الغربية,SFAXE SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,64000,15360.0,1,المهدية,MAHDIA,شربان,CHERBEN,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,67300,22209.0,1,قابس,GABES,مطماطة,MATMATA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,35370,11672.0,1,قبلي,KEBELLI,الفوار,ELFAWAR,التحويل الأولي,PREMIERE TRANSFORMATION,نوفمبر,nov.,2018,SQL Results
+5,220315,117053.0,5,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,127000,65006.0,2,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,1271000,277210.0,25,المهدية,MAHDIA,الشابة,CHEBBA,الصيد البحري,PECHE,ديسمبر,déc.,2017,SQL Results
+9,696422,383035.0,9,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+4,264628,145545.0,4,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,224000,75435.0,3,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+3,239862,117590.0,9,الكاف,KEF,الكاف الشرقية,KEF EST,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,86000,40442.0,3,المهدية,MAHDIA,المهدية,MAHDIA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,46000,14000.0,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,2560000,561262.0,9,المهدية,MAHDIA,الشابة,CHEBBA,التحويل الأولي,PREMIERE TRANSFORMATION,مارس,mars,2018,SQL Results
+9,696349,309848.0,10,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,120239,37080.0,2,مدنين,MEDENINE,بن قردان,BEN GERDAN,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,106000,40896.0,2,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,التحويل الأولي,PREMIERE TRANSFORMATION,نوفمبر,nov.,2017,SQL Results
+2,168722,100715.0,5,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الخدمات,SERVICE,جانفي,janv.,2018,SQL Results
+12,948036,260337.0,15,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,1951000,662269.0,11,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+6,375845,177163.0,7,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,37799,13930.0,1,سليانة,SILIANA,العروسة,ALAROUSSA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+3,235000,94206.0,4,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,65475,17056.0,1,مدنين,MEDENINE,أجيم,AJIM,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,56225,18740.0,1,باجة,BEJA,تستور,TASTOUR,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+3,600000,215660.0,6,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+6,287635,85632.0,6,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,21715,3225.0,1,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+3,341460,163848.0,3,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+11,847588,257856.0,14,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,270206,116867.0,1,نابل,NABEUL,تاكلسة,TAKELSSA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,395815,159506.0,3,توزر,TOZEUR,دقاش,DGECH,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,78000,42321.0,1,تطاوين,TATAWINE,الذهيبة,THEHIBA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,1273000,473621.666666667,10,بنزرت,BIZERTE,أوتيك,UTIK,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,228000,99339.0,4,نابل,NABEUL,بني خلاد,BENI KHALLED,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,178152,96105.0,3,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+14,1444066,680316.0,18,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,97200,53460.0,1,باجة,BEJA,تبرسق,TBORSOK,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+4,4681805,1364167.0,32,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+4,3612291,1169428.33333333,31,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+11,646970,274338.0,13,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,67000,9872.0,1,سوسة,SOUSSE,كندار,KENDRA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,16300,7379.0,0,المنستير,MOUNASTIR,قصيبة المديوني,KSIBET ALMADYOUNI,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+5,363142,143131.0,5,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+13,1623552,572249.0,23,قفصة,GAFSA,سيدي عيش,SIDI ICH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,103000,51226.0,1,سوسة,SOUSSE,بوفيشة,BOUFICHA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,3000000,723550.0,34,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+6,620000,338778.0,6,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,363756,150198.0,4,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,52864,6678.0,1,مدنين,MEDENINE,حومة السوق,HOUMMET SOUK,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+4,316771,174223.0,4,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+4,311925,114407.0,4,قابس,GABES,قابس الجنوبية,GABES SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+16,1527768,647039.0,16,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,277999,92666.3333333333,3,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,79000,9523.0,1,المنستير,MOUNASTIR,قصيبة المديوني,KSIBET ALMADYOUNI,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,17200,6550.0,1,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+8,691585,278302.0,10,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,190000,61367.0,2,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,43000,23232.0,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,265000,96165.0,2,المهدية,MAHDIA,الجم,EL JEM,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,145908,60646.0,6,الكاف,KEF,القصور,ELKSOUR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+8,632000,324038.0,8,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+5,431000,141586.0,5,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,243000,116050.0,3,المهدية,MAHDIA,شربان,CHERBEN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,205933,113260.0,4,الكاف,KEF,الجريصة,JERISSA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+4,518841,273401.0,4,باجة,BEJA,قبلاط,KBELLAT,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+5,298585,96602.0,5,قابس,GABES,الحامة,HAMMA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+7,755100,364504.0,8,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,67150,36933.0,1,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+3,242944,80981.3333333333,3,قبلي,KEBELLI,الفوار,ELFAWAR,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,51268,14671.0,1,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+2,212000,93513.0,2,المهدية,MAHDIA,هبيرة,HBIRA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,60950,33523.0,1,صفاقس,SFAXE,الغريبة,ELGRIBA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,74075,40742.0,2,نابل,NABEUL,منزل تميم,MANZEL TMIM,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+9,739153,399535.0,9,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+4,323525,139398.0,4,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,75625,25208.3333333333,1,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,347000,106022.0,6,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+2,262521,114391.0,4,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,105000,54718.0,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,122000,13757.0,2,المهدية,MAHDIA,الشابة,CHEBBA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,55000,28844.0,1,سوسة,SOUSSE,القلعة الصغرى,KALAA SOUGRA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,146000,75996.0,3,تطاوين,TATAWINE,تطاوين الجنوبية,TATAWIN SUD,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,232857,121042.0,3,نابل,NABEUL,الهوارية,HAWARIYA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,226714,108347.0,3,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,65525,12966.0,1,توزر,TOZEUR,الحامة,El Hama,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+6,584682,238813.0,9,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,267348,77919.0,7,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الصيد البحري,PECHE,ماي,mai,2018,SQL Results
+4,318040,162988.0,4,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+3,314000,148318.0,3,المهدية,MAHDIA,هبيرة,HBIRA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,163000,85939.0,2,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,70200,8574.0,1,تــونس,TUNIS,قرطاج,KARTAGE,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,162906,69015.0,2,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,6400,2255.0,0,المنستير,MOUNASTIR,صيادة لمطة بوحجر,SAYADAT LAMTA BOUHJAR,الصيد البحري,PECHE,سبتمبر,sept.,2018,SQL Results
+4,678332,248666.0,6,قفصة,GAFSA,بلخير,BELKHIR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,6240000,1203831.0,27,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الصيد البحري,PECHE,ديسمبر,déc.,2018,SQL Results
+6,1147849,349531.0,11,قابس,GABES,قابس الغربية,GABES WEST,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,78700,8550.0,1,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,54500,7954.0,1,المنستير,MOUNASTIR,جمال,JAMMEL,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,100000,13645.0,3,بنزرت,BIZERTE,راس الجبل,RAS JBEL,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+3,206000,65598.0,3,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,111000,59167.0,1,المهدية,MAHDIA,ملولش,MLOULECH,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,200000,51183.0,2,المهدية,MAHDIA,الشابة,CHEBBA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,280339,143952.0,3,باجة,BEJA,عمدون,AMDOUN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+5,542473,228113.0,5,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,102000,34000.0,1,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,129457,64730.0,1,الكاف,KEF,الدهماني,DAHMENI,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,99969,33320.0,2,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,43000,14190.0,1,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+6,867150,321321.0,19,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,205873,49284.0,2,قبلي,KEBELLI,الفوار,ELFAWAR,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,48750,16248.0,1,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+6,429257,236095.0,6,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,499000,230555.0,4,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,94000,11559.0,2,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,151199,83160.0,2,سليانة,SILIANA,قعفور,GAAFOUR,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,177000,64163.0,2,تطاوين,TATAWINE,تطاوين الجنوبية,TATAWIN SUD,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+2,158000,86131.0,2,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+4,332000,109418.666666667,4,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+3,273514,116767.0,3,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,170413,93630.0,2,جندوبة,JENDOUBA,بلطة بوعوان,BALTA BOU OUN,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,69000,8263.0,1,المنستير,MOUNASTIR,البقا لطة,BKALTA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+3,229980,95065.0,4,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,112440,31323.0,2,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+5,679091,233717.0,5,باجة,BEJA,تستور,TASTOUR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,1060000,253510.0,24,بنزرت,BIZERTE,منزل جميل,MANZEL JMIL,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+10,871000,421430.0,11,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,6630000,1484388.0,8,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+4,531000,271403.0,5,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,145000,41825.3333333333,2,المهدية,MAHDIA,هبيرة,HBIRA,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,34000,17830.0,1,سوسة,SOUSSE,مساكن,MSAKEN,الفلاحي,AGRICULTURE,جويلية,juill.,2017,SQL Results
+1,56000,15720.0,1,المهدية,MAHDIA,الجم,EL JEM,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,78243,25604.0,1,باجة,BEJA,تيبار,TIBAR,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+4,255390,85130.0,4,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+3,327006,131341.0,4,مدنين,MEDENINE,مدنين الجنوبية,MEDNIN SUD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,118000,48908.0,2,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,1700000,321293.0,13,نابل,NABEUL,قليبية,KLIBYA,الصيد البحري,PECHE,نوفمبر,nov.,2017,SQL Results
+2,292795,86154.0,7,قابس,GABES,قابس المدينة,GABES MEDINA,الصيد البحري,PECHE,ديسمبر,déc.,2017,SQL Results
+1,265000,88333.3333333333,1,سليانة,SILIANA,برقو,BERGOU,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+3,196255,62066.0,3,قابس,GABES,الحامة,HAMMA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,837000,191312.0,2,جندوبة,JENDOUBA,بوسا لم,BOUSALEM,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+4,272519,89522.0,4,قابس,GABES,الحامة,HAMMA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,330000,163456.0,1,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,197000,84083.0,2,صفاقس,SFAXE,المحرس,MAHRES,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+1,525000,146928.0,2,باجة,BEJA,نفزة,NEFZA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,130015,38915.0,2,قابس,GABES,قابس المدينة,GABES MEDINA,الصيد البحري,PECHE,ماي,mai,2018,SQL Results
+3,344070,153394.0,4,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,61550,20516.6666666667,1,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+3,364000,164090.0,4,القيروان,KAIROUAN,حفوز,HAFOUZ,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,88308,24564.0,1,جندوبة,JENDOUBA,غارالدماء,GAR DIMA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,236256,129941.0,2,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,200000,60400.0,2,المهدية,MAHDIA,الشابة,CHEBBA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,231825,120273.0,2,سليانة,SILIANA,الكريب,EL KRIB,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,301657,111893.0,2,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,249000,92065.0,7,بنزرت,BIZERTE,الغزالة,GZELA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,77000,41487.0,1,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,46550,15362.0,1,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+2,102000,50922.0,2,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,76000,23155.0,1,المهدية,MAHDIA,أولاد الشامخ,AWLED CHAMEKH,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,107000,34558.0,2,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,1050000,422432.0,0,بنزرت,BIZERTE,بنزرت الجنوبية,BIZETE SUD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,6301,1762.0,1,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+2,213000,35250.0,2,باجة,BEJA,باجة الشما لية,BEJANORD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,45273,6790.0,1,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,48600,16199.0,1,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,115143,7481.0,2,منــوبة,MANOUBA,واد الليل,WAD ELIL,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,101000,36970.0,4,المهدية,MAHDIA,شربان,CHERBEN,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+1,225000,115896.0,2,بنزرت,BIZERTE,أوتيك,UTIK,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,95000,31666.6666666667,1,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,67000,17812.0,2,المهدية,MAHDIA,الشابة,CHEBBA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,69291,13500.0,1,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,187600,49077.0,14,تــونس,TUNIS,حلق الوادي,LA GOULETTE,الصيد البحري,PECHE,ديسمبر,déc.,2017,SQL Results
+1,55771,7056.0,1,قابس,GABES,قابس المدينة,GABES MEDINA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,60313,17674.0,1,القصرين,KASSERINE,العيون,EL AYOUN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,91145,23291.6666666667,2,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,62300,31150.0,1,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+2,121250,64588.0,2,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,83917,41959.0,1,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,137000,74017.0,2,تطاوين,TATAWINE,البئر الأحمر,BIR LAHMER,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,54500,13500.0,1,المنستير,MOUNASTIR,طبلبة,TBOLBA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,1250000,371877.333333333,4,باجة,BEJA,تبرسق,TBORSOK,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,65000,8497.0,2,بنزرت,BIZERTE,بنزرت الجنوبية,BIZETE SUD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,119000,33329.0,4,بنزرت,BIZERTE,جومين,JOUMIN,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,78526,26175.3333333333,1,قفصة,GAFSA,سيدي عيش,SIDI ICH,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,38650,21258.0,1,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,90000,27588.3333333333,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+3,184000,59539.0,3,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,109074,27646.0,2,صفاقس,SFAXE,الغريبة,ELGRIBA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,82250,45238.0,1,مدنين,MEDENINE,بني خداش,BENI KHEDECH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,97000,32233.3333333333,1,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,54318,15120.0,1,القصرين,KASSERINE,حاسي الفريد,HASSI ELFRID,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,41900,22666.0,1,باجة,BEJA,تيبار,TIBAR,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,65000,21754.0,6,المنستير,MOUNASTIR,الساحلين,SAHLIN,التحويل الأولي,PREMIERE TRANSFORMATION,نوفمبر,nov.,2018,SQL Results
+1,48406,13500.0,1,نابل,NABEUL,منزل تميم,MANZEL TMIM,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,2486000,568003.0,19,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,ديسمبر,déc.,2018,SQL Results
+1,107000,30958.0,1,المهدية,MAHDIA,شربان,CHERBEN,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,76000,24867.6666666667,0,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,25220,9583.0,1,القصرين,KASSERINE,حاسي الفريد,HASSI ELFRID,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,80500,40250.0,1,نابل,NABEUL,بوعرقوب,BOU ARGOUB,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,192961,90321.0,2,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,56000,14292.0,2,بنزرت,BIZERTE,جومين,JOUMIN,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,48396,13616.0,1,القصرين,KASSERINE,سبيبة,SBIBA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,196885,78539.0,2,قابس,GABES,المطوية,EL METWEYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,73000,37722.0,1,المنستير,MOUNASTIR,بني حسان,BENI HASSEN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,36918,11957.0,1,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,157000,79160.0,2,بنزرت,BIZERTE,الغزالة,GZELA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,2300000,573602.0,23,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الفلاحي,AGRICULTURE,أوت,août,2017,SQL Results
+1,106219,58420.0,1,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,67000,8354.0,2,سوسة,SOUSSE,أكودة,AKOUDA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,192587,66629.0,4,نابل,NABEUL,قليبية,KLIBYA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,114250,17168.0,1,زغوان,ZAGHOUANE,زغوان,ZAGOUAN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,78000,10125.0,1,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,110022,36203.3333333333,1,توزر,TOZEUR,نفطة,NAFTA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,50000,26648.0,1,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,83000,27500.0,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,135000,53319.0,12,بنزرت,BIZERTE,غار الملح,GAR EL MELH,الصيد البحري,PECHE,أكتوبر,oct.,2018,SQL Results
+1,922000,134511.0,8,أريانة,ARIANA,أريانة المدينة,ARIANA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,63000,33963.0,1,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,1524000,523601.0,23,بن عروس,BEN AROUSSE,فوشانة,FOUCHANA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,4500,2475.0,1,القصرين,KASSERINE,العيون,EL AYOUN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,62850,20950.0,1,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,114317,36870.6666666667,1,توزر,TOZEUR,الحامة,El Hama,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+6,436000,135769.0,6,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+2,157200,74108.0,4,المنستير,MOUNASTIR,المكنين,MEKNIN,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,14618,6940.0,1,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+10,777682,343206.0,11,القصرين,KASSERINE,القصرين الجنوبية,KASSERINE SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,41000,5798.0,1,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+6,363000,182301.0,6,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,62000,32714.0,1,تطاوين,TATAWINE,تطاوين الجنوبية,TATAWIN SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+8,9836310,1302111.0,23,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+8,505207,270918.0,8,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+4,261747,140763.0,4,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+3,372536,117624.0,6,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,223500,79685.0,3,سوسة,SOUSSE,بوفيشة,BOUFICHA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+8,554994,301601.0,8,القصرين,KASSERINE,حاسي الفريد,HASSI ELFRID,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+1,69500,23166.6666666667,1,جندوبة,JENDOUBA,عين دراهم,AIN DRAHEM,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+7,399000,128816.0,7,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+7,529000,173423.0,7,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+2,92000,11775.0,2,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,105000,32439.0,2,المنستير,MOUNASTIR,المكنين,MEKNIN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+7,478244,243441.0,8,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+5,307134,134462.0,5,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,298000,110624.0,3,المهدية,MAHDIA,ملولش,MLOULECH,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,221633,117484.0,3,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,94899,51816.0,1,الكاف,KEF,الكاف الشرقية,KEF EST,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,204653,112559.0,2,قبلي,KEBELLI,الفوار,ELFAWAR,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+6,583156,227740.0,8,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,11000,5151.0,1,القيروان,KAIROUAN,الشراردة,CHRARDA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,435000,205914.0,8,بنزرت,BIZERTE,جومين,JOUMIN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,140500,40361.0,2,قفصة,GAFSA,القصر,EL KSSAR,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+6,395000,208671.0,6,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,58959,16419.0,1,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+3,279022,79917.0,5,منــوبة,MANOUBA,طبربة,TOUBOURBA,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+6,1274600,371688.0,41,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,173868,75924.0,3,تطاوين,TATAWINE,الصمّار,SAMMAR,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+4,362354,90613.6666666667,4,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+6,563155,246088.0,6,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,137070,36331.0,3,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,550000,245566.0,7,نابل,NABEUL,منزل تميم,MANZEL TMIM,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,543000,165576.0,24,بنزرت,BIZERTE,غار الملح,GAR EL MELH,الصيد البحري,PECHE,ماي,mai,2018,SQL Results
+6,636374,312964.0,7,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+9,716321,358334.0,14,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+2,179000,61967.0,4,قفصة,GAFSA,بلخير,BELKHIR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+13,2208554,781830.333333333,15,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,129799,67650.0,1,جندوبة,JENDOUBA,بلطة بوعوان,BALTA BOU OUN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,77200,30927.0,1,صفاقس,SFAXE,الحنشة,HANCHA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,190505,104778.0,2,جندوبة,JENDOUBA,واد مليز,WAD MLIZ,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,445120,176939.0,3,باجة,BEJA,تبرسق,TBORSOK,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,152475,83862.0,2,القصرين,KASSERINE,حيدرة,HIDRA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+10,457894,172894.0,10,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,359668,108227.0,3,القصرين,KASSERINE,سبيطلة,SBITLA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,232435,115051.0,3,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,25439,11201.0,0,مدنين,MEDENINE,جرجيس,JERJIS,الصيد البحري,PECHE,نوفمبر,nov.,2018,SQL Results
+1,181273,45490.0,1,القصرين,KASSERINE,ماجل با لعباس,MAJEL BELABBES,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,6800000,802654.0,14,المهدية,MAHDIA,المهدية,MAHDIA,الصيد البحري,PECHE,ديسمبر,déc.,2018,SQL Results
+2,536279,186600.0,4,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,75000,38399.0,3,المهدية,MAHDIA,الشابة,CHEBBA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,198000,69385.0,2,أريانة,ARIANA,سيدي ثابت,SID THABET,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+10,745380,387363.0,10,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+2,126000,60539.0,2,تطاوين,TATAWINE,غمراسن,GOMRASSEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+9,869869,410280.0,9,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+2,165000,77988.0,3,بنزرت,BIZERTE,سجنان,SAJNEN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+4,266822,130765.0,4,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+7,539000,175733.0,7,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+6,530290,258499.0,7,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+7,542820,240218.0,7,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,38060,19030.0,1,القصرين,KASSERINE,تا لة,TELA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+6,456463,165146.0,7,قابس,GABES,قابس الجنوبية,GABES SUD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,207483,92627.0,3,الكاف,KEF,نبر,NEBR,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+3,184500,85363.0,2,المنستير,MOUNASTIR,الوردانين,WIRDANIN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,221433,84582.0,3,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,65500,21831.0,1,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+3,207380,91051.0,3,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+5,380196,125704.666666667,5,قفصة,GAFSA,سيدي عيش,SIDI ICH,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,143205,57723.0,2,القيروان,KAIROUAN,عين جلولة,AIN JALOULA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,1900000,463210.0,7,نابل,NABEUL,تاكلسة,TAKELSSA,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+3,3064210,651820.0,13,منــوبة,MANOUBA,برج العامري,BOURJ EL AMRI,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,37570,5637.0,3,أريانة,ARIANA,رواد,RAWED,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+3,186000,96264.0,3,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,82000,42625.0,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,545000,78536.0,0,صفاقس,SFAXE,صفاقس المدينة,SFAXE MEDINA,الصيد البحري,PECHE,سبتمبر,sept.,2018,SQL Results
+1,77000,40693.0,1,المنستير,MOUNASTIR,المكنين,MEKNIN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,111916,28488.0,5,مدنين,MEDENINE,حومة السوق,HOUMMET SOUK,الصيد البحري,PECHE,جوان,juin,2018,SQL Results
+2,179210,50333.3333333333,2,جندوبة,JENDOUBA,جندوبة,JENDOUBA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+13,459537,140439.0,13,قبلي,KEBELLI,الفوار,ELFAWAR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,243000,79071.0,3,القيروان,KAIROUAN,الشراردة,CHRARDA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+2,2322000,1011540.0,20,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+1,52000,7278.0,1,المنستير,MOUNASTIR,صيادة لمطة بوحجر,SAYADAT LAMTA BOUHJAR,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,89983,49491.0,1,سليانة,SILIANA,العروسة,ALAROUSSA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,56959,7137.0,1,قابس,GABES,قابس المدينة,GABES MEDINA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+4,299000,154812.0,4,القيروان,KAIROUAN,الشبيكة,CHBIKA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,280000,130042.0,7,بنزرت,BIZERTE,أوتيك,UTIK,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+3,217151,98656.0,3,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,30925,9583.0,1,منــوبة,MANOUBA,واد الليل,WAD ELIL,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,84000,26946.0,0,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,جويلية,juill.,2017,SQL Results
+1,850000,232530.0,12,زغوان,ZAGHOUANE,الفحص,FAHS,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+6,1311426,435727.0,9,سيدي بوزيد,SIDI BOUZIDE,المكناسي,EL MEKNASSI,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,76950,24664.0,1,سليانة,SILIANA,سليانة الجنوبية,SILIANA SUD,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,280000,139664.0,1,سليانة,SILIANA,سليانة الجنوبية,SILIANA SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,195825,74958.0,2,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,337000,168040.0,2,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,44846,22423.0,1,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,100000,28216.0,13,تــونس,TUNIS,حلق الوادي,LA GOULETTE,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,50133,16710.0,1,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,54500,5905.0,1,المنستير,MOUNASTIR,البقا لطة,BKALTA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,59150,19715.0,1,باجة,BEJA,باجة الشما لية,BEJANORD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,1674000,332029.0,15,سليانة,SILIANA,العروسة,ALAROUSSA,الفلاحي,AGRICULTURE,أوت,août,2017,SQL Results
+2,131000,66777.0,2,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+4,271519,134505.0,4,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+6,285099,75897.3333333333,6,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+1,77124,25708.0,1,سيدي بوزيد,SIDI BOUZIDE,المزونة,ELMZOUNA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,168958,56319.3333333333,2,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,1600000,516827.0,5,سوسة,SOUSSE,سيدي الهاني,SIDI ELHANI,التحويل الأولي,PREMIERE TRANSFORMATION,سبتمبر,sept.,2018,SQL Results
+1,55000,28988.0,1,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+6,661956,242050.0,8,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,136365,43056.0,2,جندوبة,JENDOUBA,فرنانة,FERNANA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,66872,36780.0,1,باجة,BEJA,عمدون,AMDOUN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,63850,35118.0,1,مدنين,MEDENINE,بن قردان,BEN GERDAN,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,50000,11841.0,1,بنزرت,BIZERTE,أوتيك,UTIK,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,58902,6750.0,1,الكاف,KEF,السرس,SERS,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+6,456929,213854.0,6,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,102804,34268.0,1,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,36000,19448.0,1,بن عروس,BEN AROUSSE,بومهل البساتين,BOUMHAL ALBASSATIN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,157366,51627.3333333333,2,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,2000000,567625.0,14,المهدية,MAHDIA,بو مرداس,BOU MERDES,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,34000,17380.0,1,سوسة,SOUSSE,سيدي بوعلي,SIDI BOUALI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,845000,367171.0,12,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,92000,33710.0,0,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,1922000,673543.0,9,بنزرت,BIZERTE,ماطر,MATEUR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+3,248000,120265.0,3,المهدية,MAHDIA,هبيرة,HBIRA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,79240,43582.0,1,الكاف,KEF,قلعة الخصبة,KALAA KHESBA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,197591,65855.0,2,الكاف,KEF,الجريصة,JERISSA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+2,29700,8460.0,0,المنستير,MOUNASTIR,بنبلة,BENBLA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,87613,25770.0,2,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,164616,32085.0,2,مدنين,MEDENINE,جرجيس,JERJIS,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,58970,18844.0,1,قفصة,GAFSA,المظيلة,ELMTHILA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+3,536680,271549.0,3,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,63453,20881.0,2,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,81573,25298.0,1,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,181562,36905.3333333333,1,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+3,967763,313635.0,9,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,82165,27388.3333333333,1,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,12500,1647.0,1,تــونس,TUNIS,باردو,BARDO,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,31208,17164.0,1,نابل,NABEUL,قرمبا لية,GROUMBELIA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,183294,97137.0,2,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,152386,83192.0,2,قابس,GABES,قابس الغربية,GABES WEST,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,69540,37653.0,1,سليانة,SILIANA,كسرى,KESSRA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,55420,6943.0,1,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+3,214266,59512.0,4,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,63500,21052.0,2,تطاوين,TATAWINE,غمراسن,GOMRASSEN,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,87588,29195.3333333333,1,قبلي,KEBELLI,الفوار,ELFAWAR,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,54379,6985.0,1,صفاقس,SFAXE,طينة,TINA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,171138,39343.3333333333,1,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,التحويل الأولي,PREMIERE TRANSFORMATION,نوفمبر,nov.,2018,SQL Results
+1,69311,,1,زغوان,ZAGHOUANE,الفحص,FAHS,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+3,149433,63718.0,3,القصرين,KASSERINE,فريانة,FERYANA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+2,124000,36108.0,2,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,34130,11333.3333333333,1,قفصة,GAFSA,بلخير,BELKHIR,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,145600,20721.0,3,المنستير,MOUNASTIR,المكنين,MEKNIN,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,57765,19255.0,1,قبلي,KEBELLI,رجيم معتوق,ٌRegim Maatoug,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,1549000,519664.0,3,المنستير,MOUNASTIR,بني حسان,BENI HASSEN,التحويل الأولي,PREMIERE TRANSFORMATION,أكتوبر,oct.,2017,SQL Results
+1,100458,55253.0,1,قبلي,KEBELLI,رجيم معتوق,ٌRegim Maatoug,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,41000,6150.0,1,المهدية,MAHDIA,ملولش,MLOULECH,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,35000,8502.0,0,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,أفريل,avr.,2018,SQL Results
+2,129213,58876.0,2,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,76901,42295.0,1,جندوبة,JENDOUBA,فرنانة,FERNANA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,296240,98746.6666666667,6,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,116408,32021.6666666667,4,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,التحويل الأولي,PREMIERE TRANSFORMATION,أفريل,avr.,2018,SQL Results
+2,96587,49658.0,2,منــوبة,MANOUBA,طبربة,TOUBOURBA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,131800,19568.0,2,المنستير,MOUNASTIR,المكنين,MEKNIN,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,390000,56452.0,5,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,119684,65826.0,1,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,1341100,451275.0,6,زغوان,ZAGHOUANE,الناظور,NATHOUR,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+1,76850,42185.0,1,صفاقس,SFAXE,الحنشة,HANCHA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,40250,22138.0,1,سليانة,SILIANA,بوعرادة,BOU ARADA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,323244,81002.0,2,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,98424,34273.0,2,سليانة,SILIANA,سليانة الجنوبية,SILIANA SUD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,80000,38026.0,1,المهدية,MAHDIA,أولاد الشامخ,AWLED CHAMEKH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,54023,9560.0,1,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,64840,19452.0,1,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,1225000,288865.0,18,توزر,TOZEUR,نفطة,NAFTA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+2,226538,100833.0,2,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,160740,88407.0,2,القصرين,KASSERINE,العيون,EL AYOUN,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,46713,13500.0,1,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,80742,26914.0,1,سيدي بوزيد,SIDI BOUZIDE,أولاد حفوز,AWLED HAFOUZ,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+2,115035,33786.0,2,قابس,GABES,المطوية,EL METWEYA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,95000,22329.0,2,المهدية,MAHDIA,المهدية,MAHDIA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,66000,9300.0,1,سوسة,SOUSSE,كندار,KENDRA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,66000,36245.0,1,تطاوين,TATAWINE,تطاوين الجنوبية,TATAWIN SUD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,103981,56533.0,1,باجة,BEJA,تستور,TASTOUR,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+2,254000,139700.0,2,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,224473,,1,صفاقس,SFAXE,الصخيرة,SKHIRA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,53336,27120.0,1,قابس,GABES,مارث,MARETH,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,269000,89366.6666666667,1,الكاف,KEF,القصور,ELKSOUR,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,386000,56706.0,3,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,60008,33005.0,0,نابل,NABEUL,قربة,KOURBA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,93300,51315.0,1,باجة,BEJA,تيبار,TIBAR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,106190,58405.0,1,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,132271,54423.0,2,قابس,GABES,المطوية,EL METWEYA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,100792,55436.0,1,قبلي,KEBELLI,دوز الشما لية,DOUZ NORD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,76225,41360.0,1,الكاف,KEF,ساقية سيدي يوسف,SAKIYET SIDI YOUSSEF,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,82670,44911.0,1,باجة,BEJA,تبرسق,TBORSOK,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,53864,13610.0,1,صفاقس,SFAXE,العامرة,EL AMRA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,542000,35373.0,1,بن عروس,BEN AROUSSE,مرناق,MORNAG,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,340055,119579.0,4,سيدي بوزيد,SIDI BOUZIDE,منزل بوزيان,MANZEL BOUZAYEN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,230000,73764.0,5,المهدية,MAHDIA,المهدية,MAHDIA,الصيد البحري,PECHE,ماي,mai,2018,SQL Results
+1,65000,34932.0,1,المنستير,MOUNASTIR,الساحلين,SAHLIN,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,1425000,546933.0,7,قابس,GABES,غنوش,GANOUCH,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,52000,16470.0,0,المنستير,MOUNASTIR,صيادة لمطة بوحجر,SAYADAT LAMTA BOUHJAR,الصيد البحري,PECHE,ماي,mai,2018,SQL Results
+1,98635,32817.0,1,جندوبة,JENDOUBA,غارالدماء,GAR DIMA,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,78430,43137.0,1,سليانة,SILIANA,قعفور,GAAFOUR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,199759,86905.0,1,توزر,TOZEUR,نفطة,NAFTA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,88000,44890.0,1,سوسة,SOUSSE,كندار,KENDRA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,58000,6850.0,1,سوسة,SOUSSE,سوسة الرياض,SOUSSE ERIATH,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,62000,29700.0,1,المهدية,MAHDIA,شربان,CHERBEN,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,66479,22115.0,1,الكاف,KEF,نبر,NEBR,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,44001,14666.0,1,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,63000,19835.0,1,المهدية,MAHDIA,السواسي,ESSWASSI,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,67000,9747.0,1,سوسة,SOUSSE,النفيضة,NFIDHA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,99000,51648.0,1,المهدية,MAHDIA,المهدية,MAHDIA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,75550,25183.3333333333,1,قفصة,GAFSA,السند,ESNAD,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,67000,22331.0,1,سليانة,SILIANA,برقو,BERGOU,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,63995,15388.0,1,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+1,3000,528.666666666667,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,56020,15594.0,1,مدنين,MEDENINE,بن قردان,BEN GERDAN,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,98943,54419.0,1,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,115000,14955.0,2,بنزرت,BIZERTE,ماطر,MATEUR,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,49673,25502.0,1,نابل,NABEUL,تاكلسة,TAKELSSA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+1,70000,19631.0,1,المهدية,MAHDIA,هبيرة,HBIRA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,232000,29640.0,1,الكاف,KEF,تاجروين,TAJERWIN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+16,993786,492142.0,16,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+2,127000,66028.0,2,المهدية,MAHDIA,سيدي علوان,SIDI ALWEN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,41000,13300.0,1,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+4,247000,79079.0,4,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+1,184000,79243.0,1,صفاقس,SFAXE,عقارب,AGAREB,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,254000,94200.0,3,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+3,232000,71731.3333333333,3,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+7,372000,118361.0,4,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الخدمات,SERVICE,سبتمبر,sept.,2017,SQL Results
+1,60000,30965.0,1,المهدية,MAHDIA,بو مرداس,BOU MERDES,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,118000,17238.0,2,المنستير,MOUNASTIR,بني حسان,BENI HASSEN,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+3,228086,75032.0,3,قفصة,GAFSA,أم  العرائس,OM ELARAYES,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,71000,37400.0,1,سوسة,SOUSSE,سيدي الهاني,SIDI ELHANI,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+4,281000,147276.0,4,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+16,829289,405434.0,16,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+5,574000,284123.0,8,بنزرت,BIZERTE,جومين,JOUMIN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+3,149521,44237.0,3,مدنين,MEDENINE,سيدي مخلوف,SID MAKHLOUF,الخدمات,SERVICE,جانفي,janv.,2018,SQL Results
+3,191000,60338.0,3,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+14,1076000,566516.0,14,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+9,567897,306480.0,9,القصرين,KASSERINE,حاسي الفريد,HASSI ELFRID,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+17,1217704,653798.0,17,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,جانفي,janv.,2018,SQL Results
+8,865000,273598.0,8,القيروان,KAIROUAN,الشبيكة,CHBIKA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+12,1648144,451990.0,21,القصرين,KASSERINE,فوسانة,FOUSENA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,121000,13227.0,2,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+2,167500,62798.0,2,تطاوين,TATAWINE,الصمّار,SAMMAR,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+5,502129,212861.0,16,نابل,NABEUL,الميدة,ELMIDA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,54000,25791.0,1,المهدية,MAHDIA,الجم,EL JEM,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+2,75355,41446.0,2,نابل,NABEUL,الهوارية,HAWARIYA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,56364,17983.0,1,القصرين,KASSERINE,سبيبة,SBIBA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,60000,6928.0,1,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,134631,80779.0,1,قفصة,GAFSA,القطار,ALKATAR,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+4,439000,156480.0,5,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,123712,39559.0,2,قابس,GABES,مارث,MARETH,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+9,457725,130478.0,10,صفاقس,SFAXE,قرقنة,KAREKNA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+5,462242,189508.0,5,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+14,1259602,506517.0,24,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,77988,25996.0,1,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+3,576000,175287.0,21,بنزرت,BIZERTE,سجنان,SAJNEN,الصيد البحري,PECHE,جويلية,juill.,2018,SQL Results
+6,598497,317011.0,6,القصرين,KASSERINE,تا لة,TELA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+4,467000,233686.0,4,القيروان,KAIROUAN,القيروان الجنوبية,KAIROUAN SUD,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+3,220000,98173.0,3,المهدية,MAHDIA,هبيرة,HBIRA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,752000,112406.0,4,سوسة,SOUSSE,هرقلة,HIRGLA,تربية الأحياء المائية,AQUACULTURE,سبتمبر,sept.,2018,SQL Results
+1,53000,17198.6666666667,1,القيروان,KAIROUAN,حفوز,HAFOUZ,الخدمات,SERVICE,أوت,août,2018,SQL Results
+5,230900,84693.0,5,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+6,542002,159036.666666667,6,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+3,234000,62685.0,3,القيروان,KAIROUAN,عين جلولة,AIN JALOULA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,66000,36083.0,1,القيروان,KAIROUAN,العلا,AL ALAA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,185000,20265.0,3,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+3,603661,234059.0,4,قابس,GABES,المطوية,EL METWEYA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+4,308000,165831.0,4,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+2,126647,52660.0,2,الكاف,KEF,السرس,SERS,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+5,437895,157003.0,3,توزر,TOZEUR,توزر,TOZEUR,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+5,583062,206645.0,5,زغوان,ZAGHOUANE,بئر مشارقة,BIR MCHARGA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,350305,93260.0,10,مدنين,MEDENINE,حومة السوق,HOUMMET SOUK,الصيد البحري,PECHE,سبتمبر,sept.,2018,SQL Results
+1,128000,42526.0,2,قفصة,GAFSA,سيدي بوبكر,,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,46485,15495.0,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,35000,8085.0,0,سوسة,SOUSSE,هرقلة,HIRGLA,الصيد البحري,PECHE,سبتمبر,sept.,2018,SQL Results
+1,756000,379313.0,6,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+2,84000,35252.0,2,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,54500,13709.0,1,المنستير,MOUNASTIR,طبلبة,TBOLBA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+3,269154,108215.0,3,قابس,GABES,مارث,MARETH,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+7,827778,367108.0,10,تطاوين,TATAWINE,الصمّار,SAMMAR,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,177000,48963.0,4,المنستير,MOUNASTIR,المنستير,MOUNASTIR,الصيد البحري,PECHE,سبتمبر,sept.,2018,SQL Results
+23,1997728,920495.0,32,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+14,1273746,566867.0,17,قفصة,GAFSA,قفصة الشما لية,GAFSSA NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+6,2787597,412587.0,22,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الشرقية,SIDI BOUZID EST,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+5,500930,180619.0,6,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,421000,104249.0,3,سليانة,SILIANA,مكثر,MAKTHER,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,68000,21015.0,1,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,1120685,288549.0,6,نابل,NABEUL,بني خيار,BENI KHYAR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,227642,72413.3333333333,2,توزر,TOZEUR,دقاش,DGECH,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+3,288995,164583.0,3,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,39336,23601.0,1,مدنين,MEDENINE,أجيم,AJIM,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,141038,47012.6666666667,2,قفصة,GAFSA,سيدي عيش,SIDI ICH,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+5,2365366,832945.0,25,باجة,BEJA,تبرسق,TBORSOK,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+2,164907,86329.0,2,سليانة,SILIANA,مكثر,MAKTHER,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,55000,17267.0,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+3,373336,171618.0,3,سليانة,SILIANA,سليانة الشما لية,SILIANA NORD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,91750,27525.0,1,سليانة,SILIANA,سيدي بورويس,SIDI BOURWIS,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+4,244000,26740.0,4,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,41424,13577.0,1,القصرين,KASSERINE,القصرين الشما لية,KASSERIN NORD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,87000,25164.0,1,المهدية,MAHDIA,أولاد الشامخ,AWLED CHAMEKH,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+7,465643,200775.0,7,باجة,BEJA,تستور,TASTOUR,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+4,368144,156157.0,5,سليانة,SILIANA,الروحية,ROUHIYA,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,156065,49780.0,6,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+4,722000,214182.333333333,11,القيروان,KAIROUAN,السبيخة,SBIKHA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+2,144000,46577.0,2,القيروان,KAIROUAN,العلا,AL ALAA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,180000,72027.0,2,القيروان,KAIROUAN,حاجب العيون,HAJEB LAYOUN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+8,791922,343929.0,15,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,41000,13666.6666666667,1,القصرين,KASSERINE,فريانة,FERYANA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+2,201059,110120.0,2,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,188000,100287.666666667,3,القيروان,KAIROUAN,سيدي عمر بوحجلة,SIDI OMOR BOUHAJLA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,144587,44088.0,1,نابل,NABEUL,نابل,NABEUL,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,82376,27458.6666666667,1,سيدي بوزيد,SIDI BOUZIDE,سوق الجديد,SOUK EJDID,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,1223000,369839.0,10,الكاف,KEF,نبر,NEBR,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,48500,11935.0,0,المنستير,MOUNASTIR,المكنين,MEKNIN,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,1704000,518753.0,7,المهدية,MAHDIA,المهدية,MAHDIA,التحويل الأولي,PREMIERE TRANSFORMATION,نوفمبر,nov.,2018,SQL Results
+3,163037,63730.0,2,مدنين,MEDENINE,مدنين الشما لية,MEDNI NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,60400,29920.0,1,تطاوين,TATAWINE,البئر الأحمر,BIR LAHMER,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,121878,29655.0,1,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,113000,50208.0,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,1620000,520595.0,11,بنزرت,BIZERTE,ماطر,MATEUR,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,54000,4050.0,0,سوسة,SOUSSE,هرقلة,HIRGLA,تربية الأحياء المائية,AQUACULTURE,ديسمبر,déc.,2017,SQL Results
+1,710000,240245.0,3,صفاقس,SFAXE,عقارب,AGAREB,التحويل الأولي,PREMIERE TRANSFORMATION,فيفري,févr.,2018,SQL Results
+1,124057,36162.0,2,القصرين,KASSERINE,تا لة,TELA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+6,507764,279271.0,6,القصرين,KASSERINE,حاسي الفريد,HASSI ELFRID,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,49245,16250.0,1,قابس,GABES,مطماطة,MATMATA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,124057,36162.0,2,القصرين,KASSERINE,تا لة,TELA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,152192,48196.3333333333,2,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,51000,28050.0,1,القصرين,KASSERINE,جدليان,JDELYAN,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,123556,37673.0,5,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,97000,49418.0,2,بنزرت,BIZERTE,جومين,JOUMIN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,138077,46025.6666666667,2,قفصة,GAFSA,بلخير,BELKHIR,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,466000,128661.0,6,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,44762,5750.0,1,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+3,179879,98933.0,3,القصرين,KASSERINE,حيدرة,HIDRA,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+4,269899,130842.0,4,قابس,GABES,مطماطة الجديدة,MATMATA ELJADIDA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,86281,25802.0,2,صفاقس,SFAXE,عقارب,AGAREB,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+2,115649,14520.0,2,صفاقس,SFAXE,المحرس,MAHRES,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+2,91000,36019.0,2,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+4,421880,228085.0,4,سليانة,SILIANA,مكثر,MAKTHER,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+3,256057,136354.0,3,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,128612,51291.0,2,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+2,114519,28764.0,2,صفاقس,SFAXE,جبنيانة,JEBINYANA,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,750000,211659.333333333,4,سيدي بوزيد,SIDI BOUZIDE,الرقاب,ERGAB,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2018,SQL Results
+1,61000,32643.0,1,تطاوين,TATAWINE,الصمّار,SAMMAR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,50213,14700.0,1,سيدي بوزيد,SIDI BOUZIDE,سبا لة أولاد عسكر,SEBELET AWLED ASKAR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,48120,6081.0,1,صفاقس,SFAXE,ساقية الدائر,SAKIYET EDAYER,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+2,129000,57458.0,3,سوسة,SOUSSE,النفيضة,NFIDHA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,80400,44220.0,1,الكاف,KEF,تاجروين,TAJERWIN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,91993,50579.0,1,الكاف,KEF,تاجروين,TAJERWIN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,50000,7500.0,2,نابل,NABEUL,منزل تميم,MANZEL TMIM,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,139556,53718.0,1,نابل,NABEUL,بني خيار,BENI KHYAR,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,75350,25116.6666666667,1,قبلي,KEBELLI,قبلي الجنوبية,KEBELLI SUD,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+2,191000,55157.0,2,المهدية,MAHDIA,السواسي,ESSWASSI,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,90225,30075.0,1,قبلي,KEBELLI,رجيم معتوق,ٌRegim Maatoug,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+1,50818,12842.0,1,الكاف,KEF,قلعة سنان,KALAT SINAN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,420000,208075.0,10,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+5,558000,172419.0,7,القيروان,KAIROUAN,عين جلولة,AIN JALOULA,الفلاحي,AGRICULTURE,أوت,août,2018,SQL Results
+1,1327000,517950.0,7,القيروان,KAIROUAN,السبيخة,SBIKHA,التحويل الأولي,PREMIERE TRANSFORMATION,جويلية,juill.,2018,SQL Results
+2,93619,25360.0,2,قبلي,KEBELLI,دوز الجنوبية,DOUZ SUD,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+1,81000,44179.0,1,تطاوين,TATAWINE,رمادة,REMEDA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,70000,12460.0,1,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,52000,6713.0,1,المهدية,MAHDIA,ملولش,MLOULECH,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+3,305000,59683.0,5,المهدية,MAHDIA,الجم,EL JEM,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,57402,13500.0,1,قبلي,KEBELLI,رجيم معتوق,ٌRegim Maatoug,الفلاحي,AGRICULTURE,أكتوبر,oct.,2018,SQL Results
+2,130607,44259.0,3,سيدي بوزيد,SIDI BOUZIDE,بئر الحفي,BIR HFAY,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,52700,7680.0,1,المنستير,MOUNASTIR,قصيبة المديوني,KSIBET ALMADYOUNI,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,97247,53486.0,1,سيدي بوزيد,SIDI BOUZIDE,جلمة,JELMA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,19900,10945.0,1,الكاف,KEF,الدهماني,DAHMENI,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,66875,22289.0,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,51030,12890.0,1,صفاقس,SFAXE,جبنيانة,JEBINYANA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+5,284141,108601.0,5,قابس,GABES,المطوية,EL METWEYA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,196012,46462.0,1,مدنين,MEDENINE,جرجيس,JERJIS,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+2,316000,152319.0,4,بنزرت,BIZERTE,تينجة,TINJA,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+3,122986,46700.0,3,سيدي بوزيد,SIDI BOUZIDE,المزونة,ELMZOUNA,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+2,147000,47587.0,2,القيروان,KAIROUAN,الشراردة,CHRARDA,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,135149,20843.0,1,تــونس,TUNIS,تونس المدينة,TUNIS ELMADINA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,64020,21340.0,1,قفصة,GAFSA,القطار,ALKATAR,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,163500,23775.0,1,أريانة,ARIANA,سيدي ثابت,SID THABET,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,100000,15000.0,2,بنزرت,BIZERTE,جرزونة,JARZOUNA,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,121078,40892.0,6,نابل,NABEUL,قليبية,KLIBYA,الصيد البحري,PECHE,ماي,mai,2018,SQL Results
+1,83735,25245.6666666667,1,قبلي,KEBELLI,قبلي الشما لية,KEBELLI NORD,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+1,3170000,543892.0,12,سيدي بوزيد,SIDI BOUZIDE,سيدي علي بن عون,SIDI ALI BEN OUN,التحويل الأولي,PREMIERE TRANSFORMATION,جوان,juin,2018,SQL Results
+2,159000,51747.6666666667,2,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,أكتوبر,oct.,2018,SQL Results
+4,996528,308461.0,5,زغوان,ZAGHOUANE,زغوان,ZAGOUAN,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,158998,46656.0,3,قابس,GABES,المطوية,EL METWEYA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+2,139683,42332.0,2,قابس,GABES,منزل الحبيب,MANZE EL HABIB,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+2,201957,79465.0,2,قفصة,GAFSA,قفصة الجنوبية,GAFSA SUD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,55000,6707.0,1,سوسة,SOUSSE,هرقلة,HIRGLA,الخدمات,SERVICE,ديسمبر,déc.,2017,SQL Results
+1,84800,45284.0,1,أريانة,ARIANA,سيدي ثابت,SID THABET,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,38500,5576.0,1,المنستير,MOUNASTIR,المكنين,MEKNIN,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,50000,7330.0,1,سوسة,SOUSSE,أكودة,AKOUDA,الخدمات,SERVICE,أكتوبر,oct.,2017,SQL Results
+4,299500,148493.0,4,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,99895,54943.0,1,مدنين,MEDENINE,ميدون,MIDOUN,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,380000,189840.0,1,سليانة,SILIANA,قعفور,GAAFOUR,الفلاحي,AGRICULTURE,سبتمبر,sept.,2017,SQL Results
+1,72663,24221.0,1,قفصة,GAFSA,السند,ESNAD,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,95000,50553.0,1,سوسة,SOUSSE,القلعة الصغرى,KALAA SOUGRA,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+3,105780,27474.0,3,الكاف,KEF,القصور,ELKSOUR,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+2,46194,22459.0,2,الكاف,KEF,الكاف الشرقية,KEF EST,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,70450,21136.0,1,صفاقس,SFAXE,بئر علي بن خليفة,BIR ALI KHELIFFA,الخدمات,SERVICE,جوان,juin,2018,SQL Results
+1,79000,26175.0,1,القيروان,KAIROUAN,منزل المهيري,MENZEL MHIRI,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+2,38000,13800.0,2,الكاف,KEF,نبر,NEBR,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+3,220000,112387.0,3,المهدية,MAHDIA,بو مرداس,BOU MERDES,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,73000,20240.6666666667,1,القيروان,KAIROUAN,القيروان الشما لية,KAIROUAN NORD,الخدمات,SERVICE,نوفمبر,nov.,2018,SQL Results
+1,49000,13190.0,1,سوسة,SOUSSE,القلعة الكبرى,KALAA ELKOUBRA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,226100,91902.0,2,قابس,GABES,الحامة,HAMMA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,103732,57052.0,1,قبلي,KEBELLI,سوق الأحد,SOUK LAHAD,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,128000,40913.0,2,تطاوين,TATAWINE,تطاوين الشما لية,TATAWIN NORD,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,26000,7052.0,1,القيروان,KAIROUAN,السبيخة,SBIKHA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,80304,44168.0,1,قفصة,GAFSA,السند,ESNAD,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+2,203861,106518.0,2,القصرين,KASSERINE,سبيبة,SBIBA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,340000,74459.0,2,باجة,BEJA,مجاز الباب,MJEZ ELBEB,الفلاحي,AGRICULTURE,فيفري,févr.,2018,SQL Results
+1,37000,19679.0,1,المهدية,MAHDIA,المهدية,MAHDIA,الفلاحي,AGRICULTURE,سبتمبر,sept.,2018,SQL Results
+1,200000,63413.0,2,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+2,159400,87307.0,2,تطاوين,TATAWINE,البئر الأحمر,BIR LAHMER,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,1684000,556087.0,1,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,التحويل الأولي,PREMIERE TRANSFORMATION,مارس,mars,2018,SQL Results
+1,70000,37076.0,1,المنستير,MOUNASTIR,زرمدين,ZMERDIN,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,76463,25487.6666666667,1,سيدي بوزيد,SIDI BOUZIDE,سيدي بوزيد الغربية,SIDI BOUZID OUST,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,40000,6002.0,1,بن عروس,BEN AROUSSE,فوشانة,FOUCHANA,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,51404,7711.0,1,نابل,NABEUL,قرمبا لية,GROUMBELIA,الخدمات,SERVICE,فيفري,févr.,2018,SQL Results
+1,83062,27687.0,1,القيروان,KAIROUAN,سيدي علي نصرالله,SIDI ALI NASR ALLAH,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,2513000,460496.0,13,المنستير,MOUNASTIR,طبلبة,TBOLBA,الصيد البحري,PECHE,أكتوبر,oct.,2018,SQL Results
+1,79300,29117.0,1,صفاقس,SFAXE,المحرس,MAHRES,الفلاحي,AGRICULTURE,جوان,juin,2018,SQL Results
+1,162000,47402.0,3,القيروان,KAIROUAN,الوسلاتية,WESLATIYA,الخدمات,SERVICE,أوت,août,2018,SQL Results
+1,510000,184272.666666667,7,قابس,GABES,دخيلة توجان,DEKHILET TOUJEN,الخدمات,SERVICE,جويلية,juill.,2018,SQL Results
+1,212719,88702.0,3,منــوبة,MANOUBA,الجديدة,ALJADIDA,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,180987,66262.0,2,سليانة,SILIANA,مكثر,MAKTHER,الفلاحي,AGRICULTURE,نوفمبر,nov.,2017,SQL Results
+1,52105,13162.0,1,صفاقس,SFAXE,العامرة,EL AMRA,الخدمات,SERVICE,نوفمبر,nov.,2017,SQL Results
+1,184117,57589.0,5,نابل,NABEUL,بوعرقوب,BOU ARGOUB,الفلاحي,AGRICULTURE,أكتوبر,oct.,2017,SQL Results
+1,80000,38142.0,1,المهدية,MAHDIA,شربان,CHERBEN,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,1372000,533209.0,10,المهدية,MAHDIA,قصور الساف,KSOUR ESSEF,التحويل الأولي,PREMIERE TRANSFORMATION,أوت,août,2017,SQL Results
+1,53179,3793.0,0,توزر,TOZEUR,الحامة,El Hama,الفلاحي,AGRICULTURE,مارس,mars,2018,SQL Results
+1,20819,11450.0,1,نابل,NABEUL,منزل بوزلفة,MANZEL BOUZALFA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2017,SQL Results
+1,1921000,546995.0,3,المهدية,MAHDIA,المهدية,MAHDIA,التحويل الأولي,PREMIERE TRANSFORMATION,ديسمبر,déc.,2017,SQL Results
+1,96000,45857.0,1,المهدية,MAHDIA,السواسي,ESSWASSI,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,36450,12148.0,1,الكاف,KEF,القصور,ELKSOUR,الخدمات,SERVICE,أفريل,avr.,2018,SQL Results
+1,117000,55840.0,2,تطاوين,TATAWINE,الصمّار,SAMMAR,الخدمات,SERVICE,مارس,mars,2018,SQL Results
+1,136449,55320.0,1,قفصة,GAFSA,القطار,ALKATAR,الفلاحي,AGRICULTURE,أفريل,avr.,2018,SQL Results
+1,100000,46662.0,1,المهدية,MAHDIA,شربان,CHERBEN,الفلاحي,AGRICULTURE,جويلية,juill.,2018,SQL Results
+1,50000,27500.0,1,بن عروس,BEN AROUSSE,المحمدية,MHAMDIYA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,724000,319819.0,5,سليانة,SILIANA,بوعرادة,BOU ARADA,الفلاحي,AGRICULTURE,نوفمبر,nov.,2018,SQL Results
+1,57000,7073.0,1,سوسة,SOUSSE,سيدي بوعلي,SIDI BOUALI,الخدمات,SERVICE,سبتمبر,sept.,2018,SQL Results
+1,101393,30862.3333333333,1,توزر,TOZEUR,حزوة,HIZWA,الخدمات,SERVICE,ماي,mai,2018,SQL Results
+1,78000,39215.0,1,بنزرت,BIZERTE,غار الملح,GAR EL MELH,الفلاحي,AGRICULTURE,ماي,mai,2018,SQL Results
+1,142000,41988.0,1,سيدي بوزيد,SIDI BOUZIDE,السعيدة,ASSAIDA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+2,144200,18427.0,2,أريانة,ARIANA,التضامن,TATHAMON,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results
+1,22000,3353.0,1,المنستير,MOUNASTIR,الوردانين,WIRDANIN,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,84201,45640.0,1,سليانة,SILIANA,كسرى,KESSRA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,60200,18700.0,1,صفاقس,SFAXE,منزل شاكر,MANZEL CHAKKER,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,80010,43537.0,1,صفاقس,SFAXE,بئر علي بن خليفة,BIR ALI KHELIFFA,الفلاحي,AGRICULTURE,ديسمبر,déc.,2018,SQL Results
+1,1624000,303262.0,13,بنزرت,BIZERTE,جرزونة,JARZOUNA,الصيد البحري,PECHE,ديسمبر,déc.,2018,SQL Results
+1,43179,14393.0,1,قفصة,GAFSA,بلخير,BELKHIR,الخدمات,SERVICE,ديسمبر,déc.,2018,SQL Results

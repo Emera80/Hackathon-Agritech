@@ -163,7 +163,7 @@ const LandingPage = ({ onStart }) => {
             <h1 className="text-5xl md:text-6xl font-black leading-tight"
               style={{ background: 'linear-gradient(135deg, #ffffff 0%, #86efac 50%, #fbbf24 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}
             >
-              AgriAssistant
+              AgriBot AI
               <span className="block text-4xl md:text-5xl mt-1" style={{ background: 'linear-gradient(135deg, #fbbf24, #f59e0b)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
                 Tunisie
               </span>
@@ -201,7 +201,7 @@ const LandingPage = ({ onStart }) => {
       <section className="bg-[#f8f7f4] px-6 py-16">
         <div className="max-w-4xl mx-auto">
           <p className="text-center text-xs font-bold uppercase tracking-widest text-gray-400 mb-10">
-            Pourquoi choisir AgriAssistant TN ?
+            Pourquoi choisir AgriBot AI TN ?
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {FEATURES.map((f, i) => (

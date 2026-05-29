@@ -1,0 +1,42 @@
+﻿composante,date,datemin,prixmin,prixmax,prix,feuille
+2-4-D,2021-09-23,2019-01-27,,,28.0,Feuil1
+2-4-D,2019-01-27,2019-01-27,,,26.0,Feuil1
+Bentazone,2021-09-23,2021-09-23,,,72.0,Feuil1
+Cléothodine,2021-09-23,2020-09-23,,,68.5,Feuil1
+Dicamba+2-4-D,2021-09-23,2021-09-23,,,40.0,Feuil1
+Glyphosate (20l),2021-09-23,2021-09-23,,,310.0,Feuil1
+Glyphosate1,2021-09-23,2021-09-23,,,13.0,Feuil1
+Glyphosate2,2021-06-17,2021-06-17,16.0,18.0,,Feuil1
+Prosulfocarb,2021-09-23,2021-09-23,,,44.0,Feuil1
+Traisulfuran+Dicamba,2021-09-23,2021-09-23,,,209.0,Feuil1
+Tribuneron-Methyl,2021-09-23,2021-09-23,,,1380.0,Feuil1
+Glyphosate3,2021-12-10,2021-12-10,25.0,30.0,,Feuil1
+2-4-D 3,2021-12-10,2021-12-10,25.0,40.0,,Feuil1
+Bentazone 3(basagran),2021-12-10,2021-12-10,85.0,120.0,,Feuil1
+Prosulfocarb3,2021-12-10,2021-12-10,45.0,50.0,,Feuil1
+Dicamba+2-4-D (dialen super)3,2021-12-10,2021-12-10,40.0,60.0,,Feuil1
+Cléothodine (select super)3,2021-12-10,2021-12-10,75.0,90.0,,Feuil1
+Traisulfuran+Dicamba (zoom)3,2021-12-10,2021-12-10,250.0,260.0,,Feuil1
+Tribuneron-Methyl (granstar)3,2021-12-10,2021-12-10,600.0,1400.0,,Feuil1
+Mitribuzine3,2021-12-10,2021-12-10,190.0,210.0,,Feuil1
+Glyphosate3,2022-02-01,2021-12-10,25.0,30.0,,Feuil1
+2-4-D 3,2022-02-01,2021-12-10,25.0,40.0,,Feuil1
+Bentazone 3(basagran),2022-02-01,2021-12-10,85.0,120.0,,Feuil1
+Prosulfocarb3,2022-02-01,2021-12-10,45.0,50.0,,Feuil1
+Dicamba+2-4-D (dialen super)3,2022-02-01,2021-12-10,40.0,60.0,,Feuil1
+Cléothodine (select super)3,2022-02-01,2021-12-10,75.0,90.0,,Feuil1
+Traisulfuran+Dicamba (zoom)3,2022-02-01,2021-12-10,250.0,260.0,,Feuil1
+Tribuneron-Methyl (granstar)3,2022-02-01,2021-12-10,600.0,1400.0,,Feuil1
+Mitribuzine3,2022-02-01,2021-12-10,190.0,210.0,,Feuil1
+Glyphosate2,2022-02-21,2021-06-17,,,27.0,Feuil1
+Mitribuzine2,2022-02-21,2021-12-10,,,55.0,Feuil1
+RAPSAN,2022-02-21,2021-12-11,79.0,82.604,,Feuil1
+SWIPE,2022-02-21,2021-12-12,154.0,164.0,,Feuil1
+NIKOS,2022-02-21,2021-12-13,67.8,72.0,,Feuil1
+SELECT SUPER,2022-02-21,2021-12-14,72.0,75.0,,Feuil1
+MATON,2022-02-21,2021-12-15,36.2,43.0,,Feuil1
+FIGHTER,2022-02-21,2021-12-16,83.0,83.0,,Feuil1
+FLURAL,2022-02-21,2021-12-17,38.475,44.555,,Feuil1
+SIMAKEY,2022-02-21,2021-12-18,42.0,47.0,,Feuil1
+KALASH,2022-02-21,2021-12-19,18.0,18.0,,Feuil1
+BOXER,2022-02-21,2021-12-20,45.0,46.0,,Feuil1

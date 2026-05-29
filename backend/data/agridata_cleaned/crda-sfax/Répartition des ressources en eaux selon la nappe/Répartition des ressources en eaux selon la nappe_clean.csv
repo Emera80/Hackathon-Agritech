@@ -1,0 +1,10 @@
+﻿annee,type_nappe,profondeur,stock_hydrique_mm3,exploitation,nombre_puits_controle,feuille
+2021,Profonde,m  450  <,25.5,140.0,10,Feuil1
+2021,Semi-profonde,70-450 m,11.3,73.0,5,Feuil1
+2021,Phréatique,<50 m,39.28,148.0,77,Feuil1
+2022,Profonde,m  450  <,25.5,157.0,10,Feuil1
+2022,Semi-profonde,70-450 m,11.3,78.0,5,Feuil1
+2022,Phréatique,<50 m,39.28,150.0,77,Feuil1
+2023,Profonde,m  450  <,25.5,170.0,10,Feuil1
+2023,Semi-profonde,70-450 m,11.3,82.0,5,Feuil1
+2023,Phréatique,<50 m,39.28,151.42,77,Feuil1

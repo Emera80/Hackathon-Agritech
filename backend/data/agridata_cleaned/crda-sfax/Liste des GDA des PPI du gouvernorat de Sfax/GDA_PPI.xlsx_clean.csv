@@ -1,0 +1,37 @@
+﻿nom_puit,annee_creation,entree_en_exploitation,nom_gda,delegation,superficie_irrigable_ha,vocation,nombre_exploitants_beneficiaires,2023_exploitation,intensification_2023,note,feuille
+Torba 1,1993.0,1997.0,Torba 1,Agareb,149,Irrigation agricole,149,76.5,95.3,,GDA
+Torba 2 mkarrer,2005.0,2010.0,Torba 2 mkarrer,Agareb,76,Irrigation agricole,64,94.7,136.8,,GDA
+Torba 3,1996.0,2004.0,Torba 3,Agareb,73,Irrigation agricole,51,137.0,157.5,,GDA
+Torba diwane,1999.0,2006.0,Torba diwane,Agareb,42,Irrigation agricole,19,119.0,131.0,,GDA
+Boutlila,1997.0,2016.0,Boutlila,Agareb,120,Irrigation agricole,74,125.0,141.7,,GDA
+Bir Lahmer,1995.0,1999.0,Al Imtayaz,Hencha,85,Irrigation agricole,87,52.9,52.9,,GDA
+Markez Mosbah,1997.0,2002.0,Azzaytouna,Hencha,111,Irrigation agricole,56,0.0,0.0,Aucune exploitation,GDA
+Rhahla,1997.0,2001.0,Rhahla,Hencha,53,Irrigation agricole,56,37.735849056603776,57.54716981132076,,GDA
+Chograne,1991.0,1993.0,Essafa,Hencha,70,Irrigation agricole,15,52.9,84.3,,GDA
+Eau usée traitée,,2011.0,Hencha,Hencha,50,Irrigation agricole,15,100.0,104.0,Source d'eau: Eau usée traitée,GDA
+Gssar Errih,1992.0,1995.0,Gssar Errih,Menzel Chaker,65,Irrigation agricole,50,92.3,53.8,,GDA
+Bou Jmal,,1997.0,Bou Jmal,Menzel Chaker,71,Irrigation agricole,26,0.0,0.0,Aucune exploitation,GDA
+Chaalab,1995.0,1998.0,Chaalab,Menzel Chaker,87,Irrigation agricole,58,63.2,85.1,,GDA
+El Achach,1996.0,2006.0,El Achach,Menzel Chaker,70,Irrigation agricole,83,14.3,17.1,,GDA
+Bir Elmalouli,2004.0,2006.0,Bir Elmalouli,Menzel Chaker,74,Irrigation agricole,29,140.5,140.5,,GDA
+Bou Jarboua,1999.0,2007.0,Bir Jaber,Menzel Chaker,74,Irrigation agricole,58,20.3,40.5,,GDA
+Sidi Ghrib,1995.0,2003.0,Sidi Ghrib,Mahrès,70,Irrigation agricole,56,142.9,147.1,,GDA
+El Ajangua,,2001.0,El Ajangua,Djebniana,103,Irrigation agricole,133,24.3,55.8,,GDA
+Bottria,1998.0,2001.0,Bottria,Djebniana,68,Irrigation agricole,49,91.2,117.6,,GDA
+El mnassria,1992.0,1994.0,El mnassria,Djebniana,99,Irrigation agricole,109,53.5,100.0,,GDA
+El Hzag 1,,2000.0,El Hzag 1,Djebniana,117,Irrigation agricole,85,88.5,117.1,,GDA
+El Hzag 2,,2014.0,El Hzag 2,Djebniana,121,Irrigation agricole,110,194.2,271.2,,GDA
+El Haoudh,,2003.0,El Haoudh,Djebniana,80,Irrigation agricole,107,62.5,75.0,,GDA
+Bletech,1995.0,1997.0,El Hmaza - Bletech,Djebniana,88,Irrigation agricole,60,0.0,0.0,Aucune exploitation,GDA
+Dhraa B Zied,1998.0,2004.0,Ettomouh,El Amra,48,Irrigation agricole,42,134.4,134.4,,GDA
+El Amra 2,2006.0,2006.0,El Fidh,El Amra,83,Irrigation agricole,125,59.3,88.2,,GDA
+Beliana,1999.0,2003.0,Beliana,El Amra,88,Irrigation agricole,103,106.8,110.3,,GDA
+El Khcharma,1998.0,2007.0,El Khcharma,El Amra,82,Irrigation agricole,28,79.3,79.3,,GDA
+Dhraa Boulayech,1997.0,1999.0,Dhraa Boulayech,El Amra,102,Irrigation agricole,125,78.4,118.6,,GDA
+El Mahara 1,2001.0,2019.0,El Mahara 1,El Amra,68,Irrigation agricole,25,97.2,135.4,,GDA
+El Mahara sud,2002.0,,El Mahara 2,El Amra,83,Irrigation agricole,67,0.0,0.0,Aucune exploitation,GDA
+Jlidia,,1993.0,Jlidia,Graiba,175,Irrigation agricole,87,0.0,0.0,Exploitation par SONEDE,GDA
+Ramla,1994.0,1997.0,El Wassat,Kerkennah,180,Irrigation agricole,1945,133.3,134.4,,GDA
+Ouled Ezzedine (Kerkennah),2009.0,2012.0,El Baraka,Kerkennah,125,Irrigation agricole,468,112.0,112.4,,GDA
+Mellita (kerkennah),1995.0,1998.0,El Borj,Kerkennah,128,Irrigation agricole,380,128.0,93.8,,GDA
+Eau usée traitée,1988.0,1988.0,El Mostakbel pour EUT,Tina,452,Irrigation agricole,7,21.6,43.2,Source d'eau: Eau usée traitée,GDA

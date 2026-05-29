@@ -1,0 +1,28 @@
+﻿date,nom_ar,nom_fr,unite,valeur
+2025-12-16 06:00:00,Vitesse du vent,Vitesse du vent,m/s,0.64
+2025-12-16 06:00:00,Direction du vent,Direction du vent,Deg,185.4
+2025-12-16 06:00:00,Température,Température,°c,13.1
+2025-12-16 06:00:00,Humidité relative,Humidité relative,%,100.0
+2025-12-16 06:00:00,Point de Rosée,Point de Rosée,°c,13.1
+2025-12-16 06:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2025-12-16 06:00:00,Pression atmosphérique,Pression atmosphérique,hPa,982.9
+2025-12-16 06:00:00,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,0.0
+2025-12-16 06:00:00,Évapotranspiration journalière,Évapotranspiration journalière,mm/j,0.52
+2025-12-16 02:00:00,Vitesse du vent,Vitesse du vent,m/s,0.37
+2025-12-16 02:00:00,Direction du vent,Direction du vent,Deg,287.0
+2025-12-16 02:00:00,Température,Température,°c,14.0
+2025-12-16 02:00:00,Humidité relative,Humidité relative,%,95.2
+2025-12-16 02:00:00,Point de Rosée,Point de Rosée,°c,13.2
+2025-12-16 02:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2025-12-16 02:00:00,Pression atmosphérique,Pression atmosphérique,hPa,984.7
+2025-12-16 02:00:00,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,0.0
+2025-12-16 02:00:00,Évapotranspiration journalière,Évapotranspiration journalière,mm/j,0.52
+2025-12-16 00:00:00,Vitesse du vent,Vitesse du vent,m/s,1.14
+2025-12-16 00:00:00,Direction du vent,Direction du vent,Deg,175.3
+2025-12-16 00:00:00,Température,Température,°c,14.5
+2025-12-16 00:00:00,Humidité relative,Humidité relative,%,96.1
+2025-12-16 00:00:00,Point de Rosée,Point de Rosée,°c,13.9
+2025-12-16 00:00:00,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2025-12-16 00:00:00,Pression atmosphérique,Pression atmosphérique,hPa,985.7
+2025-12-16 00:00:00,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,0.0
+2025-12-16 00:00:00,Évapotranspiration journalière,Évapotranspiration journalière,mm/j,1.19

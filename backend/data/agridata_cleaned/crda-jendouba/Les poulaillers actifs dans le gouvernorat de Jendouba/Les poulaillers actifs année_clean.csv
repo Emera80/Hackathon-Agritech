@@ -1,0 +1,37 @@
+﻿annee,delegation,nombre_decloserie,capacite_decloserie,production_des_meres_en_million_dœuf,capacite_des_poulaillers_des_reproducteurs,nombre_des_pulaillers_reproducteurs,production_des_oeufs_de_consommation_en_million_dœuf,capacite_des_poulaillers_des_oeufs_de_consommation,nombre_des_poulaillers_des_oeufs_de_consommation,production_des_viandes_de_voulailles_en_tonnes,capacite_des_poulaillers_de_poulet_de_chair_en_pouce,nombre_des_poulaillers_de_poulet_de_chair,feuille
+2021,Jendouba,3.0,12900.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2021,Jendouba Nord,2.0,18600.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2021,bousalem,2.0,11000.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2021,Baltabouauen,6.0,33340.0,190.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2021,Tabarka,5.0,39360.0,200.0,0.0,0.0,0.0,1.0,130000.0,14869441.0,1.0,672000.0,Feuil2
+2021,Aïn Draham,5.0,32700.0,163.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2021,Fernana,3.0,17700.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2021,Ghardimaou,1.0,1500.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2021,Oued Mliz,3.0,7500.0,20.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,Feuil2
+2022,Jendouba,,,,,,,,,,,,Feuil2
+2022,Jendouba Nord,,,,,,,,,,,,Feuil2
+2022,bousalem,,,,,,,,,,,,Feuil2
+2022,Baltabouauen,,,,,,,,,,,,Feuil2
+2022,Tabarka,,,,,,,,,,,,Feuil2
+2022,Aïn Draham,,,,,,,,,,,,Feuil2
+2022,Fernana,,,,,,,,,,,,Feuil2
+2022,Ghardimaou,,,,,,,,,,,,Feuil2
+2022,Oued Mliz,,,,,,,,,,,,Feuil2
+2023,Jendouba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2023,Jendouba Nord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,132.0,22000.0,2.0,Feuil2
+2023,bousalem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.0,13500.0,2.0,Feuil2
+2023,Baltabouauen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,270.0,45000.0,7.0,Feuil2
+2023,Tabarka,1.0,672000.0,19843673.0,130000.0,1.0,0.0,0.0,0.0,495.0,92860.0,7.0,Feuil2
+2023,Aïn Draham,,,,,,0.0,0.0,0.0,265.0,39700.0,5.0,Feuil2
+2023,Fernana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,52.0,18100.0,2.0,Feuil2
+2023,Ghardimaou,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2023,Oued Mliz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2024,Jendouba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2024,Jendouba Nord,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67.0,22000.0,2.0,Feuil2
+2024,bousalem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,13500.0,2.0,Feuil2
+2024,Baltabouauen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,170.0,45000.0,7.0,Feuil2
+2024,Tabarka,1.0,672000.0,20241600.0,130000.0,1.0,0.0,0.0,0.0,303.0,92860.0,7.0,Feuil2
+2024,Aïn Draham,,,,,,,,,127.0,39700.0,5.0,Feuil2
+2024,Fernana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,18100.0,2.0,Feuil2
+2024,Ghardimaou,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2
+2024,Oued Mliz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Feuil2

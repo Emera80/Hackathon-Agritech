@@ -1,0 +1,45 @@
+﻿annee,campagne_de_vaccination,espece_animale,nombre_animaux_programmes,nombre_animaux_vaccines,nombre_de_proprietaires,taux_de_couverture,feuille
+2017,La rage,chiens,23750,23942,11880,100.0,Feuil1
+2017,La rage,chats,2000,711,450,35.55,Feuil1
+2017,La rage,camelins,425,360,69,84.70588235294117,Feuil1
+2017,La rage,équins,275,257,93,93.45454545454545,Feuil1
+2017,La rage,bovins,250,241,1,96.39999999999999,Feuil1
+2017,Fièvre afteuse,bovins,11000,10899,2324,99.08,Feuil1
+2017,Fièvre afteuse,ovins,280000,289453,9591,100.0,Feuil1
+2017,Fièvre afteuse,caprins,30000,29346,4138,97.82,Feuil1
+2017,Clavelée,ovins,280000,236810,7804,84.57,Feuil1
+2017,Clavelée,camelins,425,360,69,84.7,Feuil1
+2017,Blue tongue,ovins,280000,0,0,0.0,Feuil1
+2018,La rage,chiens,23550,20907,10439,88.77707006369427,Feuil1
+2018,La rage,chats,2000,948,461,47.4,Feuil1
+2018,La rage,camelins,500,453,65,90.60000000000001,Feuil1
+2018,La rage,équins,400,381,101,95.25,Feuil1
+2018,La rage,bovins,250,257,1,100.0,Feuil1
+2018,Fièvre afteuse,bovins,11000,10833,2314,98.48,Feuil1
+2018,Fièvre afteuse,ovins,300000,304122,10441,100.0,Feuil1
+2018,Fièvre afteuse,caprins,30000,29935,4358,99.78,Feuil1
+2018,Clavelée,ovins,300000,316098,10787,100.0,Feuil1
+2018,Clavelée,camelins,500,453,65,90.6,Feuil1
+2018,Blue tongue,ovins,300000,13933,284,4.64,Feuil1
+2019,La rage,chiens,23700,17942,9494,76.0,Feuil1
+2019,La rage,chats,2000,1500,823,75.0,Feuil1
+2019,La rage,camelins,500,430,70,86.0,Feuil1
+2019,La rage,équins,250,244,67,98.0,Feuil1
+2019,La rage,bovins,250,251,1,100.0,Feuil1
+2019,Fièvre afteuse,bovins,11000,12607,2414,100.0,Feuil1
+2019,Fièvre afteuse,ovins,300000,313882,10735,100.0,Feuil1
+2019,Fièvre afteuse,caprins,30000,26392,3915,88.0,Feuil1
+2019,Clavelée,ovins,300000,316098,10787,100.0,Feuil1
+2019,Clavelée,camelins,500,425,70,85.0,Feuil1
+2019,Blue tongue,ovins,300000,0,0,0.0,Feuil1
+2020,La rage,chiens,20000,9609,5213,48.045,Feuil1
+2020,La rage,chats,1500,421,284,28.066666666666666,Feuil1
+2020,La rage,camelins,500,552,104,100.0,Feuil1
+2020,La rage,équins,300,198,77,66.0,Feuil1
+2020,La rage,bovins,300,249,1,83.0,Feuil1
+2020,Fièvre afteuse,bovins,13000,11433,2374,87.94615384615385,Feuil1
+2020,Fièvre afteuse,ovins,320000,313214,11554,97.879375,Feuil1
+2020,Fièvre afteuse,caprins,30000,34762,4667,100.0,Feuil1
+2020,Clavelée,ovins,320000,271193,9907,84.7478125,Feuil1
+2020,Clavelée,camelins,500,552,104,100.0,Feuil1
+2020,Blue tongue,ovins,0,0,0,0.0,Feuil1

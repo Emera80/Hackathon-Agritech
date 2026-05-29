@@ -1,0 +1,28 @@
+﻿annee,delegation,effectif_bovin_en_tete,effectif_ovin_en_tete,effectif_caprin_en_tete,effectif_camelides_en_tete,nombre_des_ruches_dabeille,nombre_des_unites_des_poules_pondeuses,nombre_des_unite_sdes_poulets_de_chair,nombre_des_clapiers,nombre_des_lapines_reproductrices,feuille
+2022,Médenine Sud,56.0,27000,6250,,200,0,20000,2,240,Feuil1
+2022,Sidi Makhlouf,0.0,45000,15100,250.0,400,0,20000,1,100,Feuil1
+2022,Ajim,0.0,31000,8000,350.0,100,0,25000,1,100,Feuil1
+2022,Houmet Essouk,260.0,5500,1550,,0,0,,,45,Feuil1
+2022,Midoun,39.0,9950,1700,70.0,100,0,,,75,Feuil1
+2022,Zarzis,38.0,13000,2200,160.0,100,0,,,80,Feuil1
+2022,Médenine Nord,265.0,28500,5000,100.0,300,3000,50000,,320,Feuil1
+2022,Ben Guerdane,37.0,200000,27500,11920.0,300,0,35000,,310,Feuil1
+2022,Beni Khedech,0.0,80000,32000,150.0,500,0,0,,250,Feuil1
+2023,Médenine Sud,56.0,27000,6250,,200,0,20000,2,240,Feuil1
+2023,Sidi Makhlouf,30.0,45000,15100,250.0,400,0,20000,1,100,Feuil1
+2023,Ajim,0.0,31000,8000,350.0,100,0,25000,1,100,Feuil1
+2023,Houmet Essouk,51.0,5500,1550,,0,0,,,45,Feuil1
+2023,Midoun,31.0,9950,1700,70.0,100,0,,,75,Feuil1
+2023,Zarzis,40.0,13000,2200,160.0,100,0,,,80,Feuil1
+2023,Médenine Nord,64.0,28500,5000,100.0,300,3000,50000,,320,Feuil1
+2023,Ben Guerdane,,200000,27500,11920.0,300,0,35000,,310,Feuil1
+2023,Beni Khedech,0.0,80000,32000,150.0,500,0,0,,250,Feuil1
+2024,Médenine Nord,56.0,27000,6250,,200,0,20000,2,240,Feuil1
+2024,Médenine Sud,0.0,45000,15100,250.0,400,0,20000,1,100,Feuil1
+2024,Sidi Makhlouf,0.0,31000,8000,350.0,100,0,25000,1,100,Feuil1
+2024,Ajim,260.0,5500,1550,,0,0,−,,45,Feuil1
+2024,Houmet Essouk,39.0,9950,1700,70.0,100,0,−,−,75,Feuil1
+2024,Midoun,38.0,13000,2200,160.0,100,0,−,−,80,Feuil1
+2024,Zarzis,265.0,28500,5000,100.0,300,3000,50000,−,320,Feuil1
+2024,Ben Guerdane,37.0,200000,27500,11920.0,300,0,35000,−,310,Feuil1
+2024,Beni Khedech,0.0,80000,32000,150.0,500,0,0,−,250,Feuil1

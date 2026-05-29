@@ -1,0 +1,42 @@
+﻿grade_total_corps_ar,nombre,grade_total_corps_fr,feuille
+مهندس عامّ,1,Ingénieur général,Personnel_CRDA de Béja
+مهندس رئيس,13,Ingénieur en chef,Personnel_CRDA de Béja
+مهندس أوّل,26,Ingénieur principal,Personnel_CRDA de Béja
+مجموع السّلك المشترك لمهندسي الإدارات العموميّة,40,Total du corps commun des ingénieurs des administrations publiques,Personnel_CRDA de Béja
+طبيب بيطري صحّي رئيس,1,Médecin vétérinaire sanitaire en chef,Personnel_CRDA de Béja
+طبيب بيطري صحّي أول,1,Médecin vétérinaire sanitaire principal,Personnel_CRDA de Béja
+طبيب بيطري صحّي,2,Médecin vétérinaire sanitaire,Personnel_CRDA de Béja
+مجموع السلك المشترك للأطبّاء البياطرة,4,Total du corps commun des médecins vétérinaires sanitaires,Personnel_CRDA de Béja
+طبيب بيطري متفقّد مركزي,1,Médecin vétérinaire inspecteur divisionnaire,Personnel_CRDA de Béja
+طبيب بيطري متفقّد جهوي,1,Médecin vétérinaire inspecteur régional,Personnel_CRDA de Béja
+مجموع سلك الأطبّاء البياطرة المتفقدين,2,Total du corps commun des médecins vétérinaires inspecteurs,Personnel_CRDA de Béja
+تقني رئيس,13,Technicien en chef,Personnel_CRDA de Béja
+تقني أوّل,39,Technicien principal,Personnel_CRDA de Béja
+تقني,42,Technicien,Personnel_CRDA de Béja
+مساعد تقني,10,Technicien adjoint,Personnel_CRDA de Béja
+عون تقني,17,Agent technique,Personnel_CRDA de Béja
+مجموع السّلك التّقني المشترك للإدارات العموميّة,121,Total du corps technique commun des administrations publiques,Personnel_CRDA de Béja
+متصرّف في الوثائق والأرشيف,1,Gestionnaire de documents et d'archives,Personnel_CRDA de Béja
+متصرّف مساعد في الوثائق والأرشيف,2,Gestionnaire adjoint de documents et d'archives,Personnel_CRDA de Béja
+مجموع سلك المتصرّفين في الوثائق والأرشيف,3,Total du corps des gestionnaires de documents et d'archives,Personnel_CRDA de Béja
+متصرّف رئيس,2,Administrateur en Chef,Personnel_CRDA de Béja
+متصرّف مستشار,3,Administrateur Conseiller,Personnel_CRDA de Béja
+متصرّف,5,Administrateur,Personnel_CRDA de Béja
+ملحق إدارة,6,Attaché d'Administration,Personnel_CRDA de Béja
+كاتب تصرّف,7,Secrétaire d'Administration,Personnel_CRDA de Béja
+مستكتب إدارة,15,Commis d'Administration,Personnel_CRDA de Béja
+مجموع السلك الإداري المشترك,38,Total du corps administratif commun des administratif publiques,Personnel_CRDA de Béja
+تقني مخبر إعلامية,4,Technicien de laboratoire informatique,Personnel_CRDA de Béja
+واضع برامج,2,Programmeur,Personnel_CRDA de Béja
+مجموع سلك محلّلي وتقنيي الإعلاميّة,6,Total du corps des analystes et des techniciens de l'informatique,Personnel_CRDA de Béja
+رئيس أشغال مخبر,2,Chef des travaux de laboratoire,Personnel_CRDA de Béja
+مجموع سلك أعوان الإطارات المشتركة للمخابر,2,Total du corps commun des personnels des cadres communs de laboratoire,Personnel_CRDA de Béja
+قيم أول في الفلاحة والصيد البحري,1,Surveillant principal en agriculture en pêche,Personnel_CRDA de Béja
+مجموع سلك رجال التعليم الثانوي الفلاحي,1,Total du corps des enseignants secondaires en agriculture et pêche,Personnel_CRDA de Béja
+مستشار المصالح العمومية,1,Conseiller des services publics,Personnel_CRDA de Béja
+مجموع سلك مستشاري المصالح العمومية,1,Total du corps des conseiller des services publics,Personnel_CRDA de Béja
+عامل من الوحدة الأولى,137,Ouvrier de la première unité,Personnel_CRDA de Béja
+عامل من الوحدة الثانية,385,Ouvrier de la deuxième unité,Personnel_CRDA de Béja
+عامل من الوحدة الثالثة,56,Ouvrier de la troisième unité,Personnel_CRDA de Béja
+مجموع سلك العملة,578,Total du corps des ouvriers,Personnel_CRDA de Béja
+المجموع العام,796,Total général,Personnel_CRDA de Béja

@@ -1,0 +1,29 @@
+﻿composante,date,datemin,prixmin,prixmax,feuille
+poussin poulet de chair 1 jour,2020-12-01,2021-09-09,1.35,1.47,Feuil1
+poussin poule pondeuse,2020-12-01,2021-09-09,1.58,1.72,Feuil1
+poussin poulet de chair 1 jour,2021-09-09,2021-09-09,1.35,1.47,Feuil1
+poussin poule pondeuse,2021-09-09,2021-09-09,1.58,1.72,Feuil1
+vache locale croisée,2021-09-09,2021-09-09,3400.0,4000.0,Feuil1
+vache race pure,2021-09-09,2021-09-09,4200.0,4500.0,Feuil1
+Génisse locale race pure,2021-09-09,2021-09-09,5000.0,6500.0,Feuil1
+Génisse locale croisée,2021-09-09,2021-09-09,4500.0,5500.0,Feuil1
+Génisse importée race laitière,2021-09-09,2021-09-09,7500.0,8300.0,Feuil1
+Génisse importée race mixte,2021-09-09,2021-09-09,7900.0,8800.0,Feuil1
+Chèvre suitée,2021-09-09,2021-09-09,360.0,400.0,Feuil1
+Taurillon maigre pour engraissement local prix kg vif,2021-09-09,2021-09-09,8.0,9.0,Feuil1
+Taurillon maigre pour engraissement importé prix kg vif,2021-09-09,2021-09-09,13.0,13.5,Feuil1
+brebis suitée,2021-09-09,2021-09-09,450.0,680.0,Feuil1
+vache suitée,2021-09-09,2021-09-09,5000.0,5500.0,Feuil1
+génisse pleine,2021-09-09,2021-09-09,5000.0,5600.0,Feuil1
+poussin poulet de chair 1 jour,2021-12-03,2021-09-09,1.57,1.64,Feuil1
+poussin poule pondeuse,2021-12-03,2021-09-09,1.7,2.12,Feuil1
+vache locale croisée,2021-12-03,2021-09-09,4500.0,5200.0,Feuil1
+vache race pure,2021-12-03,2021-09-09,5000.0,6000.0,Feuil1
+Génisse locale race pure,2021-12-03,2021-09-09,7500.0,9300.0,Feuil1
+Génisse locale croisée,2021-12-03,2021-09-09,6800.0,8700.0,Feuil1
+Génisse importée race laitière,2021-12-03,2021-09-09,8000.0,8500.0,Feuil1
+Génisse importée race mixte,2021-12-03,2021-09-09,8500.0,9000.0,Feuil1
+Chèvre suitée,2021-12-03,2021-09-09,600.0,700.0,Feuil1
+Taurillon maigre pour engraissement local prix kg vif,2021-12-03,2021-09-09,7.8,9.2,Feuil1
+Taurillon maigre pour engraissement importé prix kg vif,2021-12-03,2021-09-09,13.0,14.0,Feuil1
+brebis suitée,2021-12-03,2021-09-09,650.0,750.0,Feuil1

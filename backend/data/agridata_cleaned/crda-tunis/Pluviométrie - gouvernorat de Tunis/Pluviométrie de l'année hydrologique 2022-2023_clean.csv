@@ -1,0 +1,121 @@
+﻿mois,station,nombre_jours_pluvieux,precipitations_en_millimetres,feuille
+Septembre,Manoubia,3,33.0,Feuil1
+Septembre,CRDA Bouchoucha,3,36.0,Feuil1
+Septembre,Tunis Carthage,3,22.0,Feuil1
+Septembre,Pepiniere Gammarth,3,15.0,Feuil1
+Septembre,Belvedere,0,0.0,Feuil1
+Septembre,Sidi Hassine,3,50.5,Feuil1
+Septembre,SMVDA El Attar,4,47.0,Feuil1
+Septembre,SMVDA Borj Chakir,3,53.5,Feuil1
+Septembre,El Hrayria,3,46.0,Feuil1
+Septembre,Pepiniere El Agba,3,44.5,Feuil1
+Octobre,Manoubia,1,0.5,Feuil1
+Octobre,CRDA Bouchoucha,1,0.5,Feuil1
+Octobre,Tunis Carthage,1,1.2,Feuil1
+Octobre,Pepiniere Gammarth,1,2.0,Feuil1
+Octobre,Belvedere,0,0.0,Feuil1
+Octobre,Sidi Hassine,1,4.0,Feuil1
+Octobre,SMVDA El Attar,0,0.0,Feuil1
+Octobre,SMVDA Borj Chakir,2,2.5,Feuil1
+Octobre,El Hrayria,1,1.0,Feuil1
+Octobre,Pepiniere El Agba,1,1.5,Feuil1
+Novembre,Manoubia,7,38.0,Feuil1
+Novembre,CRDA Bouchoucha,8,43.5,Feuil1
+Novembre,Tunis Carthage,8,40.8,Feuil1
+Novembre,Pepiniere Gammarth,8,50.5,Feuil1
+Novembre,Belvedere,0,0.0,Feuil1
+Novembre,Sidi Hassine,7,42.5,Feuil1
+Novembre,SMVDA El Attar,4,52.0,Feuil1
+Novembre,SMVDA Borj Chakir,9,67.5,Feuil1
+Novembre,El Hrayria,8,59.0,Feuil1
+Novembre,Pepiniere El Agba,8,64.0,Feuil1
+Decembre,Manoubia,0,0.0,Feuil1
+Decembre,CRDA Bouchoucha,1,3.0,Feuil1
+Decembre,Tunis Carthage,1,1.6,Feuil1
+Decembre,Pepiniere Gammarth,1,3.5,Feuil1
+Decembre,Belvedere,0,0.0,Feuil1
+Decembre,Sidi Hassine,1,1.0,Feuil1
+Decembre,SMVDA El Attar,1,5.0,Feuil1
+Decembre,SMVDA Borj Chakir,1,1.8,Feuil1
+Decembre,El Hrayria,1,1.0,Feuil1
+Decembre,Pepiniere El Agba,1,1.0,Feuil1
+Janvier,Manoubia,3,9.5,Feuil1
+Janvier,CRDA Bouchoucha,4,12.0,Feuil1
+Janvier,Tunis Carthage,4,13.2,Feuil1
+Janvier,Pepiniere Gammarth,4,13.0,Feuil1
+Janvier,Belvedere,0,0.0,Feuil1
+Janvier,Sidi Hassine,4,15.5,Feuil1
+Janvier,SMVDA El Attar,0,0.0,Feuil1
+Janvier,SMVDA Borj Chakir,5,16.0,Feuil1
+Janvier,El Hrayria,4,15.0,Feuil1
+Janvier,Pepiniere El Agba,4,15.0,Feuil1
+Fevrier,Manoubia,6,41.5,Feuil1
+Fevrier,CRDA Bouchoucha,6,52.0,Feuil1
+Fevrier,Tunis Carthage,6,37.4,Feuil1
+Fevrier,Pepiniere Gammarth,6,31.0,Feuil1
+Fevrier,Belvedere,0,0.0,Feuil1
+Fevrier,Sidi Hassine,6,48.0,Feuil1
+Fevrier,SMVDA El Attar,4,80.0,Feuil1
+Fevrier,SMVDA Borj Chakir,7,45.0,Feuil1
+Fevrier,El Hrayria,6,46.0,Feuil1
+Fevrier,Pepiniere El Agba,6,43.5,Feuil1
+Mars,Manoubia,0,0.0,Feuil1
+Mars,CRDA Bouchoucha,0,0.0,Feuil1
+Mars,Tunis Carthage,0,0.0,Feuil1
+Mars,Pepiniere Gammarth,0,0.0,Feuil1
+Mars,Belvedere,1,2.5,Feuil1
+Mars,Sidi Hassine,0,0.0,Feuil1
+Mars,SMVDA El Attar,0,0.0,Feuil1
+Mars,SMVDA Borj Chakir,2,7.5,Feuil1
+Mars,El Hrayria,0,0.0,Feuil1
+Mars,Pepiniere El Agba,0,0.0,Feuil1
+Avril,Manoubia,4,30.5,Feuil1
+Avril,CRDA Bouchoucha,4,38.0,Feuil1
+Avril,Tunis Carthage,4,25.7,Feuil1
+Avril,Pepiniere Gammarth,3,15.0,Feuil1
+Avril,Belvedere,3,14.5,Feuil1
+Avril,Sidi Hassine,4,29.0,Feuil1
+Avril,SMVDA El Attar,3,35.0,Feuil1
+Avril,SMVDA Borj Chakir,4,26.7,Feuil1
+Avril,El Hrayria,4,30.0,Feuil1
+Avril,Pepiniere El Agba,4,32.5,Feuil1
+Mai,Manoubia,8,37.2,Feuil1
+Mai,CRDA Bouchoucha,8,48.0,Feuil1
+Mai,Tunis Carthage,8,27.0,Feuil1
+Mai,Pepiniere Gammarth,7,30.5,Feuil1
+Mai,Belvedere,6,40.5,Feuil1
+Mai,Sidi Hassine,7,94.5,Feuil1
+Mai,SMVDA El Attar,6,165.0,Feuil1
+Mai,SMVDA Borj Chakir,9,144.0,Feuil1
+Mai,El Hrayria,8,86.0,Feuil1
+Mai,Pepiniere El Agba,6,69.5,Feuil1
+Juin,Manoubia,5,27.4,Feuil1
+Juin,CRDA Bouchoucha,6,46.0,Feuil1
+Juin,Tunis Carthage,6,24.2,Feuil1
+Juin,Pepiniere Gammarth,5,26.5,Feuil1
+Juin,Belvedere,5,45.9,Feuil1
+Juin,Sidi Hassine,6,48.0,Feuil1
+Juin,SMVDA El Attar,4,67.0,Feuil1
+Juin,SMVDA Borj Chakir,3,29.5,Feuil1
+Juin,El Hrayria,6,49.0,Feuil1
+Juin,Pepiniere El Agba,6,86.0,Feuil1
+Juillet,Manoubia,0,0.0,Feuil1
+Juillet,CRDA Bouchoucha,0,0.0,Feuil1
+Juillet,Tunis Carthage,0,0.0,Feuil1
+Juillet,Pepiniere Gammarth,0,0.0,Feuil1
+Juillet,Belvedere,0,0.0,Feuil1
+Juillet,Sidi Hassine,0,0.0,Feuil1
+Juillet,SMVDA El Attar,0,0.0,Feuil1
+Juillet,SMVDA Borj Chakir,0,0.0,Feuil1
+Juillet,El Hrayria,0,0.0,Feuil1
+Juillet,Pepiniere El Agba,0,0.0,Feuil1
+Aout,Manoubia,0,0.0,Feuil1
+Aout,CRDA Bouchoucha,0,0.0,Feuil1
+Aout,Tunis Carthage,0,0.0,Feuil1
+Aout,Pepiniere Gammarth,0,0.0,Feuil1
+Aout,Belvedere,0,0.0,Feuil1
+Aout,Sidi Hassine,0,0.0,Feuil1
+Aout,SMVDA El Attar,0,0.0,Feuil1
+Aout,SMVDA Borj Chakir,1,7.5,Feuil1
+Aout,El Hrayria,0,0.0,Feuil1
+Aout,Pepiniere El Agba,0,0.0,Feuil1

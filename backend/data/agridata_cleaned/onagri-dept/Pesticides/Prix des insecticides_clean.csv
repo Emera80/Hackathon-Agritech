@@ -1,0 +1,88 @@
+﻿composante,date,datemin,prixmin,prixmax,prix,feuille
+Huile minérale1,2021-09-23,2021-09-23,,,8.3,Feuil1
+Huile minérale2,2021-09-23,2021-09-23,8.0,9.0,,Feuil1
+Acétamipride1,2021-09-23,2021-09-23,,,255.0,Feuil1
+Acétamipride2,2021-09-23,2021-09-23,250.0,280.0,,Feuil1
+Diméthoate1,2021-09-23,2021-09-23,,,33.5,Feuil1
+Diméthoate2,2021-09-23,2021-09-23,45.0,50.0,,Feuil1
+Deltametrine1,2021-09-23,2021-09-23,,,37.0,Feuil1
+Deltametrine2,2021-09-23,2021-09-23,70.0,75.0,,Feuil1
+Chlorpyriphos Ethyl1,2021-09-23,2021-09-23,,,42.0,Feuil1
+Chlorpyriphos Ethyl2,2021-09-23,2021-09-23,35.0,40.0,,Feuil1
+Abamectine2(1l),2021-09-23,2021-09-23,105.0,120.0,,Feuil1
+Deltametrine1,2021-09-23,2021-09-23,,,38.0,Feuil1
+Diméthoate (1l),2021-09-23,2021-09-23,,,34.0,Feuil1
+thiaclopride (500 ml),2021-09-23,2021-09-23,,,230.0,Feuil1
+thiaclopride et déltaméthrine (1l),2021-09-23,2021-09-23,,,155.0,Feuil1
+Sulfoxaflor (250 ml ),2021-09-23,2021-09-23,,,140.0,Feuil1
+Fenazaquin (1l),2021-09-23,2021-09-23,,,180.0,Feuil1
+Pyriproxyfène (1l),2021-09-23,2021-09-23,,,115.0,Feuil1
+Chlorpyriphos Ethyl (250 ml),2021-09-23,2021-09-23,,,19.0,Feuil1
+Huille minérale (20l),2021-09-23,2021-09-23,,,180.0,Feuil1
+Acétamipride2,2021-12-09,2021-09-23,,,315.0,Feuil1
+Diméthoate2,2021-12-09,2021-09-23,,,42.0,Feuil1
+Deltametrine2,2021-12-09,2021-09-23,,,73.0,Feuil1
+Chlorpyriphos Ethyl2,2021-12-09,2020-10-23,,,48.0,Feuil1
+Abamectine2(1l),2021-12-09,2021-09-23,,,200.0,Feuil1
+Cyperméthrine2 (1l),2021-12-09,2021-06-17,,,65.0,Feuil1
+Spinosade2 (100ml),2021-12-09,,,,105.0,Feuil1
+Pyriproxyféne2 ( Proximo EC),2021-12-09,2021-12-09,,,135.0,Feuil1
+Fenazaquin2 ( Magister)250ml,2021-12-09,,,,53.0,Feuil1
+Sulfoxaflor2 (250 ml),2021-12-09,2021-12-09,,,155.0,Feuil1
+Thiaclopride2 ( calypso),2021-12-09,2021-12-09,,,235.0,Feuil1
+Imidaclopride2 (1l),2021-12-10,,,,150.0,Feuil1
+Imidaclopride 3,2021-12-10,2021-12-10,150.0,300.0,,Feuil1
+Huile minérale3,2021-12-10,2021-12-10,10.0,15.0,,Feuil1
+Acétamipride3,2021-12-10,2021-12-10,250.0,280.0,,Feuil1
+Diméthoate3,2021-12-10,2021-12-10,30.0,45.0,,Feuil1
+Deltametrine3,2021-12-10,2021-12-10,50.0,75.0,,Feuil1
+Chlorpyriphos Ethyl3,2021-12-10,2021-12-10,45.0,50.0,,Feuil1
+Abamectine3,2021-12-10,2021-12-10,65.0,180.0,,Feuil1
+Cyperméthrine 3,2021-12-10,,40.0,60.0,,Feuil1
+Spinosade 240g/l(3),2021-12-10,,900.0,1200.0,,Feuil1
+Malathion,2021-12-10,2021-12-10,45.0,55.0,,Feuil1
+Imidaclopride2 (1l),2022-02-21,2021-12-11,155.0,350.0,155.0,Feuil1
+Huile minérale2,2022-02-21,2021-09-23,,,18.0,Feuil1
+Acétamipride2,2022-02-21,2021-09-23,,,320.0,Feuil1
+Diméthoate2,2022-02-21,2021-09-23,,,45.0,Feuil1
+Deltametrine2,2022-02-21,2021-09-23,73.0,96.0,,Feuil1
+Chlorpyriphos Ethyl2,2022-02-21,2021-09-23,48.0,58.0,,Feuil1
+Abamectine2(1l),2022-02-21,2021-09-23,142.0,208.0,,Feuil1
+Cyperméthrine2 (1l),2022-02-21,2021-06-17,,,65.0,Feuil1
+Spinosade2 (100ml),2022-02-21,2021-12-09,,,105.0,Feuil1
+Pyriproxyféne2 ( Proximo EC),2022-02-21,2021-12-09,,,135.0,Feuil1
+Fenazaquin2 ( Magister)250ml,2022-02-21,2021-12-09,,,53.0,Feuil1
+Sulfoxaflor2 (250 ml),2022-02-21,2021-12-09,,,155.0,Feuil1
+Thiaclopride2 ( calypso),2022-02-21,2021-12-09,,,235.0,Feuil1
+voliam targo,2022-02-21,2021-12-10,,,125.0,Feuil1
+beseige,2022-02-21,2021-12-11,,,160.0,Feuil1
+proclaim,2022-02-21,2021-12-12,,,130.0,Feuil1
+takumi,2022-02-21,2021-12-13,,,65.0,Feuil1
+coragen,2022-02-21,2021-12-14,,,160.0,Feuil1
+sivanto prime,2022-02-21,2021-12-15,,,150.0,Feuil1
+kungfu,2022-02-21,2021-12-16,,,86.0,Feuil1
+Imidaclopride2 (1l),2023-01-20,2022-02-21,345.0,345.0,345.0,Feuil1
+Huile minérale2,2023-01-20,2022-02-22,20.0,20.0,18.0,Feuil1
+Acétamipride2,2023-01-20,2022-02-22,385.0,390.0,385.0,Feuil1
+Diméthoate2,2023-01-20,2022-02-22,45.0,45.0,45.0,Feuil1
+Deltametrine2,2023-01-20,2022-02-22,130.0,130.0,110.0,Feuil1
+Chlorpyriphos Ethyl2,2023-01-20,2022-02-22,50.0,50.0,50.0,Feuil1
+Abamectine2(1l),2023-01-20,2022-02-22,142.0,208.0,,Feuil1
+Chlorpyriphos Ethyl2,2023-01-20,2022-02-23,50.0,50.0,50.0,Feuil1
+Cyperméthrine2 (1l),2023-01-20,2022-02-24,50.0,50.0,50.0,Feuil1
+Spinosade2 (100ml),2023-01-20,2022-02-25,110.0,110.0,110.0,Feuil1
+Pyriproxyféne2 ( Proximo EC),2023-01-20,2022-02-26,135.0,140.0,115.0,Feuil1
+Fenazaquin2 ( Magister)250ml,2023-01-20,2022-02-27,50.0,50.0,50.0,Feuil1
+Sulfoxaflor2 (250 ml),2023-01-20,2022-02-28,155.0,155.0,155.0,Feuil1
+Thiaclopride2 ( calypso),2023-01-20,2022-03-01,235.0,285.0,250.0,Feuil1
+Imidaclopride2 (1l),2023-06-05,2023-01-20,180.0,380.0,,Feuil1
+Huile minérale2,2023-06-05,2023-01-20,18.0,20.0,20.0,Feuil1
+Acétamipride2,2023-06-05,2023-01-20,350.0,390.0,385.0,Feuil1
+Deltametrine2,2023-06-05,2023-01-20,100.0,100.0,110.0,Feuil1
+Chlorpyriphos Ethyl2,2023-06-05,2023-01-20,55.0,55.0,55.0,Feuil1
+Abamectine2(1l),2023-06-05,2023-01-20,90.0,190.0,,Feuil1
+Cyperméthrine2 (1l),2023-06-05,2023-01-20,60.0,60.0,60.0,Feuil1
+Spinosade2 (100ml),2023-06-05,2023-01-20,110.0,110.0,,Feuil1
+Pyriproxyféne2 ( Proximo EC),2023-06-05,2023-01-20,145.0,145.0,,Feuil1
+Fenazaquin2 ( Magister)250ml,2023-06-05,2023-01-20,55.0,55.0,,Feuil1
+Thiaclopride2 ( calypso),2023-06-05,2023-01-20,180.0,180.0,,Feuil1

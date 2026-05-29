@@ -1,0 +1,43 @@
+﻿date,nom_ar,nom_fr,unite,valeur
+2026-01-20 21:00:00,Température,Température,°C,11.4
+2026-01-20 21:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,15.6
+2026-01-20 21:00:00,L'humidité du sol,L'humidité du sol,mV,741.6
+2026-01-20 19:00:00,Température,Température,°C,11.3
+2026-01-20 19:00:00,L'humidité du sol,L'humidité du sol,mV,745.8
+2026-01-20 19:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,15.9
+2026-01-20 17:00:00,L'humidité du sol,L'humidité du sol,mV,750.4
+2026-01-20 17:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,16.2
+2026-01-20 17:00:00,Température,Température,°C,11.2
+2026-01-20 15:00:00,Température,Température,°C,11.0
+2026-01-20 15:00:00,L'humidité du sol,L'humidité du sol,mV,758.1
+2026-01-20 15:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,16.7
+2026-01-20 14:00:00,L'humidité du sol,L'humidité du sol,mV,763.2
+2026-01-20 14:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,17.0
+2026-01-20 14:00:00,Température,Température,°C,11.0
+2026-01-20 13:00:00,L'humidité du sol,L'humidité du sol,mV,770.5
+2026-01-20 13:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,17.5
+2026-01-20 13:00:00,Température,Température,°C,10.9
+2026-01-20 11:00:00,Température,Température,°C,10.8
+2026-01-20 11:00:00,L'humidité du sol,L'humidité du sol,mV,798.8
+2026-01-20 11:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,19.7
+2026-01-20 09:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,19.9
+2026-01-20 09:00:00,Température,Température,°C,11.0
+2026-01-20 09:00:00,L'humidité du sol,L'humidité du sol,mV,801.6
+2026-01-20 07:00:00,Température,Température,°C,11.1
+2026-01-20 07:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,19.5
+2026-01-20 07:00:00,L'humidité du sol,L'humidité du sol,mV,797.2
+2026-01-20 05:00:00,L'humidité du sol,L'humidité du sol,mV,793.2
+2026-01-20 05:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,19.2
+2026-01-20 05:00:00,Température,Température,°C,11.3
+2026-01-20 04:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,19.3
+2026-01-20 04:00:00,Température,Température,°C,11.3
+2026-01-20 04:00:00,L'humidité du sol,L'humidité du sol,mV,793.7
+2026-01-20 03:00:00,Température,Température,°C,11.3
+2026-01-20 03:00:00,L'humidité du sol,L'humidité du sol,mV,796.3
+2026-01-20 03:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,19.5
+2026-01-20 01:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,19.6
+2026-01-20 01:00:00,L'humidité du sol,L'humidité du sol,mV,798.6
+2026-01-20 01:00:00,Température,Température,°C,11.5
+2026-01-20 00:00:00,L'humidité du sol,L'humidité du sol,mV,801.1
+2026-01-20 00:00:00,Contenu volumétrique d'eau,Contenu volumétrique d'eau,%,19.9
+2026-01-20 00:00:00,Température,Température,°C,11.6

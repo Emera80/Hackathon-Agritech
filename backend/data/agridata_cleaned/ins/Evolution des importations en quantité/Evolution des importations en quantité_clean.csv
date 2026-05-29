@@ -1,0 +1,886 @@
+﻿code,produits,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,feuille
+10110,Chevaux reproducteurs de race pur (1)*,0,0,0,7400,4400,1500,10250,5520,5700,21316,79460,84950,77760,86830,0,0,0,0,0,Feuil1
+10111,Chevaux reproducteurs de race pur *,19300,4000,16046,5600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+10121,Animaux du genre buffle reproducteur de race pure,0,0,0,0,0,0,0,0,0,0,0,0,0,272260,625030,598700,290000,138600,78220,Feuil1
+10129,"Autres Chevaux, ânes, mulets et bardots, vivants",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2700,9600,400,0,Feuil1
+10190,Autres chevaux non reproducteurs de race pure destines a la boucherie*,0,0,0,0,0,0,0,1000,0,2500,0,3500,2950,400,0,0,0,0,0,Feuil1
+10210,Animaux vivants de l'espèce bovine reproducteurs de race pure,594749,825431,100364,0,0,977804,1380903,268425,128189,193698,476447,882790,443690,268000,0,0,0,0,0,Feuil1
+10221,Reproducteurs de race pure des Animaux vivants de l’espèce bovine.,0,0,0,0,0,0,0,0,0,0,0,0,0,134373,587188,212843,364357,119285,103590,Feuil1
+10229,Autres animaux vivants de l'espéce bovine,0,0,0,0,0,0,0,0,0,0,0,0,0,1980758,8709536,4275797,4196791,0,38128,Feuil1
+10290,Animaux vivants de l'espèce bovine domestique non reproducteurs de race pure*,360477,53325,0,0,0,2901144,482590,1481692,2296839,37244,3422820,4190319,4681157,444460,0,0,0,0,0,Feuil1
+10310,Animaux vivants de l'espèce porcine reproducteurs de race pure*,0,26273,5429,0,0,0,0,27130,0,16159,0,0,0,0,0,0,0,0,0,Feuil1
+10410,Animaux vivants des espèces ovine ou caprine de l'espèce ovine,13695,366307,357456,0,0,0,0,0,0,0,0,0,1650,3464572,1146264,250000,0,0,800,Feuil1
+10420,"Animaux vivants des espèces ovine ou caprine de l'espèce caprine;fraîches,réfrigérés ou congelés;carcasses et demi d'agneau*",0,0,0,0,0,0,0,0,990,1200,0,0,0,0,0,0,0,0,0,Feuil1
+10511,"Coqs,poules,canards,oies,dindons,dindes et pintades,vivants,des espèces domestiques:d'un poids n'excédant pas 185g:coqs et poules*",32767,36158,65202,38578,37376,33495,39022,27791,44638,38838,37662,44421,51002,52132,59451,59512,60302,54748,45663,Feuil1
+10512,"Coqs,poules,canards,oies,dindons,dindes,et pintades,vivants,des espèces domestiques dindes et dindons*",13941,30089,8106,7150,9416,6100,6413,7629,8766,7087,7134,7691,7713,8700,9809,10157,8176,8319,9682,Feuil1
+10513,Canards d'un poids n'exédant pas 185 g,0,0,0,0,0,0,0,0,0,0,0,0,0,153,80,190,130,379,140,Feuil1
+10519,"Autres que coqs,poules,canards,oies,dindons,dindes et pintades,vivants des espèces domestique n'excédant pas 185gr*",0,54,273,244,313,232,295,393,554,562,440,390,192,78,0,0,0,0,0,Feuil1
+10592,"Coqs,poules,canards,oies,dindons,dindes et pintades,vivants,des espèces domestiques d'un poids n'excédant pas 2000g;autres*",0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+10594,Autres coqs et poules,0,0,0,0,0,0,0,0,0,0,0,0,0,28,8,15,386,413,312,Feuil1
+10599,"Coqs,poules,canards,oies,dindons,dindes et pintades,vivants des espèces domestiques;autres*",5,0,2,0,0,0,0,0,0,0,0,0,0,13,0,69,28,196,10,Feuil1
+10600,Autres animaux vivants,4607,2999,6354,1724,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+10611,Autres animaux vivants mammifères primates*,0,0,0,0,0,12,0,0,0,0,0,0,1500,0,0,0,0,0,0,Feuil1
+10612,Autres animaux vivants mammifères baleines dauphins lamantins et dugongs*,0,0,0,0,0,0,0,0,0,60,0,600,6250,0,0,0,0,0,0,Feuil1
+10614,Lapins et lièvres,0,0,0,0,0,0,0,0,0,0,0,0,0,6,32,99,655,309,357,Feuil1
+10619,Autres animaux vivants mammifères autres*,0,0,0,1,1024,140,50,140,297,104,165,2693,1757,2668,257,378,260,1729,1360,Feuil1
+10620,Autres animaux vivants reptiles*,0,0,0,0,0,0,0,0,0,0,0,385,0,5,25,18,0,0,0,Feuil1
+10632,Autres animaux vivants oiseaux psittaciformes*,0,0,0,0,2,2,3,0,0,0,0,0,0,0,0,411,1209,342,462,Feuil1
+10639,Autres animaux vivants oiseaux autres*,0,0,0,120,10,9,481,850,0,0,0,289,229,647,1122,2801,4272,3767,4258,Feuil1
+10641,Abeilles,0,0,0,0,0,0,0,0,0,0,0,0,0,5549,12220,4616,2348,2327,4605,Feuil1
+10649,Autres insectes,0,0,0,0,0,0,0,0,0,0,0,0,0,1832,4634,10886,12856,11981,17531,Feuil1
+10690,Autres animaux vivants autres*,0,0,0,2590,1371,2657,2799,1582,2862,7656,7805,15404,12679,7202,5620,58,869,1716,4337,Feuil1
+20110,"Viandes des animaux de l'espèces bovine,fraîches ou réfrigérées en carcasses ou demi carcasses*",1392849,2637782,0,0,1058145,8798654,6529687,2851340,550299,296361,1191971,246062,971216,1514172,1953355,0,811414,0,605450,Feuil1
+20120,"Viandes des animaux de l'espèces bovine,fraîches ou réfrigérées autres morceaux non désosses*",0,0,0,0,0,0,0,0,0,0,0,0,105261,52823,0,0,0,0,0,Feuil1
+20130,"Viandes des animaux de l'espèces bovine,fraîches ou réfrigérées désossées*",100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+20210,"Viandes des animaux de l'espèces bovine,congelées en carcasses ou demi carcasses*",0,23000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+20220,"Viandes des animaux de l'espèce bovine,congelées;autres morceaux non désosses*",0,0,0,0,0,0,0,0,0,52,38112,41984,77936,100641,74825,75371,125050,0,0,Feuil1
+20230,"Viandes des animaux de l'espèce bovine,congelées désosses*",1013369,1300681,21966,0,349599,284651,871975,1801365,2715844,3490435,2752019,3206210,1179771,2581323,2121938,2466589,1220613,665892,1201807,Feuil1
+20312,"Viandes des animaux de l'espèces porcine,fraîches,réfrigérées ou congelées,jambons,épaules et leurs morceaux non désosses*",0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+20319,"Autres viandes des animaux de l'espèce porcine,fraîches,réfrigérées ou congelées *",202,0,0,0,0,0,0,0,0,4173,11810,7000,0,0,0,0,0,0,0,Feuil1
+20321,"Viandes des animaux de l'espèces porcine ,fraîches aumure;crustacées non décortiques cuits a l'eau ou a la vapeur,même réfrigères ,congelés sèches,sal",0,20196,0,0,0,0,0,0,0,40783,29962,0,0,0,23831,24731,23623,0,22970,Feuil1
+20329,"Viandes des animaux de l'espèce porcine,fraîches,réfrigérées ou congelées;autres",0,0,0,0,0,0,0,0,67755,20815,0,6959,0,36071,29122,22241,0,0,14740,Feuil1
+20410,"Viandes des animaux des espèces ovine ou caprine,fraîches,réfrigérées ou congelées en carcasses et demi carcasses d'agneau,fraîches ou réfrigérées*",0,0,0,0,0,852066,440967,296178,53354,73516,190693,92510,0,188702,747244,711354,447297,0,0,Feuil1
+20422,"Autres viandes des animaux de l'espèces ovine,fraîches ou réfrigérées autre morceaux non désosses*",0,0,0,0,0,0,0,0,0,0,25036,0,0,0,0,0,0,0,0,Feuil1
+20430,"Autres viandes des animaux de l'espèces ovine,fraîches ou réfrigérées carcasses et demi carcasses d'agneau,congelées *",0,0,0,0,0,0,443098,298359,867679,1075983,889466,1281002,452512,1077099,664536,981559,522798,0,0,Feuil1
+20441,"Autres viandes des animaux de l'espèces ovine,congelées en carcasse ou demi carasses*",0,0,0,0,0,0,0,97407,17429,0,0,0,0,0,0,0,0,0,0,Feuil1
+20442,"Autres viandes des animaux de l'espèce ovine,congelées en autres morceaux non désosses*",184,0,0,0,0,0,0,0,0,23769,24930,32718,30103,22908,110153,95007,146244,0,0,Feuil1
+20443,"Autres viandes des animaux de l'espèces ovine,congelées désossées",0,0,0,0,0,0,0,0,0,0,0,0,13223,0,0,0,0,0,0,Feuil1
+20450,Viandes des animaux de l'espèces caprine*,0,0,0,0,0,0,0,0,0,1150,0,0,0,0,0,0,0,0,0,Feuil1
+20610,"Abats comestibles des animaux des espèces bovine,porcine,ovine,caprine,chevaline,asine ou mulassière,frais,réfrigères ou congelés*",0,0,0,0,0,0,0,20104,0,0,0,0,3355,3294,3583,1855,0,0,0,Feuil1
+20621,"Abats comestibles des animaux des espèces bovine,congelés;langues*",0,0,0,0,0,0,0,0,0,0,1440,4481,1938,2065,1410,0,0,0,13169,Feuil1
+20622,"Abats comestibles des animaux des espèces bovine,congelés foies*",0,0,0,0,0,0,18230,93279,144426,174743,266306,279010,353535,1050991,730573,449269,463331,591586,598719,Feuil1
+20629,Autres abats comestibles des animaux des espèces bovine congelés*,0,0,0,0,0,0,3515,19211,30174,28320,47133,68895,23148,42377,42715,72721,13174,30385,45487,Feuil1
+20641,"Autres abats comestibles des animaux de l'espèces porcine,congelés;foies*",0,0,0,0,0,0,0,0,0,0,6000,0,0,0,0,0,0,0,496,Feuil1
+20680,"Autres de l'espèce porcine,frais ou réfrigérés*",0,0,0,0,0,11695,0,120,0,50,0,4888,367,14360,6058,16215,6158,0,0,Feuil1
+20690,"Viandes des animaux de l'espèce porcine,fraîches,réfrigérées ou autres congelés*",0,0,0,0,0,0,0,0,0,9493,12448,111039,43865,236140,314149,466447,207828,465021,341646,Feuil1
+20712,"Viandes et abats comestibles,frais,réfrigérés ou congelés des volailles du n° :01.05;non découpés en morceaux congelés*",0,0,0,0,178596,151376,0,42840,1429123,0,862918,1873521,1331942,1686798,5004,29787,0,0,9072,Feuil1
+20713,"Viandes et abats comestibles,morceaux frais ou réfrigérés*",164,0,0,0,0,0,0,0,51015,0,0,25164,0,27000,0,1215,0,0,0,Feuil1
+20714,"Viandes et abats comestibles,morceaux et abats congelés;de dinde et dindon*",47346,71239,0,0,0,11000,27170,27000,103179,132000,239528,700556,1196970,3485887,1408434,2660335,73664,213032,224067,Feuil1
+20726,"Morceaux et abats ,frais ou réfrigères*",0,0,0,0,0,190,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+20727,"Morceaux et abats ,congelés *",0,1850,4400,2915,0,78645,220965,312250,982636,507070,544750,577606,0,867360,25300,349930,52892,0,54600,Feuil1
+20732,"Canards,d'oies ou de pintades non découpes en morceaux,frais ou réfrigéré sur bouquets ou pour ornements,frais,sèches,blanchis,teints,imprègnes ou aut",0,0,0,0,0,0,0,0,0,0,0,1003,0,0,0,0,0,0,0,Feuil1
+20733,"Viandes non découpes en morceaux,congelés*",13749,28378,30630,19556,22764,26059,3564,11775,13260,12200,18068,22088,10113,0,0,0,0,0,0,Feuil1
+20734,"Foies gras,frais ou réfrigérés *",40,92,26,0,0,98,0,0,0,383,0,0,0,0,0,0,0,0,0,Feuil1
+20735,"Autres viandes et abats comestibles,frais ou réfrigérés,des volailles du n°01.05*",447,375,159,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+20736,"Autres viandes et abats comestibles,congelées *",4612,4786,4166,5010,5336,4738,2230,1569,2847,6515,7881,8286,6347,576,0,0,0,0,0,Feuil1
+20742,Canards non découpés en morceaux ; congelés,0,0,0,0,0,0,0,0,0,0,0,0,0,17220,15674,25130,4838,6182,0,Feuil1
+20745,Autres canards congelés,0,0,0,0,0,0,0,0,0,0,0,0,0,5212,4573,10360,7614,5581,9531,Feuil1
+20810,"Autres viandes et abats comestibles,frais,réfrigères ou congelés de lapins ou de lièvre*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,30699,0,5007,0,0,Feuil1
+20890,"Autres viandes et abats comestibles,frais,réfrigères ou congelés;autres*",47,900,0,0,9360,0,0,0,0,0,0,0,5300,0,0,0,0,0,0,Feuil1
+20900,"Lard sans parties maigres,graisse de porc et graisse de volailles non fondues ni autrement extraites,frais,réfrigères,congelés,sales ou en saumure,se",0,0,0,0,0,1,0,0,70,0,0,12,0,20,0,0,0,0,0,Feuil1
+21011,"Viandes et abats comestibles,sales ou en saumure sèches ou fumes;farines et poudres,comestibles,de viandes ou d'abats,viandes de l'espèces porcines*",0,0,0,0,0,0,0,0,0,0,0,0,0,43,52,0,0,0,0,Feuil1
+21012,Poitrines(entrelardées)et leurs morceaux *,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3302,3347,Feuil1
+21019,"Autres viandes et abats comestibles,sales ou en saumures,sèches ou fumes,farines et poudres,comestibles de viandes ou d'abats*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2265,4516,Feuil1
+21020,"Viandes et abats comestibles,frais,réfrigères ou congelés;viandes de l'espèces bovine*",0,60,0,0,0,0,0,0,0,0,0,0,0,159,0,160,813,536,764,Feuil1
+21090,"Viandes et abats comestibles, salés ou en saumure, séchés ou fumés; farines et poudres, comestibles, de viandes ou d'abats.",516,166,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+21091,"Autres,y compris les farines et poudres,comestibles,de viandes ou d'abats de primates*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,Feuil1
+21099,"Autres,y compris les farines et poudres,comestibles,de viandes ou d'abats autres*",0,0,0,214,0,48,0,64,200,600,850,1106,853,861,680,1068,625,447,1280,Feuil1
+30110,"Poissons vivants ,poissons d'ornement *",180,110,204,103,455,1361,7182,1905,4137,7371,6203,6394,7014,2717,0,0,0,0,0,Feuil1
+30111,Poissons d'ornement d'eau douce,0,0,0,0,0,0,0,0,0,0,0,0,0,8815,16481,18319,15012,12847,8763,Feuil1
+30191,"Autres poissons vivants;truites(salmo trutta,onocrhynchus mykiss,clarki agubaonita apaches et chrysogaster)*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Feuil1
+30192,Autres poissons vivants (anguille spp)*,0,1680,0,500,1215,50,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+30193,Poissons vivants;carpes*,0,4,264,120,0,0,0,0,0,0,0,0,0,0,0,3500,0,0,34300,Feuil1
+30194,Thons rouges (Thunnus thynnus),0,0,0,0,0,0,0,0,0,136738,0,0,0,141750,381800,0,0,0,0,Feuil1
+30195,Thons rouges du sud,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152400,0,0,0,Feuil1
+30199,Poissons vivants;autres*,10960,47176,3158,2084,409639,107241,413742,335486,240185,53957,137938,264750,251005,229222,283577,312698,363721,3954666,327466,Feuil1
+30211,"Poissons frais ou réfrigérés a l'exception des filets de poissons et autre chair de poissons du n° 03.04 salmonides a l'exclusion des foies,oeufs et l",0,24,0,0,0,0,0,9150,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+30212,"Saumons du pacifique (oncorhynchus nerka,oncorhynchus *",534,601,4894,2556,0,558,0,0,15683,39252,12184,32553,27672,28348,0,0,0,0,0,Feuil1
+30213,Saumons du pacifique,0,0,0,0,0,0,0,0,0,0,0,0,0,999,0,2687,16142,58644,77151,Feuil1
+30214,Saumons de l'Atlantique et soumons du Danube,0,0,0,0,0,0,0,0,0,0,0,0,0,35299,35897,73550,56893,0,2648,Feuil1
+30219,"Autres saumons,frais ou réfrigérés*",100,0,2154,675,0,0,3519,24791,32570,13790,8433,885,6875,0,0,0,0,0,0,Feuil1
+30223,Poissons plats (soles),1200,4271,8948,3837,1104,284,8826,6798,5183,20333,52094,45334,34846,40157,38880,29220,41586,47765,21611,Feuil1
+30224,Turbots,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17491,12324,7203,2515,Feuil1
+30229,"Autres poissons (sardine) ,frais ou réfrigères a l'exclusion des filets et chair de poissons du n° 03.04 et a l'exclusion des foies,oeufs et laitances",30916,100432,43473,47186,24374,23688,0,0,0,0,0,68,0,25296,256,1069,1062,2200,0,Feuil1
+30233,Listaos ou bonites a ventre raye*,0,0,0,0,0,0,0,0,0,2630,0,0,0,0,0,0,0,0,0,Feuil1
+30235,Thons rouges*,0,0,0,0,350000,200000,0,0,0,0,13,0,0,0,0,0,0,0,0,Feuil1
+30239,Autres destines a la fabrication industrielle des produits relevant du n° 16.04*,23720,0,0,0,101,41,0,0,0,1859,0,0,5070,0,0,0,0,0,0,Feuil1
+30240,"Harengs a l'exclusion des foies ,oeufs et laitances*",800,0,0,0,13000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+30241,"Harengs frais ou refrigeres,a l'exception des filets et chair de poissons du n 0304 et a l'exclusion des foies,oeufs et laitances",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,244687,0,357,Feuil1
+30242,Anchois,0,0,0,0,0,0,0,0,0,0,0,0,0,107587,0,0,0,400,9178,Feuil1
+30243,"Sardines, sardinelles , sprats ou esprots",0,0,0,0,0,0,0,0,0,0,0,0,0,1407970,534758,845178,1671472,1239646,0,Feuil1
+30244,Maqueraux,0,0,0,0,0,0,0,0,0,0,0,0,0,706048,1216550,723091,720346,669583,282968,Feuil1
+30245,Chinchards,0,0,0,0,0,0,0,0,0,0,0,0,0,48782,2977,4255,4458,1200,2028,Feuil1
+30247,Espadons,0,0,0,0,0,0,0,0,0,0,0,0,0,4700,0,2883,0,0,0,Feuil1
+30250,"Morues(gadus morhua,gadus ogac,macrocephalus),a l'exclusion des foies,oeufs et laitances*",0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+30254,Merlus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,2080,10095,0,0,Feuil1
+30256,Merlans bleus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,240,420,6030,6804,Feuil1
+30259,Autres harengs,0,0,0,0,0,0,0,0,0,0,0,0,0,7002,1080,2060,2876,0,0,Feuil1
+30261,"Autres poissons a l'exclusion des foies oeufs et laitances,sardine*",0,0,0,0,382059,1716413,3119087,35150,13483,388190,338242,169517,632971,21670,0,0,0,0,0,Feuil1
+30264,Maquereaux(scomber)*,0,535,50,0,16889,98010,58367,3800,284569,409271,1302994,926347,193092,148815,0,0,0,0,0,Feuil1
+30265,Squales*,0,0,0,0,0,0,0,0,0,479600,0,0,0,0,0,0,0,0,0,Feuil1
+30266,Anguilles(anguilla spp) a l'exception des filets et chair de poisson*,320,8780,25016,8616,6002,12396,2700,1418,0,1540,900,0,0,0,0,0,0,0,0,Feuil1
+30267,Espadons (Xiphias gladius),0,0,0,0,0,0,0,0,0,26618,0,0,0,0,0,0,0,0,0,Feuil1
+30269,"Capres d'eau douce ,frais ou réfrigères a l'exception des filets et chair de poissons du n° 03.04 et a exclusion des foies ,oeufs et laitances *",867947,936444,1509616,1231357,1811763,2315012,2779505,3010795,4133606,4432289,3361639,3753274,3551119,1050124,0,0,0,0,0,Feuil1
+30270,"Foies,oeufs et laitances*",278,244,22,0,0,0,0,46,1450,0,303,608,6,507,0,0,0,0,0,Feuil1
+30273,Carpes tilapias,0,0,0,0,0,0,0,0,0,0,0,0,0,24896,1050,7585,2400,10600,48820,Feuil1
+30274,Anguilles tilapias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5380,Feuil1
+30281,Squales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2914,0,0,Feuil1
+30282,Raies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116,0,0,Feuil1
+30284,Bars,0,0,0,0,0,0,0,0,0,0,0,0,0,205,33599,25360,20642,2184,4565,Feuil1
+30285,Dorades,0,0,0,0,0,0,0,0,0,0,0,0,0,3360,25498,5988,3371,148293,549,Feuil1
+30289,Autres tilapias,0,0,0,0,0,0,0,0,0,0,0,0,0,1894652,2017135,1638522,832079,1710597,1781990,Feuil1
+30290,"Foies, oufs et laitances d'autres poissons,frais ou refrigeres",0,0,0,0,0,0,0,0,0,0,0,0,0,1703,2595,5128,7358,4734,1482,Feuil1
+30291,Fois et œufs de poissons frais ou réfrigérés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,834,Feuil1
+30310,"Saumons du pacifique,a l'exception des filets et chair de poissons du n 0304",1518,7750,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+30311,Poissons congelés a l'exception des filets de poissons et autre chair de poissons;saumons du pacifique saumons rouges*,0,0,0,0,45,0,0,0,0,0,729,25159,876,0,0,0,0,0,0,Feuil1
+30312,Autres saumons du pacifique a l'exception des filets et autre chair de poissons du n 0304,0,0,0,0,0,0,0,0,0,0,0,0,0,10509,109,10553,7138,5694,20086,Feuil1
+30313,"Saumons de l'Atlantique a l'exception des filets et chair de poissons du n 0304 et a l'exclusion des foies,oeufs et laitances,congeles",0,0,0,0,0,0,0,0,0,0,0,0,0,87186,110510,81108,63910,98423,78655,Feuil1
+30314,Truites,0,0,0,0,0,0,0,0,0,0,0,0,0,0,870,540,0,0,0,Feuil1
+30319,Poissons congelés a l'exception des filets de poissons et autre chair de poissons;saumons du pacifique autres*,0,0,0,0,2678,0,0,0,540,5770,4680,15358,5012,21372,0,12900,0,0,0,Feuil1
+30321,"Autres salmonides,a l'exclusion des foies,oeufs et laitances;autres salmonides*",14976,1998,0,0,3165,0,0,0,0,14170,0,0,561,0,0,0,0,0,0,Feuil1
+30322,Saumons de l'atlantique(salmo salar)*,9825,4380,29420,34899,37746,43560,50503,37855,48881,39061,88184,96112,47504,19703,0,0,0,0,0,Feuil1
+30324,"Siluridés congelés à l'exception des filets et chair de poissons du n 0304 et a l'exclusion des foies,oeufs et laitances",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3000,2500,Feuil1
+30325,Carpes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4900,0,Feuil1
+30329,"Autres salmonides a l'exception des filets et autres chair de poissons du n° 03.04 et l'exclusion des foies ,oeufs et laitances,congelés *",19950,0,0,250,2000,1200,6298,27201,16565,27564,17670,12540,5326,918,0,0,0,0,0,Feuil1
+30333,Soles(solea spp)*,23785,6821,30179,39216,26591,44682,24483,18589,37523,57444,134670,69734,22252,41598,9811,6915,20665,29925,6985,Feuil1
+30339,"Flets communs a l'exception des filets et autre chair de poissons du n° 03.04 et l'exclusion des foies ,oeufs et laitances ,congelés*",76527,28583,3140,2100,8337,26220,13835,25139,91708,18264,4775,3670,59288,0,34264,25777,0,0,0,Feuil1
+30341,"Thons(du genre thunnus),listaos ou bonites a ventre raye a l'exclusion des foies oeufs et laitances *",5552318,6769460,9006359,8504124,8499777,8084944,10235068,14521122,10946524,10315462,10140674,8723664,5546913,1416444,1818136,2585222,392000,168000,207997,Feuil1
+30342,Thons a nageoires jaunes (thunnus albacares)*,350000,758694,1492691,2216088,3184757,3619157,3002216,2995707,3091108,2227673,2913044,2168360,2558379,1780605,1294590,247830,82800,316283,740151,Feuil1
+30343,Listaos ou bonites a ventre raye*,0,716920,1928450,2541869,5156499,1021198,3497076,3409784,1757057,3811555,5808741,5901494,6397063,9252973,6315984,8827387,11359239,13978943,17177333,Feuil1
+30344,Thons obèses*,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22213,101053,Feuil1
+30345,Thons rouges*,0,0,0,0,0,81780,0,0,2825,0,0,0,0,0,0,0,0,0,0,Feuil1
+30349,Autres destines a la fabrication industrielle des produits relevant du n° 1604*,445000,0,54000,12300,118000,513085,322494,469141,556289,925,9670,0,0,0,27483,1287199,1472404,451205,815980,Feuil1
+30350,"Harengs(clupeea ,harengus,clupea pallasii),a l'exclusion des foies ,oeufs et laitances*",0,0,0,0,285610,0,69000,709758,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+30351,"Harengs (clupea harengus, clupea pallasii) et morues (gadus morhua,gadus ogac,gadus macrocephalus), à l'exclusion des foies,oeufs et laitances*",0,0,0,0,0,0,0,0,0,0,8400,6268,1213452,545338,0,3141353,247992,0,630,Feuil1
+30352,"Morues [Gadus morhua, Gadus ogac, Gadus macrocephalus], congelés",0,0,0,0,0,0,0,0,4783,374,0,26800,0,0,0,0,0,0,0,Feuil1
+30353,"Sardines a l'exception des filets et chair de poissons du n 0304 et a l'exclusion des foies,oeufs et laitances,congeles",0,0,0,0,0,0,0,0,0,0,0,0,0,4263044,4308255,3290854,84080,28100,112046,Feuil1
+30354,"Maquereaux congeles, a l'exception des filets et autre chair de poissons du n?0304 et a l'exclusion des foies, oeufs et laitances",0,0,0,0,0,0,0,0,0,0,0,0,0,2581870,2468443,697308,164300,243585,151500,Feuil1
+30357,"Espadons congeles, a l'exception des filets et autre chair de poissons du n?0304 et a l'exclusion des foies, oeufs et laitances",0,0,0,0,0,0,0,0,0,0,0,0,0,25813,16633,21538,9591,0,0,Feuil1
+30359,"Autres poissons congelés de la sous 0 position 0303,5, y compris les anchois",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32725,Feuil1
+30361,"Espadons (Xiphias gladius) et légines ( Dissostichus spp.), à l'exclusion d",0,0,0,0,0,0,0,0,0,6567,80318,61912,100960,25000,0,0,0,0,0,Feuil1
+30363,"Autres espèces de Morues congelés à l'exception des filets et chair de poissons du n 0304 et a l'exclusion des foies,oeufs et laitances",0,0,0,0,0,0,0,0,0,0,0,0,0,0,20000,8000,6250,0,24480,Feuil1
+30366,"Merlus du genre merluccius, congeles, a l'exception des filets et autre chair de poissons du n 03 04 et a l'exclusion des foies, oeufs et laitances",0,0,0,0,0,0,0,0,0,0,0,0,0,13623,3158,0,16105,5215,0,Feuil1
+30369,Autres poissons des familles bregmaceroitidas,0,0,0,0,0,0,0,0,0,0,0,0,0,24126,44628,12575,8202,82353,69718,Feuil1
+30371,"Autres poissons a l'exclusion des foies,oeufs et laitance;sardines*",0,0,0,0,3725529,3282898,6645598,4813725,6211706,11955363,8554276,6406023,4712040,301772,0,0,0,0,0,Feuil1
+30373,Lieus noirs (pollachius virens)*,0,0,0,0,0,0,0,0,0,0,0,2997,4300,0,0,0,0,0,0,Feuil1
+30374,"Maquereaux (scomber,scombrus,scomber australasicus scomber japonicus)*",0,0,0,0,739771,1762053,2785379,2498899,3419459,2365497,2563442,1761520,1159874,466979,0,0,0,0,0,Feuil1
+30375,Squales*,7343,39708,15138,42710,1600,93184,150613,49672,64053,180696,60689,28972,33802,0,0,0,0,0,0,Feuil1
+30376,Anguilles(anguilla spp)*,0,0,0,250,0,0,0,0,0,491,60,0,0,0,0,0,0,0,0,Feuil1
+30377,"Bars,(loups)(dicentrarchus labrax,dicentrarchus punctatus)*",0,40,0,0,6620,7160,25009,9741,4865,4000,1555,14183,0,0,0,0,0,0,0,Feuil1
+30378,Merlus(merluccius spp.urophycis spp)*,30783,121137,33500,49130,146229,148225,8244,0,0,0,13020,0,0,0,0,0,0,0,0,Feuil1
+30379,"Capres;d'eaux douce ,congelés a l'exception des filets et autre chair de poissons du n° 03.04 et a l'exclusion des foies,oeufs et laitances *",263140,420185,743067,337980,823676,723439,1045579,1647496,2394117,1824705,2494433,2331218,1645115,339307,0,0,0,0,0,Feuil1
+30380,"Foies,oeufs et laitances *",86,0,15000,2712,26482,0,714,10520,725,365,1563,0,18,563,0,0,0,0,0,Feuil1
+30381,"Roussettes ,requins taupes communs et autres squales congeles, a l'exception des filets et autre chair de poissons du n 03 04 et a l'exclusion des foies, oeufs et laitances",0,0,0,0,0,0,0,0,0,0,0,0,0,34876,27377,10000,5124,854,23820,Feuil1
+30384,"Bars(loups) a l'exception des filets et autre chair de poissons du n? 0304 et a l'exclusion des foies, oeufs et laitance",0,0,0,0,0,0,0,0,0,0,0,0,0,4059,21832,40283,4396,19241,15000,Feuil1
+30389,"Autres poissons congelés à l'exclusion des foies ,oufs et laitances",0,0,0,0,0,0,0,0,0,0,0,0,0,1128925,1408299,1051121,608632,1020554,393612,Feuil1
+30390,"Foies, oufs et laitances d'autres poissons, congeles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,748,260,0,Feuil1
+30391,"Foies, œufs et laitances de poissons, congelés",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,162,Feuil1
+30410,"Filets de poissons et autre chair de poissons (même hachée)frais,réfrigères ou congelés*",31984,8843,0,0,255550,74579,10816,21062,17039,0,0,0,0,0,0,0,0,0,0,Feuil1
+30419,"Filets de poissons et autre chair de poissons, même hachée, frais ou réfrigérés (à l''excl. d''espadons et de légines)",0,0,0,0,0,0,0,0,20184,34720,15945,30355,102380,76960,0,0,0,0,0,Feuil1
+30420,Filets de poissons congelés*,558676,684875,1227195,473184,445080,632492,660772,700100,347804,0,0,0,0,0,0,0,0,0,0,Feuil1
+30421,Filets congeles d'espadons (xiphias gladius)*,0,0,0,0,0,0,0,0,0,0,6000,1657,4150,0,0,0,0,0,0,Feuil1
+30429,"Filets de poissons, congelés (à l''excl. d''espadons et de légines)",0,0,0,0,0,0,0,0,363241,1027560,785331,881444,446623,97366,0,0,0,0,0,Feuil1
+30432,filets frais ou réfrigérés Siluridés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,Feuil1
+30441,Saumons du Pacifique,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9620,0,0,6099,0,Feuil1
+30444,"Poissons des familles Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae et Muraenolepididae",0,0,0,0,0,0,0,0,0,0,0,0,0,0,5526,0,0,0,0,Feuil1
+30445,Filets frais ou réfrigérés d'Espadons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1182,0,0,Feuil1
+30449,"Autres filets d'autres poissons ,frais ou réfrigérés",0,0,0,0,0,0,0,0,0,0,0,0,0,6097,3884,1423,0,1621,34407,Feuil1
+30462,Siluridés,0,0,0,0,0,0,0,0,0,0,0,0,0,60498,107440,259270,250900,205900,271100,Feuil1
+30471,Filets de Morues congelés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10000,0,0,0,Feuil1
+30473,Lieus noirs,0,0,0,0,0,0,0,0,0,0,0,0,0,28760,0,0,0,0,0,Feuil1
+30474,Filets congeles de merlus argentins,0,0,0,0,0,0,0,0,0,0,0,0,0,18142,19735,10034,5874,0,0,Feuil1
+30475,Lieus d'Alaska,0,0,0,0,0,0,0,0,0,0,0,0,0,8580,52300,94000,0,25000,0,Feuil1
+30479,"Autres filets des poissons des familles bregmaceroitidas,euclichthyidae,gadidas,maccrouridae,melanonidae,merluccidae,moridae et muraenolepididae;congelés",0,0,0,0,0,0,0,0,0,0,0,0,0,45434,6000,24672,0,36562,60017,Feuil1
+30481,Saumons du Pacifique,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7584,2023,11740,18140,Feuil1
+30483,Poissons plats,0,0,0,0,0,0,0,0,0,0,0,0,0,7518,25000,0,7754,0,0,Feuil1
+30484,Filets congelés d'espadons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,756,0,0,0,Feuil1
+30486,Harengs,0,0,0,0,0,0,0,0,0,0,0,0,0,324,0,0,0,0,0,Feuil1
+30487,Thons,0,0,0,0,0,0,0,0,0,0,0,0,0,259740,81000,26316,200500,23690,0,Feuil1
+30489,Autres filet d'autres poissons congelés,0,0,0,0,0,0,0,0,0,0,0,0,0,480532,469328,459423,397760,325872,381489,Feuil1
+30490,Autre filets de poissons et autres chairs de poissons congelés*,19550,2070,2714,80,100,17964,5002,14464,20682,0,0,0,0,0,0,0,0,0,0,Feuil1
+30491,AUTRE CHAIR CONGELEE D'ESPADONS (XIPHIAS GLADIUS) *,0,0,0,0,0,0,0,0,0,0,0,2631,5775,0,0,0,0,0,0,Feuil1
+30493,Tilapias,0,0,0,0,0,0,0,0,0,0,0,0,0,5000,4016,405,400,0,0,Feuil1
+30495,"Poissons des familles Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae et Muraenolepididae, autres que les lieus d’Alaska",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24850,10000,9480,7700,Feuil1
+30499,"Chair de poissons, même hachée, congélée (à l''excl. d''espadons, de légines ainsi que de fillets)",0,0,0,0,0,0,0,0,43476,12659,9995,6070,5000,0,0,0,6609,22000,17222,Feuil1
+30510,"Poissons sèches,salés ou en saumures;poissons fumes,même cuits avant ou pendant le fumage;farines ,poudres et agglomérés sous forme de pellets de pois",0,0,0,0,0,0,0,0,0,0,4,210,0,0,0,0,0,0,0,Feuil1
+30520,"Foies,oeufs et laitances de poissons ,sèches,fumes,sales ou en saumures*",0,0,0,0,1400,0,100,0,11,0,0,378,571,474,473,410,146,18,0,Feuil1
+30530,"Filets de poissons,sèches,sales ou en saumure,mais non fumes*",10,201,0,1014,0,25430,0,488883,1014554,370791,884287,1559128,792025,210593,0,0,0,0,0,Feuil1
+30532,"poissons des familles bregmaceroitidas,euclichthyidae,gadidas,maccrouridae,melanonidae,merluccidae,moridae et muraenolepididae",0,0,0,0,0,0,0,0,0,0,0,0,0,109250,93050,115500,103850,108000,154753,Feuil1
+30539,"Autres poissons séchés,salés ou en saumure",0,0,0,0,0,0,0,0,0,0,0,0,0,14350,0,21923,0,17696,0,Feuil1
+30541,"Poissons fumes,y compris les filets *",35809,36285,23618,17348,13249,4347,6042,6168,10069,9298,12663,2176,9974,2911,2809,4239,6548,7258,6705,Feuil1
+30542,"Harengs(culpea harengus,clupea pallasii)*",900,726,0,228,3675,600,1880,5270,2000,1400,1585,1800,2035,972,6950,1452,849,2640,1776,Feuil1
+30543,Truites,0,0,0,0,0,0,0,0,0,0,0,0,0,278,0,0,0,0,0,Feuil1
+30549,Filets de poissons et autres chair de poissons(même hachée)frais ou congelés*,370,620,293,0,1503,2996,5,0,467,0,373,1910,584,100000,99826,5,107,41,6,Feuil1
+30551,"Poissons ,même salés mais non fumes *",0,675,0,30,0,41000,41000,0,0,0,0,0,0,0,0,8750,10000,0,0,Feuil1
+30559,"Autres poissons ,même salés mais non fumes*",0,2600,450,0,76,0,0,2170,5070,86395,21285,151322,150340,96500,482453,350286,448459,422058,0,Feuil1
+30562,"Morues(gadus morhua,gadus macrocephalus)",78000,22500,42500,22500,33800,0,0,20500,5000,0,0,27150,0,0,0,6000,0,0,0,Feuil1
+30563,Anchois(engraulis spp),43885,71974,0,0,118,457691,1048032,1129718,830697,663575,488229,567267,1448166,2290440,1602192,1240576,1127162,1144909,1201904,Feuil1
+30569,Poissons sèchés;autres*,0,0,300,0,12050,3043,36427,5700,22500,23000,0,0,34606,0,0,14404,0,0,0,Feuil1
+30579,"Autres Nageoires, têtes, queues, vessies natatoires et autres abats de poissons comestibles",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,795,0,0,0,Feuil1
+30611,"Crustacés,même décortiqués ,vivants,frais réfrigèrés,congelés,sèches,sales,ou en saumures;crustacés non decoratiques,cuits a l'eau ou a la vapeur,m",0,455,80,876,1164,0,305,300,289,2623,3417,3708,202,171,40,85,0,0,1860,Feuil1
+30612,Homards (homarus spp),0,0,0,0,0,0,0,0,308,254,0,0,0,0,0,0,0,0,0,Feuil1
+30613,Crustacés même décortiques;crevettes,37055,40022,21600,71231,69447,12962,128252,154899,267547,323073,888433,1385834,981171,284763,0,0,0,0,0,Feuil1
+30614,Crustacés même décortiques;crabes,1602,0,60,1000,0,2460,7290,0,0,1488,4375,2000,11299,35310,15610,11710,3300,12100,4990,Feuil1
+30615,Langoustines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,181,0,0,1428,Feuil1
+30617,Autres crevettes,0,0,0,0,0,0,0,0,0,0,0,0,0,439437,206608,34440,33722,81844,52106,Feuil1
+30619,Crustacés compris les farines poudres et agglomères propre a l'alimentation humaines,3782,891,904,742,3500,0,8210,3659,6002,29539,3360,12650,2500,70,0,934,509,10484,0,Feuil1
+30621,Langouste non congelées(palinurus spp.jasus spp)*,1197,2024,2394,1840,1020,361,23,230,546,2230,1141,47,28,1017,123,670,45,0,0,Feuil1
+30622,"Homards même sépares de leurs coquille,vivants ,frais,,congelés,séchés,salés ou en saumures invertébrés aquatiques autres que les crustacé",0,0,0,32,0,5,0,0,16,240,400,0,48,0,0,1785,11822,7392,2408,Feuil1
+30623,Crevettes*,44,100075,10541,1731,548,5315,35320,18081,169437,71840,51689,10344,3321,2940,0,0,0,0,0,Feuil1
+30624,Crabes*,0,0,0,1080,0,0,0,0,117,36,0,0,25,0,0,0,0,6085,0,Feuil1
+30625,Langoustines Non congelés,0,0,0,0,0,0,0,0,0,0,0,0,0,16,625,58,149,0,0,Feuil1
+30627,Autres crevettes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10586,12007,3173,1113,0,Feuil1
+30629,"Autres,y compris les farines;poudres et agglomérées sous forme de pellets de crustacés,propres",10,323,770,185,8168,1967,6324,1584,115,179,0,0,61,165,0,1375,1233,2752,474,Feuil1
+30631,"Crustacés; Vivants, frais ou réfrigérés, les langoustines et autres écrevisses de mer",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,716,Feuil1
+30632,"Crustacés; Vivants, frais ou réfrigérés, les homards Qu'ils soient en coquille ou non",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4079,Feuil1
+30636,"Crustacés; Vivants, frais ou réfrigérés, crevettes et crevettes, à l'exclusion des variétés d'eau froide, en coque ou non",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,991,Feuil1
+30639,Crustacés; frais ou réfrigérés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,278,Feuil1
+30695,"Crustacés; Les crevettes et les crevettes, fumées, cuites ou non, qu'elles soient coquillées ou non",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6666,Feuil1
+30699,"Crustacés, propres à la consommation humaine, même décortiqués, séchés, salés, fumés ou en saumure, y compris les crustacés non décortiqués, cuits à l’eau ou à la vapeur (à l’exclusion des langoustes, homards, crabes, langoustines et crevettes)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,Feuil1
+30710,"Mollusques,même séparés de leurs coquille,vivants,frais ,réfrigérés,congelés ,séchés,sales ou en saumures,,invertébrés aquatiques autres que les crust",8,6423,2902,1405,595,2023,3490,267,2329,2495,1055,1890,214,0,0,0,0,0,0,Feuil1
+30711,"Huîtres Vivantes, fraîches ou réfrigérées",0,0,0,0,0,0,0,0,0,0,0,0,0,2600,200,72708,130457,87683,91153,Feuil1
+30721,"Coquilles st jacques ou peignes ,pétoncles ou vanneaux autres coquillage des genres pecten,chalmys ou placopecten*",24,100,48,4060,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,Feuil1
+30722,"Coquilles Saint0Jacques ou peignes, pétoncles ou vanneaux et autres coquillages des genres Pecten, Chlamys ou Placopecten, même non séparés de leur coquille, congelés",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,350,Feuil1
+30729,"Autres coquilles st jacques ou peingnes,pétoncles ou vanneaux,autres coquillages des genres pecten , chlamys ou placopecten*",330,220,600,8880,503,1460,70,100,555,8898,800,9606,500,350,400,600,700,0,9508,Feuil1
+30731,"Moules(mytillus s.pp.;perna spp):vivantes,fraîches ou réfrigérées)*",140,22855,22262,4000,0,13600,0,400,500,58650,117410,85770,39400,141412,116369,53660,114670,151030,167213,Feuil1
+30732,"Mollusques; Moules ,En coque ou non, congelées",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102948,Feuil1
+30739,"Autres moules (mytilus spp.,perna spp)*",2994,9472,11198,10184,19759,14298,30718,52208,69984,69500,124734,99978,41830,142678,84479,109499,102450,66655,68400,Feuil1
+30741,"Seiches(sepia officinalis,rossia macrosoma)et sepioles(sépiole s);calmars et encornet(ommastrephes spp *",21000,2556,0,36,208,715,251,117223,2703,288,0,0,240,75,0,0,70,1000,65,Feuil1
+30743,"Mollusques; Les poivrons et les calmars, qu'ils soient en coque ou non,",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,242778,Feuil1
+30749,Autres seiches*,31071,64903,91179,169283,253132,501645,217643,560100,879034,2082172,479877,575489,419267,672316,675171,770287,906959,399994,244139,Feuil1
+30751,"Vivants frais ou réfrigérés,poulpes ou pieuvres*",3000,6650,2362,54,1770,11214,7770,17494,46833,64785,21180,82955,30659,14992,2595,20140,2590,39686,9175,Feuil1
+30752,"Mollusques; Pieuvre , Congelé",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60387,Feuil1
+30759,Autres poulpes ou pieuvre (octopus spp),3000,13885,153005,55630,104588,18442,7743,30358,99332,109436,121752,105626,129287,140427,38074,42449,83876,78307,160268,Feuil1
+30760,"Escargots ,autres que de mer *",3000,10000,0,0,1202,5895,2400,5500,46364,13510,95819,120333,143478,76037,11495,0,0,0,0,Feuil1
+30779,"Autres Clams, coques et arches",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13480,5220,0,Feuil1
+30791,"Autres,y compris les farines,poudres et agglomérés sous forme de pellets d' invertébrés aquatiques autres que les crustacés,propres a l'alimentations",0,690,0,8000,0,990,0,0,500,1000,0,1502,0,0,0,24600,279,462,0,Feuil1
+30792,"Mollusques en coque ou non, comprend les farines, les repas et les pastilles de mollusques",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93634,Feuil1
+30799,Autres coquillages destines a la reproduction*,51255,42381,20071,77833,16234,6072,40524,93939,25468,56842,20940,25171,43816,19996,50893,115124,79700,81800,47000,Feuil1
+30822,"Invertébrés aquatiques; oursins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus), congelés",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,245,Feuil1
+30890,Autres oursins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,192,167,0,Feuil1
+40110,"Lait et crème de lait ,non concentres ni additionnes de sucre ou d'autres édulcorant*",0,3000,15150,0,47280,24,0,0,0,0,5500,1,515644,2982418,0,0,80,0,0,Feuil1
+40120,Lait d'une teneur en poids de matières grasses excédant 1% mais pas 6%*,0,0,0,10853436,14489300,15346077,0,0,3298561,7447911,3241,6289,1149946,821568,4243889,3022,0,0,0,Feuil1
+40130,Lait d'une teneur en poids matière grasse excédant 6%*,125,0,0,0,0,2400,0,0,3637,5093,3765,753,4803,0,0,0,0,0,0,Feuil1
+40150,"Lait et créme de lait ,non concentrés ni additionnés de sucre ou d'autres édulcorants d'une teneur en poids de matiéres grasses exédant 10 %",0,0,0,0,0,0,0,0,0,0,0,0,0,6311,17708,21928,22912,19403,39308,Feuil1
+40210,"Lait et crème,concentres ou additionnes de sucre ou d'autres édulcorant*",4209372,3840867,1267475,1781445,2350500,2419304,1724575,1118905,1479275,4161450,4117301,4046935,4068513,4832863,4062791,4020712,4251425,2064725,2524875,Feuil1
+40221,"Lait en poudre,en granules ou sous d'autres formes solides d'une teneur en poids de matières grasses excédant 1.5% *",1195250,1301400,1186500,1467200,1860087,2592736,2491430,2054975,2054800,1223475,1106396,1198627,773037,1024490,1064169,1036123,434731,911501,1251569,Feuil1
+40229,"Autres lait et crème de lait,concentres ou additionnes de sucre ou d'autres édulcorants en poudre,en granules ou sous d'autre formes solides d'une te",0,240625,597300,369584,415800,283305,124643,0,0,0,0,0,173230,23123,241,76700,135650,11251,117348,Feuil1
+40291,"Autres lait et crème de lait ,concentres ou additionnes de sucre ou d'autres édulcorant sans addition de sucre ou d'autres édulcorant *",160390,143824,384346,355491,72676,231689,107176,140141,128506,101831,90527,108633,923577,85286,245715,210028,39778,43432,50500,Feuil1
+40299,"Autres lait et crème de lait,concentres ou additionnes de sucre ou d'autres édulcorant d'une teneur en poids de matière grasse n'excédant pas 9.5%",2920921,3362062,2831732,2909594,2749806,3565561,2821736,3440427,1497000,2148322,2467864,1974685,1967585,2150252,2155338,2568018,1421521,1699909,1493526,Feuil1
+40310,"Babeurre,lait et crème cailles,yoghourt,kephir et autres laits et crèmes fermentes ou acidifies,même concentres ou additionnes de sucre ou d'autres",170,0,15000,0,0,0,25,0,482,3962,204,120,60,7539,13512,5621,0,0,0,Feuil1
+40390,"Babeurre lait et crème caille,yoghourt,kephir.autres",55,0,15000,0,0,0,0,0,0,58,0,100,30768,14,0,0,0,0,300,Feuil1
+40410,"Lactosérum,même concentre ou additionne de sucre ou d'autres édulcorants;produits consistant en composant naturels du lait,même additionnes de sucre o",731459,841024,936800,1246550,1402720,1535294,1664375,2075530,2269388,3024800,3454825,3149770,2382475,2518252,3090695,2692420,2877272,2008895,3294701,Feuil1
+40490,"Autres lactosérum,même concentre ou additionne de sucre ou d'autres édulcorants;produits consistant en composants naturels du lait,même additionnes de",67000,78000,157265,12600,54351,207500,393447,886175,1175000,742120,130000,1186570,2075635,2974268,2434725,3128809,1799275,3342155,3386899,Feuil1
+40510,"Beurre et autres matières grasses provenant du lait,pâtes a tartiner laitières*",574253,587394,673290,1007286,1230268,1773050,1699104,161434,156765,1162825,997275,90650,314120,814780,15600,15655,1706,1495,723325,Feuil1
+40520,Beurre et autres matières grasses provenant du lait;pâtes a tartiner laitières*,0,0,0,0,0,0,0,0,0,0,0,0,1920,1360,0,0,0,0,0,Feuil1
+40590,"Autres beurre et matières grasses provenant du lait,pâtes a tartiner laitières*",474555,444440,285900,465700,703900,194400,126800,16800,79620,0,407400,125800,41000,210850,91800,0,0,46608,219100,Feuil1
+40610,"Fromages frais(non affines)y compris le fromage de lactosérum,et caillebotte*",0,0,66,66,0,123,1722,15,155,0,76,0,1432,6764,17586,25975,33893,42863,46196,Feuil1
+40620,"Fromages râpé ou en poudre de tous types:fromages râpés ou en poudre ,de tous type*",13058,0,51,0,0,98,5460,0,1195,600,1473,1889,1974,3277,5775,11038,9105,31917,39946,Feuil1
+40630,"Fromages fondus,autres que râpes ou en poudre *",11384,212,568,534,80720,108192,349014,386283,231155,228324,440,21821,21099,37944,8,1886,334,452,354,Feuil1
+40640,Fromages a pâté persillée *,0,0,129,14103,177,139,162,1141,156,0,171,178,741,2336,7972,8695,8651,13971,12071,Feuil1
+40690,Autres fromages et caillebotte*,1457983,2372824,2986387,3595417,3634701,3533341,3761144,3210706,3101793,3832104,1922199,2426730,2626179,2969284,2245375,1890894,1786179,2606714,3072035,Feuil1
+40700,"Oeufs d'oiseaux,en coquilles,frais,conserves ou cuits",212595,225575,626933,284378,244447,356074,252488,192813,407850,44469,114380,705312,311132,527478,0,0,0,0,0,Feuil1
+40711,"Oufs d'oiseaux ,en coquilles,frais,conservés ou cuits de volailles de l'espéce gallus domesticus",0,0,0,0,0,0,0,0,0,0,0,0,0,681545,538650,955340,286515,45684,0,Feuil1
+40719,"Autres oufs d'oiseaux ,en coquilles,frais,conservés ou cuits",0,0,0,0,0,0,0,0,0,0,0,0,0,179600,30600,3958,38,0,0,Feuil1
+40811,"Oeufs d'oiseaux,dépourvus de leurs coquilles et jaunes d'oeufs,frais,sèchés,cuits a l'eaux ou a la vapeur,moules,congelées ou autrement conserves me",800,789,850,0,0,26,400,600,600,4000,350,7200,14000,134565,53364,41582,236135,335467,193141,Feuil1
+40819,"Autres oeufs d'oiseaux,dépourvus de leurs coquilles,et jaune d'oeufs ,frais,sèchés,cuits a l'eaux ou a la vapeur,moules",1560,800,800,600,840,975,2040,275,1200,428,1700,0,0,2030,3650,5520,0,0,0,Feuil1
+40891,"Autres oeufs d'oiseaux ,dépourvus de leurs coquilles,et jaunes d'oeufs ,frais ,sèchés,cuits a l'eau ou a la vapeur ,moules ,congelées ou autrement cons",60200,140209,284180,275000,257000,200568,271415,246250,253305,126900,108225,137000,186750,290000,289308,242503,193000,174600,39600,Feuil1
+40899,"Autres oeufs d'oiseaux ,dépourvus de leurs coquilles et jaunes d'oeufs ,frais,sèchés,cuits a l'eaux ou a la vapeur,moules,congelées ou autrement conser",0,0,0,0,0,0,0,0,0,0,2730,6300,5410,17500,15781,158700,57680,96780,10800,Feuil1
+40900,Miel naturel,12988,4799,29003,30526,34273,23019,47685,75113,123874,144376,186889,177789,179398,282250,297014,382057,160207,140187,252127,Feuil1
+41000,"Produits comestibles d'origine animale ,non dénommes ni compris ailleurs*",250,25,300,500,0,0,0,0,1,0,0,0,0,300,0,441,1630,5795,5470,Feuil1
+50100,"Cheveux bruts,même laves ou dégraisses,déchets de cheveux *",0,300,28197,22266,32955,33844,65401,41160,15931,30255,24939,39316,24097,16388,21301,19496,25550,28993,34183,Feuil1
+50210,Soies de porcs ou de sanglier;poils de blaireau et autres poils pour la brosserie;déchets de ces soies ou poils *,47654,51800,68897,45778,35050,46300,30550,42532,22820,17925,19053,15105,10877,15807,9457,9213,10500,14650,14750,Feuil1
+50290,Autres poils de blaire et autres poils pour la brosserie;déchets de ces poils*,0,0,0,385,0,450,0,0,0,250,0,0,0,0,300,0,0,0,325,Feuil1
+50400,"Boyaux,vessies et estomacs d'animaux ,entiers ou en morceaux ,autres que ceux de poissons a l'état frais ,réfrigèré ,congelés,sale ou en saumure,sec",3080,0,0,0,0,0,1080,3100,5880,9848,21905,14320,1550,3552,30322,19647,48128,60575,57087,Feuil1
+50510,"Peaux et autres parties d'oiseaux revêtues de leurs plumes ou de leurs duvets,plumes et parties de plumes (même rognées),duvets,bruts:palmes des espèce",8,0,0,11,514,10,180,192,29,10,272,0,3041,1075,3826,4519,2707,7914,9795,Feuil1
+50590,"Autres peaux at autres parties d'oiseaux revêtues de leurs plumes ou de leurs duvets ,plumes et parties de plumes (même rognées)duvets,bruts ou simple",235,90,220,363,180,650,247,760,270,350,820,420,336,327,220,1170,14,0,20,Feuil1
+50790,"Autres ivoires,écailles de tortue,fanons (y compris les barbres )de baleine ou d'autres mammifères marins ;cornes;bois;sabots;ongles;griffes et becs",0,0,0,0,7400,0,0,0,0,1,4,0,0,0,0,0,0,0,0,Feuil1
+50800,"Corail et matières similaires,bruts ou simplement préparés,mais non autrement travailles ;coquilles et carapaces de mollusques,",2150,160,0,1543,0,5500,4673,8,0,1830,0,248,0,0,0,6936,164,0,300,Feuil1
+50900,Eponges naturelles d'origine animale *,992,3071,1658,1359,1,1,350,1034,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+51000,"Ambre gris,castor,civettes et musc;cartharides;bile;même séchée;glande et autres substances d'origine animale utilisées pour la préparation de produit",442,39,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+51110,Sperme de taureaux*,1272,1051,853,1436,201,1446,523,1008,1796,1202,1999,1150,1052,2255,439,1148,2358,2389,1416,Feuil1
+51191,"Autres produits d'origine animale,non dénommes ni compris ailleurs;animaux morts des chapitres 1 ou 3 ,impropres a l'alimentation humaine*",0,0,98,0,0,0,0,0,30,0,0,30,0,20,0,156,0,0,655,Feuil1
+51199,"Autres produits de poissons ou de crustacés,mollusques ou autres invertébrés aquatiques ;animaux morts du chapitre3*",0,0,12,18,3,4,10209,27,722,3060,2716,949,193,88,12,306,6,53,208,Feuil1
+60110,"Eaux,y compris les eaux minérales naturelles ou artificielles et les eaux gazeuses,non additionnées de sucre ou d'autre édulcorants ni aromatisées;gl",30301,89488,42764,31268,37569,55248,14391,24551,45727,49003,40834,77544,46276,923241,156245,233183,132171,55879,39430,Feuil1
+60120,Bulbes;oignons;tubercules;racines tubéreuses;griffes et rhizomes;en végétation ou en fleur ;plantes et racines de chicorée*,4427,52400,85984,62061,78112,32326,49141,48556,39444,125346,190636,290809,247379,156228,120360,48050,33733,28726,25325,Feuil1
+60210,Autres plantes vivantes (y compris leurs racines boutures et greffons,42066,69733,33998,21354,9842,3463,25378,2255,119485,2821,5582,1489,2270,2660,7450,10147,11848,766,9015,Feuil1
+60220,"Autres plantes vivantes (y compris leurs racines )boutures et greffons;blanc de champignons:arbres;arbustes,arbrisseaux et buissons;a fruits comestibles",82218,98099,110653,73971,93418,72719,69497,51326,48826,79762,59608,101994,143201,191162,252791,396199,296226,329441,173089,Feuil1
+60230,"Autres plantes vivantes (y compris leurs racines )boutures et greffons;blanc de champignons:rhododendrons et azalées,greffes ou non*",0,0,0,0,0,0,0,0,286,372,0,0,0,0,0,0,0,0,0,Feuil1
+60240,"Autres plantes vivantes(y compris leurs racines)boutures et greffons;blanc de champignons:rosiers,greffes ou non*",1145,247,10775,6177,8160,2505,744,1841,4401,4155,2377,857,1200,0,2176,434,0,35,6124,Feuil1
+60290,Autres plantes vivantes(y compris leurs racines)boutures et greffons;blanc de champignons :autres*,528122,572374,332515,363350,504409,760071,588140,636151,775912,910446,1585597,1760553,1263243,1183457,838223,1035034,982093,1244101,1008331,Feuil1
+60310,"Fleurs et boutons de fleurs,coupes,pour bouquets ou pour ornements,frais,sèchés,blanchis,teints,imprègnes ou autrement prépares*",555,9000,85,4824,165,0,1415,1645,80,0,0,0,0,0,0,0,0,0,0,Feuil1
+60311,Roses,0,0,0,0,0,0,0,0,0,0,1666,37020,0,280,5073,2075,3975,5042,8325,Feuil1
+60312,Fleurs d'oeillets fraiches *,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,240,Feuil1
+60319,"Fleurs et boutons de fleurs, frais, coupés, pour bouquets ou pour ornements (à l''excl. des roses, des oeillets, des orchidées et des chrysanthèmes)",0,0,0,0,0,0,0,0,0,3755,12225,6474,2525,12262,9371,3275,1227,380,950,Feuil1
+60390,"Fleurs et boutons de fleurs,coupes ,pour bouquets ou pour ornement,frais,sèchés,blanchis,teints,imprègnes ou autrement prépares:autres *",53820,63606,46558,60065,81636,62490,53021,40357,18760,3044,1762,1503,100,1186,100,6,500,839,31,Feuil1
+60410,"Feuillage,feuilles,rameaux et autres parties de plantes,sans fleurs ni boutons de fleurs,et herbes,mousses et lichens,pour bouquets ou pour ornement,f",25,103,0,20,0,10,17667,4284,1059,0,238,573,0,0,0,0,0,0,0,Feuil1
+60490,"Autres feuillages,feuilles;rameaux et utres parties de plantes,sans fleurs ni boutons de fleurs et herbes,mousses et lichens,pour bouquets ou pour ornements,frais,séchés,blanchis,tients;imprégnés ou autrement préparés",0,0,0,0,0,0,0,0,0,0,0,0,0,6635,1070,4599,4294,4759,2438,Feuil1
+60491,"Feuillage ,feuille,rameaux et autres parties de plantes ,sans fleurs ni boutons de fleurs,et herbes;mousses et lichens;pour bouquets ou pour ornement,",0,64,250,0,0,0,90,0,42053,0,0,0,0,0,0,0,0,0,0,Feuil1
+60499,"Feuillage,feuille,rameaux et autres parties de plantes ,sans fleurs ni boutons de fleurs et herbes,mousses et lichens,pour bouquets ou pour ornement,f",5275,999,45,591,778,6610,4120,1913,8864,13621,812,4330,1395,5,0,0,0,0,0,Feuil1
+70110,"Pommes de terre ,a l'état frais ou réfrigèré:de semences*",19449905,21933900,26741190,24297800,22419810,20287603,25416409,16262382,26638300,17044700,27809270,18258200,27676500,25819832,28135375,23465800,20077675,24377265,22191840,Feuil1
+70190,"Pommes de terre,a l'état frais ou réfrigèré:autres*",994738,11691200,10016813,21925778,14148300,26438385,10659370,11429360,75875073,2613500,47924840,3101000,6594750,12236795,5226600,283750,19817488,15571600,10740359,Feuil1
+70200,"Tomates,a l'état frais ou réfrigèré*",5106,0,0,20000,2513,1500,182160,93015,436000,0,127000,57773,29352,8000,21704,0,0,525500,2443672,Feuil1
+70310,"Oignons,échalotes,aulx,poireaux et autres légumes alliasses a l'état frais ou réfrigèré*",3951840,606745,50,50,4656300,3359956,6845410,1120020,2001993,272900,141600,176000,517100,3276979,1644150,4859648,9529380,1870401,4291001,Feuil1
+70320,"Oignons,échalotes,aulx,poireaux et autres légumes alliasses a l'état frais ou réfrigèré:aulx*",1860632,3516061,1936692,1400898,1337600,3461260,6430830,6420370,5218240,5423910,10906270,11265099,12573720,7584770,7845450,9122260,9791050,8247420,12133290,Feuil1
+70390,"Oignons,échalotes,aulx,poireaux et autres légumes alliasses a l'état frais ou réfrigèré:poireaux et autres légumes alliasses*",0,0,0,0,0,0,0,0,0,0,0,0,50100,21600,12000,24800,12800,49,0,Feuil1
+70410,"Choux,choux0fleurs,choux frises,choux0raves et produits comestibles similaires du genre brassica,a l'état frais ou réfrigèré*",0,4130,0,0,0,0,0,0,4521,7000,4531,9630,0,0,0,270,16132,8390,9195,Feuil1
+70420,"Choux,choux0fleurs,choux frises,choux0raves et produits comestibles similaires du genre brassica,a l'état frais ou réfrigèré:choux de bruxelles*",0,5000,2000,0,0,0,0,720,0,0,0,1440,0,0,0,0,0,232,0,Feuil1
+70490,"Choux,choux0fleurs,choux frises,choux raves et produits comestibles similaires du genre brassica,a l'état frais ou réfrigèré:autres",0,0,0,0,0,0,0,0,795,0,0,0,0,0,0,0,0,0,0,Feuil1
+70519,Laitues(lactuca sativa)et chicorées(cicorium spp)a l'état frais ou réfrigèré:autres*,0,0,0,0,0,0,0,0,0,0,0,11729,0,0,21781,78137,5025,0,525,Feuil1
+70529,Laitues(lactuca sativa)et chicorées(cicorium spp)a l'état frais ou réfrigèré: autres*,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6510,2491,Feuil1
+70610,"Carottes,navets,betterave a salade,salsifis,céleris0raves,radis et racines comestibles similaires,a l'état frais ou réfrigèré*",4940,7840,5040,1710,8395,3660,0,0,0,0,1004,200,0,3580,11789,48079,52100,38850,17549,Feuil1
+70690,"Carottes,navets,betterave a salade,salsifis,",0,0,0,10,0,10,0,0,10,0,0,0,0,0,0,0,0,0,252,Feuil1
+70700,Concombres et cornichons a l'état frais ou réfrigèré*,0,0,0,0,0,0,0,0,9500,0,0,296,0,0,0,0,0,1000,42900,Feuil1
+70810,"Légumes a cosses,écosses ou non,a l'état frais ou réfrigèré*",120029,98500,146000,0,0,0,0,1200,0,0,0,7700,0,0,0,0,6480,0,82700,Feuil1
+70820,"Légumes a cosses,écosses ou non,a l'état frais ou réfrigèré",12972,46240,73860,6660,0,0,0,0,16038,4000,0,0,0,0,108,0,0,0,24200,Feuil1
+70890,"Légumes a cosse,écosses ou non ,a l'état frais ou réfrigèré:autres légumes a cosse*",30,30285,41980,0,0,0,0,0,0,0,0,0,0,0,0,22690,3240,0,13000,Feuil1
+70910,Autres légumes a l'état frais ou réfrigère:artichauts*,150,0,0,0,2000,0,11500,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+70920,"Autres légumes,a l'état frais ou réfrigère:asperges*",0,0,0,0,2700,0,0,0,0,0,0,0,96956,92930,32104,1408,0,0,14002,Feuil1
+70930,"Autres légumes,a l'état frais ou réfrigère:aubergines*",0,0,0,50,1000,0,0,0,2500,0,0,106,0,0,39650,0,0,0,37750,Feuil1
+70940,"Autres légumes ,a l'état frais ou réfrigère:céleris autres que les céleris0raves*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,480,26,0,0,0,Feuil1
+70951,"Autres légumes ,a l'état frais ou réfrigèré:champignons et truffes *",184,0,3030,5,0,0,0,0,201,25200,0,0,0,0,0,0,0,0,0,Feuil1
+70952,"Autres légumes,a l'état frais ou refrigeré:truffes",0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,Feuil1
+70959,"Autres légumes,a l'état frais ou réfrigèré*",0,0,0,0,0,1302,630,630,0,0,0,0,0,0,462,14019,0,0,0,Feuil1
+70960,Autres légumes a l'état frais ou réfrigèré:piments du genre capsicum ou du genre pimenta*,660,330,300,8026,0,290,0,0,42500,29,0,1208,0,13620,1200,2340,8660,94778,272286,Feuil1
+70970,"Autres légumes a l'état frais ou réfrigèré:épinards,tétragones(épinards de nouvelle0zelande)et arroches (épinards géant)*",0,0,0,0,0,0,260,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+70990,"Autres légumes,a l'état frais ou réfrigèré:autres",2740,47710,9000,110,41570,9886,357201,151001,30450,31842,41001,16563,38692,252940,0,0,0,0,0,Feuil1
+70991,Artichauts,0,0,0,0,0,0,0,0,0,0,0,0,0,49600,131230,2264,5000,34560,17376,Feuil1
+70992,Olives,0,0,0,0,0,0,0,0,0,0,0,0,0,739600,69200,0,192800,2069962,45538,Feuil1
+70993,"Citrouilles,courges et calebasses",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3000,0,180216,Feuil1
+70999,Autres légumes à l'état frais ou réfrigéré,0,0,0,0,0,0,0,0,0,0,0,0,0,3080,1310,9071,76856,79010,36671,Feuil1
+71010,"Légumes,non cuits ou cuits a l'eau ou a la vapeur,congelées;pommes de terre",126673,162857,252290,249252,213598,391434,400942,385067,533821,764666,517245,46700,75225,142768,37802,13080,37200,0,11340,Feuil1
+71021,"Légumes,non cuits ou cuits a l'eau ou a la vapeur,congelées;pois(pisum sativum)",11850,10970,17984,72424,51340,134259,144159,165293,159878,165167,220030,244934,149425,264797,245842,256230,286188,298492,399815,Feuil1
+71022,"Légumes,non cuits ou cuits a l'eau ou a la vapeur,congelées;pois(pisum sativum)",6000,10640,18060,37450,73103,135530,177407,127376,134953,213579,192675,262051,100957,174427,159696,158169,78534,94002,133661,Feuil1
+71029,"Légumes,non cuits ou cuits a l'eau ou a la vapeur,congeles;autres",340,1500,500,0,14698,0,0,0,0,5360,22930,25241,14560,12140,14300,1620,11530,2000,20590,Feuil1
+71030,"Légumes,non cuits ou cuits a l'eaux ou a la vapeur congelées:épinards,tétragone(épinards de nouvelle0zelande)et arroche(épinards géant)*",13140,15000,11085,5040,7443,11640,0,4025,13400,4410,1000,1157,1131,2100,1105,720,2120,1440,5225,Feuil1
+71040,"Légumes,non cuits ou cuit a l'eaux ou a la vapeur congelées:mais doux *",3450,990,1952,33200,24305,20510,44905,34606,52845,58780,72720,74647,28802,74733,44546,54960,39244,49216,80116,Feuil1
+71080,"Légumes,non cuits ou cuit a l'eaux ou a la vapeur congelées:autres légumes*",78483,87907,117565,125075,108258,128240,410141,347042,170561,251223,246119,406935,158061,343315,344767,282983,157690,168766,196244,Feuil1
+71090,"Légumes,non cuits ou cuits a l'eaux ou a la vapeur congelées: mélanges de légumes",20940,23074,21130,50296,77714,119507,89229,80664,165589,183029,93830,152731,73006,160578,129572,138193,120575,166275,147104,Feuil1
+71120,"Légumes conserves provisoirement(au moyen de gaz sulfureux ou dans de l'eau salée,soufrée ou additionnée d'autres substances servant a assurer leur co",0,0,0,0,0,0,9,0,0,0,0,0,8532,0,0,115500,109000,0,11340,Feuil1
+71140,"Légumes conserves provisoire(au moyen de gaz sulfureux ou dans de l'eau salée,soufrée ou additionne d'autres substances servant a assurer leurs conser",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15200,Feuil1
+71190,"Légumes conserves provisoire(au moyen de gaz sulfureux ou dans de l'eau salée,soufrée ou aditionnée d'autres substances servant a assurer leur conserva",8,0,150,1075,4062,178,206429,1815,1833,1550,1335,0,593293,0,540,20250,44480,14130,20961,Feuil1
+71220,"Légumes secs,même coupes en morceaux ou en tranches ou bien broyés ou pulvérisés,mais non autrement prépares: oignons*",2259,2164,2829,4132,394379,20039,4250,55384,12262,5604,1805,0,100,501,1226,700,1645,1629,1924,Feuil1
+71230,"Légumes secs,même coupes en morceaux ou en tranches ou bien broyés ou pulvérisés,mais non autrement prépares:champignons et truffes*",355,218,290,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+71231,"Champignons du genre ''Agaricus'', séchés, même coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés",0,0,0,0,34,47,182,0,8,0,0,0,0,0,0,0,0,0,0,Feuil1
+71232,"Legumes secs,meme coupes en morceaux ou en tranches ou bien broyes ou pulverses,mais non autrement prepares: oreilles de judas*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,Feuil1
+71233,"Trémelles ''Tremella spp.'', séchées, même coupées en morceaux ou en tranches ou bien broyées ou pulvérisées, mais non autrement préparées",0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,30,Feuil1
+71239,"Autres légumes secs,même coupes en morceaux ou en tranches ou bien broyés ou pulvérisés,mais non autrement prépares*",0,0,0,391,21310,16470,128,165,3680,1021,205,395,300,1452,300,1200,168,90,322,Feuil1
+71290,"Légumes secs,même coupes en morceaux ou en tranches ou bien broyés ou pulvérisés,mais non autrement prépares:autres légumes;mélanges de légumes*",191260,109514,6074,36846,23733,2802,3522,901230,420171,18042,20931,15306,49131,6406,23708,170011,56751,110190,36246,Feuil1
+71310,"Légumes a cosses secs,écosses,même décortiques ou casses:pois(pisum sativum)*",738896,1230142,837155,1646985,1133968,1840795,970115,1379885,605550,793025,1152984,2099502,1732259,1008961,471970,698186,918109,1124880,1645551,Feuil1
+71320,"Légumes a cosses secs,écosses,même décortiques ou casses: pois chiche*",19223154,18158600,19967323,18710810,18869392,20326580,16724520,18839516,15623889,11609157,18219977,15983092,6480875,9761336,7534464,9183840,13956285,13831237,8649432,Feuil1
+71331,"Légumes a cosses secs,écosses,même décortiques ou casses: haricots('vigna spp.phaselous spp)*",62050,49650,850,42795,7092,4200,6690,2000,42500,69500,141950,3300,21000,0,570,0,149,500,125,Feuil1
+71332,"Légumes a cosses secs,écosses,même décortiques ou casses:haricots""petit rouge""(haricots adzuki)(phaselous ou vigna angularis)*",0,0,0,0,0,0,0,0,0,4665,1180,300,0,0,0,0,0,0,144000,Feuil1
+71333,"Légumes a cosses secs,écosses,même décortiques ou casses:haricots communs(phaseolous vulgaris)*",704950,372730,695900,350400,9337,48200,224500,126125,4500,1000,1400,4870,1130,49500,500,74800,221441,1886500,1242650,Feuil1
+71339,"Autres légumes a casses secs,écosses,même décortiques ou casse*",6019225,5046940,6478452,7478375,7752765,5698575,7107925,7594150,8390554,7759825,8593200,6654001,8719130,746050,974953,6148348,8183675,3527100,3325300,Feuil1
+71340,"Légumes a casses secs ,écosses,même décortiques ou cassées :lentille*",1928251,2588332,3671002,4076236,4449208,2131860,5122292,4267277,4637441,3814800,4434975,5136823,3808141,1143565,931623,2435743,4596380,2911802,4124291,Feuil1
+71350,"Légumes a casses secs,écosses,même décortiques ou cassées:fèves(vicia faba var.major)et féveroles(vicia faba var.equina,vicia faba var.minor)*",510,72,632500,1874890,669808,838020,759941,778939,48752,82870,1081060,305750,121550,63120,12600,13025,38000,163625,2642,Feuil1
+71360,Pois d’Ambrevade ou Pois d’Angole,0,0,0,0,0,0,0,0,0,0,0,0,0,800,0,0,0,0,0,Feuil1
+71390,"Autres légumes a casses secs,écosses,même décortiques ou cassée:autres",5500,0,3066,0,0,0,0,5,65,60,0,350,989,5,30150,0,0,0,0,Feuil1
+71410,"Racines de manioc,d'arrow0root ou de salep,topinambours,patates douces,racines,tubercules similaires a haute teneur en fécules ou en inuline frais,refr",0,0,0,0,0,0,0,0,0,185,0,0,1410,0,500,0,0,100,0,Feuil1
+71420,"Racines de manioc,topinambours et racine tubercules similaires a haute teneur;patates douces",0,0,0,96,0,0,0,0,23000,233,0,0,0,157875,0,0,0,0,0,Feuil1
+71430,Ignames,0,0,0,0,0,0,0,0,0,0,0,0,0,390,1100,0,0,0,0,Feuil1
+71490,"Racines de manioc,topinambours et racine tubercules similaires;autres",0,0,0,40,0,0,0,12000,0,40,0,8,0,0,0,0,0,0,0,Feuil1
+80111,"Noix de coco,noix du brésil et noix de cajou,fraîches ou sèches,même sans leurs coques ou décortquées:noix de coco desséchées*",167950,94897,29023,30378,116722,31795,68974,36525,6495,4444,92963,119320,259173,185367,147556,113066,135850,131685,152320,Feuil1
+80119,"Autres noix de coco,noix du brésil et noix de cajou,fraîches ou sèches,même sans leurs coques ou décortiquées*",25810,41090,68942,73878,106083,41734,36462,7337,16150,8600,24720,63934,18750,74499,0,25016,12500,275,13228,Feuil1
+80121,"Noix de coco,noix de brésil et noix de cajou,fraîche ou sèches,même sans leurs coques ou décortiquées :noix de brésil en coques*",2800,7000,95340,39100,15000,52000,104195,46000,87480,52000,156000,120080,65290,369474,207180,104000,281000,297500,104000,Feuil1
+80122,"Noix de coco,noix de brésil et noix de cajou,fraîche ou sèches,même sans leurs coques ou décortique : sans coques",6850,0,5000,4200,2900,0,13000,7000,25912,0,17000,0,5280,17480,6000,16000,5000,18500,0,Feuil1
+80131,"Noix de coco,noix de brésil et noix de cajou,fraîche ou sèches,même sans leurs coques ou décortique: noix de cajou :en coques*",15000,0,0,7000,0,0,13544,0,0,0,0,256828,59375,0,10,0,0,0,0,Feuil1
+80132,"Noix de coco,noix de brésil et noix de cajou,fraîche ou sèche:noix de cajou,fraîches ou sèches ,en coques*",1900,30775,69730,131273,163131,105814,197243,152026,185451,259744,262742,587169,563655,649604,370882,690465,949466,1043101,508025,Feuil1
+80211,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortiques:amandes *",3060,8400,4760,0,7361,7412,6385,0,0,1356,353529,1474922,104893,19505,15262,20000,5066,43092,9350,Feuil1
+80212,"Houilles;briquettes,boulets et combustibles solides similaires obtenus a partir de la houille *",42090,65871,960278,1507219,1660704,634068,80147,512474,5467,449021,1840195,1604586,3221819,2258494,1914748,1776703,1185843,4527361,1280929,Feuil1
+80221,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortique:noisette en coques*",139607,18393,121195,124773,66970,86616,99087,167737,95993,68912,537756,665292,127700,146520,62250,185000,90250,119100,89000,Feuil1
+80222,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortique:noisette sans coques",237241,213261,427470,840191,740191,906820,898232,682907,846557,1045951,950502,1239948,911203,1081385,490459,744990,822479,1761250,1277720,Feuil1
+80231,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortique:noix commune;en coques*",95660,93668,141458,103350,85080,139750,162000,126420,138533,145064,143890,127516,175000,165508,229100,140975,241556,308000,183825,Feuil1
+80232,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortique:noix commune:sans coques*",48162,53586,102928,88115,144445,49067,87901,72472,58533,46820,57450,91224,215758,259864,232320,306600,317600,435430,352800,Feuil1
+80240,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortiqué:châtaignes et marrons(castanea spp)",17912,6436,4880,2200,28200,14800,12660,22970,11440,5000,7000,465,185,0,0,0,0,0,0,Feuil1
+80241,Châtaignes et marrons en coques,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35325,6525,2510,4575,5200,Feuil1
+80242,Châtaignes et marrons sans coques,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20000,0,1000,8500,0,Feuil1
+80250,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortique:pistaches*",225447,192427,431189,646156,498880,236309,497487,490500,883379,843080,999652,1381137,1019534,838368,0,0,0,0,0,Feuil1
+80251,Pistaches en coques,0,0,0,0,0,0,0,0,0,0,0,0,0,564830,616036,868249,1004500,1155809,745999,Feuil1
+80252,Pistaches sans coques,0,0,0,0,0,0,0,0,0,0,0,0,0,129567,88067,131008,165920,189142,187400,Feuil1
+80260,Noix macadamia,0,0,0,0,0,0,0,0,0,20000,0,0,0,0,0,0,0,0,0,Feuil1
+80290,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortique:autres*",84834,72888,127948,111110,125885,197438,190927,122598,221417,203679,393147,127886,291549,166460,253311,310991,164432,287579,255044,Feuil1
+80300,"Autres fruits a coques,frais ou secs,même sans leurs coques ou décortique:bananes,y compris les plantains,fraîches ou sèches*",10609650,15477116,11039231,16274959,13763377,54313854,20798393,20254255,41028049,33512680,37118041,18700159,41338077,1521038,3225060,0,0,0,0,Feuil1
+80310,Plantains,0,0,0,0,0,0,0,0,0,0,0,0,0,6316,8066,0,0,0,0,Feuil1
+80390,"Autres bananes,y compris les plantains fraiches ou séches",0,0,0,0,0,0,0,0,0,0,0,0,0,5905231,17545474,36430410,60125769,65249119,57285822,Feuil1
+80410,"Dattes,figues,ananas,avocats,goyaves,mangues et mangoustans,frais ou secs:dattes*",66606,34570,111758,220936,235478,241912,70114,120450,87889,27364,61199,492645,164232,247345,258067,401536,287594,684859,426334,Feuil1
+80420,"Dattes,figues,ananas,avocats,goyaves,mangues et mangoustans,frais ou secs:figues*",136506,13496,23456,206806,29057,70422,129387,160085,31140,24633,30434,37654,32008,14667,16772,18321,9124,27627,44192,Feuil1
+80430,"Dattes,figues,ananas,avocats,goyaves,mangues et mangoustans,frais ou secs:ananas*",19350,13960,23718,16635,19732,53532,76797,65034,12301,59857,89435,80740,70718,80990,290530,284531,227110,347011,712749,Feuil1
+80440,"Dattes,figues,ananas,avocats,goyaves,mangues et mangoustans,frais ou secs:avocats*",913,1241,6531,4345,8020,11118,13540,9835,11952,15502,19500,30200,29448,46184,44627,31442,35968,46152,39544,Feuil1
+80450,"Dattes,figues,ananas,avocats,goyaves,mangues et mangoustans,frais ou secs:goyaves,mangues et mangoustans*",1471,1194,4943,1226,0,36,90,0,0,80,3220,60,60,947,1000,3025,680,140,7272,Feuil1
+80510,"Agrumes,frais ou secs:oranges",5000,0,18634,0,21248,66482,402,0,0,3000,0,70250,4000,0,48742,79355,36880,0,46920,Feuil1
+80520,"Mandarine(y compris les tangerines et satsumas);clémentines,wilkings et hybrides similaires d'agrumes*",0,252,600,1042,2172,11000,0,0,14,0,0,0,0,0,0,0,39600,0,0,Feuil1
+80530,"Citrons(citrus limon,citrus limonus)et limes(citrus aurantifolia)*",0,0,2439,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+80540,"Mandarines(y compris les tangerines et satumas);clémentines,wilkings et hybrides similaires d'agrumes:pamplemousses et pomelos*",0,2340,0,0,0,167,2334,700,770,768,0,1158,0,0,0,0,0,0,530,Feuil1
+80550,"Citrons (citrus limon,citrus limon us)et limes (citrus aurantifolia)*",0,0,0,0,0,0,0,430,0,49500,906282,776632,0,0,0,0,6795,31772,674,Feuil1
+80590,"Mandarines(y compris les tangerines et satumas);clémentines,wilkings et hybrides similaires d'agrumes :autres",0,0,520,0,0,0,0,0,0,0,0,0,0,0,249,0,0,0,0,Feuil1
+80610,"Raisins,frais ou secs:frais*",0,0,0,0,0,0,0,0,0,0,17740,27200,43685,22860,12377,26675,16038,76488,25787,Feuil1
+80620,"Raisins,frais ou secs:*",819366,1413403,960858,761420,939716,612068,705889,1045508,840220,686669,1108370,1075437,712749,1220548,1176335,1296155,1359590,1524765,1253558,Feuil1
+80711,"Melons(y compris les pastèques) et papayes,frais :melons y compris les pastèques:",0,0,0,0,0,0,0,147000,799500,125408,299800,125000,0,0,30462,102000,155000,267500,51200,Feuil1
+80719,"Melons(y compris les pastèques)et papayes,frais:melons y compris les pastèques:autres",0,0,0,0,0,0,0,85000,124000,74500,28000,12600,0,0,0,0,0,4995,34390,Feuil1
+80720,"Melons(y compris les pastèques)et papayes,frais:melons y compris les pastèques:papayes*",0,800,2160,0,0,20,0,0,0,0,0,0,0,0,930,0,0,0,0,Feuil1
+80810,"Pommes,poires et coings,frais:pommes",0,0,0,0,0,6703,0,0,0,0,0,87681,278621,193908,0,0,19939,0,0,Feuil1
+80820,"Pommes,poires et coings,frais:poires et coings*",0,1125,1860,0,28000,49,0,1280,0,0,0,15,1055,0,0,0,0,0,0,Feuil1
+80910,"Abricots,cerises,pêches(y compris les brugnons et nectarines),prunes et prunelles,frais:abricots*",0,5000,0,0,0,0,1482,5144,0,0,0,249195,496885,479848,3360,303500,252612,0,158819,Feuil1
+80920,Abricots cerises pêches prunes et prunelles frais;cerises,52,100,0,0,0,0,0,0,350,0,4345,6434,3546,3068,0,0,0,0,0,Feuil1
+80929,"Autres abricots,cerises,péches,prunes et prunelles, frais",0,0,0,0,0,0,0,0,0,0,0,0,0,500,0,6342,1870,0,0,Feuil1
+80930,Autres pêches y compris les brugnons et nectarines*,0,0,0,0,0,0,0,1216,0,23000,12000,775,176,4392,0,3100,0,1680,0,Feuil1
+80940,"Abricots,cerises,pêches(y compris les bugnons et nectarines):prunes et prunelles*",0,2025,0,0,0,0,0,0,0,0,4500,1800,0,14530,2434,10416,0,33310,7890,Feuil1
+81010,"Autres fruits ,frais:fraises",0,0,0,0,0,0,0,0,0,0,0,550,0,48000,0,0,0,0,25100,Feuil1
+81020,"Autres fruits,frais:framboises,mures de ronce ou de mûrier et mures framboises*",0,0,0,0,0,0,0,0,0,0,0,445,1014,80,0,0,0,0,0,Feuil1
+81050,"Groseilles a grappes,y compris les cassis,et groseilles a maquereau:kiwis",1861,3190,7045,3241,50,5460,70248,16545,39522,43638,202772,365265,192575,279474,495107,584993,968426,3529608,1945161,Feuil1
+81070,Kakis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14750,3378,3903,Feuil1
+81090,"Autres fruits ,frais:autres",0,0,0,0,0,12000,0,7360,0,9996,29925,9512,237,1892,2420,1800,600,21400,9496,Feuil1
+81110,"Fruits,non cuits ou cuits a l'eau a la vapeur,congelées,même additionnes de sucre ou d'autres édulcorant *",0,0,19811,0,50164,14000,118000,71900,1800,16504,90812,30315,96744,135698,401560,240024,161567,169209,311420,Feuil1
+81120,"Framboises,mures de ronce ou de mûrier,mures framboises et groseilles a grappes ou a maquereaux*",0,0,0,8410,3812,5005,10007,16400,0,0,370,10623,4998,10805,11665,16910,15204,18302,16135,Feuil1
+81190,"Autres fruits non cuits ou cuits a l'eaux ou a la vapeur,congelées,même additionnées de sucre ou d'autres édulcorants*",50,1016,39336,65083,39257,22734,157230,136290,37080,24340,141874,212963,59305,2490,154120,20355,96456,246143,279881,Feuil1
+81210,"Fruits conserves provisoirement(au moyen de gaz sulfureux ou dans l'eau salée,soufrée ou additionnée d'autres substances servant a assurer provisoire",4095,0,6000,600,0,0,0,161,0,2750,0,0,3985,0,0,0,0,0,0,Feuil1
+81220,"Fruits conserves provisoirement(au moyen de gaz sulfureux ou dans l'eau salée,soufrée ou additionnée d'autres substances servant a assurer provisoire",0,0,22020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+81290,"Fruits conserves provisoire(au moyen de gaz sulfureux ou dans l'eau salée,soufrée ou additionnée d'autres substances servant a assurer provisoire",16233,55742,32105,20000,0,2313,27716,0,15950,180,300,6080,270,5,18245,0,0,11206,1468,Feuil1
+81310,"Fruits sèches autres que ceux des n° 08.01 a 08.06 inclus,mélanges de fruits sèches ou de fruits a coques du présent chapitre:abricots*",53075,49759,89093,137283,135327,184641,208334,287288,50214,102149,94844,106502,67077,52474,77217,11507,10780,25087,46111,Feuil1
+81320,"Fruits sèches autres que ceux des n° 08.01 a 08.06 inclus,mélanges de fruits sèches ou de fruit a coques du présent chapitre:pruneaux *",26321,22286,644114,1300955,668622,1999698,1311503,965692,628322,39457,57484,79020,26080,46443,40361,75298,21660,39277,46744,Feuil1
+81330,"Fruits sèches autres que ceux des n° 08.01 a 08.06 inclus,mélanges de fruits sèches ou de fruits a coques du présent chapitres:pommes",0,400,110,527,680,1020,610,612,475,530,510,665,540,740,580,163,0,0,120,Feuil1
+81340,Fruits sèches autres que ceux des n° 08.01 a 08.06 inclus mélanges des fruits sèches ou de fruits a coques du présent;autres fruits,10952,22672,7149,14820,11445,10302,29851,12797,8262,7639,7050,13681,11093,19372,11677,6544,1155,966,3671,Feuil1
+81350,"Fruits sèches autres que ceux des n°s 08.01 a 08.06 inclus,mélanges de fruits sèches ou de fruits a coques du présent chapitre:mélanges de fruits sèche",1683,40,109,107692,67119,1833,0,2000,0,0,34,8,502,7928,0,0,0,0,722,Feuil1
+81400,"Ecorces d'agrumes ou de melons (y compris de pastèques)fraîche;congelées,présentées dans l'eau sellée,soufrée ou additionne d'autres substances servant",0,0,4,0,0,0,0,5010,728,0,340,0,0,0,0,0,0,0,120,Feuil1
+90111,"Café,même torréfie ou décaféine;coques et pellicules de café;succédanés du café contenant du café,quelques que soient les proportions du mélange *",9902157,10390179,12546592,12440555,5595259,13638371,9468456,10685284,12539494,16778570,14335906,15152652,22412355,22617481,22496326,24018485,23988333,23414016,28554656,Feuil1
+90112,"Café,même torréfie ou decafine ;coques et pellicules de café;succédanés du café contenant du café,quelques soient les proportions du mélange*",0,10980,0,0,4990,3162,5020,12420,15910,12000,1200,13670,0,8166,2040,8160,8040,135,6217,Feuil1
+90121,"Café,même torréfie ou decafine;coques et pellicules de café;succédanés du café contenant du café;quelques soient les proportions du mélange: café torr",198197,0,1293,202587,0,302971,9996,25016,35831,10186,21566,120475,147418,133750,178875,164497,192544,254929,268456,Feuil1
+90122,"Café,même torréfie ou decafine;coques et pellicules de café;succédanés du café contenant du café,quelles que soient les proportions du mélange*",3332,1152,72,102,4,1616,3126,18,18750,83089,95048,45911,3344,604,425,2966,768,5972,1158,Feuil1
+90190,"Café,même torréfie ou decafine ;coques et pellicules de café;succédanés du café contenant du café,quelles que soient les proportions du mélange: autres",1000,0,2137,0,670,1332,498,2925,5443,1717,2350,4033,1450,2741,1510,1585,2370,603,530,Feuil1
+90210,"Thé,même aromatise:thé vert(non fermente)présente en emballages immédiats d'un contenu n'excédant pas 3kg*",497,0,85,452,0,0,53980,18000,5624,19036,19082,4806,11764,22922,7137,15720,1043,1933,2345,Feuil1
+90220,"Thé,même aromatise :thé vert((non fermente)présente en emballages immédiats d'un contenu n'excédant",1801313,1499942,2705631,1249389,2157052,2401211,2095599,2097380,2260928,2669690,1942323,2328944,3157321,2690718,2572431,2581495,2594084,2930019,3209874,Feuil1
+90230,"Thé noir(fermente)et thé partiellement fermement,présentes en emballages immédiats d'un contenu n'excédant pas 3kg",579,751,0,0,0,0,1370,300,171,21642,3366,19437,9072,18299,8183,22040,5854,8221,2874,Feuil1
+90240,"Thé noir(fermente)et thé partiellement fermente,présentes autrement*",8365479,8914902,9482817,8192134,7069681,7188484,7513465,8495609,7003341,7674342,7786676,7823735,6069807,7011733,4248282,4402244,3771671,2979353,5915275,Feuil1
+90300,"Thé,même aromatise:mate*",0,0,0,0,0,0,13,0,0,0,0,0,0,5,0,0,0,90,190,Feuil1
+90411,"Poivre(du genre piper);piments du genre capsicum ou du genre pimenta,sèches ou broyées ou pulvérisés:poivre*",453403,734401,1194521,534998,620278,788683,660204,395584,224711,952156,1037367,660872,739062,934605,949316,796488,631573,791514,877441,Feuil1
+90412,"Poivre(du genre piper);piments du genre capsicum ou du genre pimenta,sèches ou broyées ou pulvérisés:broyée ou pulvérisés*",1756,2020,3056,2122,1705,15230,2693,2459,2152,1036,421,703,19787,5112,1924,47816,152245,300169,52752,Feuil1
+90420,"Poivre(du genre piper);piments du genre capsicum ou du genre pimenta,sèches ou broyées ou pulvérisés :piments sèches ou broyées ou pulvérisés*",379243,1112661,775462,740203,517100,1037465,1160930,968434,1354511,1561154,2833623,2270172,1452861,977848,0,0,0,0,0,Feuil1
+90421,"Poivres séchés,non broyés ni pulvérisés",0,0,0,0,0,0,0,0,0,0,0,0,0,789330,542697,489630,159100,48500,266725,Feuil1
+90422,Poivres broyés ou pulvérisés,0,0,0,0,0,0,0,0,0,0,0,0,0,2431703,2439055,2725987,3007962,2606301,3526550,Feuil1
+90500,Vanille*,43,519,154,2,12,11,100,115,126,45,0,2870,0,0,0,0,0,0,0,Feuil1
+90510,Vanille non broyés ni pulvérisés,0,0,0,0,0,0,0,0,0,0,0,0,0,20,21,29,8,23,10,Feuil1
+90520,Vanilles broyés ou pulvérisés,0,0,0,0,0,0,0,0,0,0,0,0,0,75,100,45,0,0,21,Feuil1
+90610,Cannelle et fleurs de cannelier:non broyées ni pulvérisées*,24800,51228,77363,52420,76359,133175,11560,80000,30950,0,0,0,0,0,0,0,0,0,0,Feuil1
+90611,"Cannelle ''Cinnamomum zeylanicum Blume'', non0broyées ni pulvérisées",0,0,0,0,0,0,0,0,9500,20000,20000,20000,79425,56650,59255,54850,32550,35890,36700,Feuil1
+90619,"Cannelle, non0broyées ni pulvérisées (à l''excl. de la cannelle ''Cinnamomum zeylanicum Blume'')",0,0,0,0,0,0,0,0,93660,70900,58071,75022,74800,53000,26960,56000,45546,158075,30020,Feuil1
+90620,Cannelle et fleurs de cannelier:broyées ou pulvérisées*,0,26,141,25,19,4320,0,0,18,21,57,260,46731,13459,103,200,12028,157,75,Feuil1
+90700,"Cannelle et fleurs de cannelier: girofles(antofles,clous et griffes)*",0,30350,41856,93476,72500,15000,55435,85628,99348,11000,15982,80518,25000,60,0,0,0,0,0,Feuil1
+90710,Girofles non broyés ni pulvarisés,0,0,0,0,0,0,0,0,0,0,0,0,0,44869,63180,55070,33985,69655,34168,Feuil1
+90720,Girofles broyés ou pulvérisés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,85,Feuil1
+90810,"Noix muscades,macis,amomes et cardamomes: noix muscade*",0,21,6395,14,525,7,3000,300,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+90811,Noix muscades non broyés ni pulvérisés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,610,0,Feuil1
+90820,"Noix muscades,macis,amomes et cardamomes:macis",0,0,5,15,0,7,5,10,25,25,0,0,0,0,0,0,0,0,0,Feuil1
+90830,"Noix muscades,macis,amomes et cardamomes:amomes et cardamomes*",0,0,40,0,0,0,1120,320,1120,355,50,600,1560,52,0,0,0,0,0,Feuil1
+90831,Amomes et cardamomes non broyés ni pulvarisés,0,0,0,0,0,0,0,0,0,0,0,0,0,280,5280,2160,680,2000,1560,Feuil1
+90910,"Graines d'anais,de badiane,de fenouil,de coriande,de cumin ou de carvi,baies de genievre:graines d'anis ou de badiane *",100540,3170,40585,125706,139905,51590,91477,76930,154360,39230,75768,147031,79125,18700,0,0,0,0,0,Feuil1
+90920,"Graines d'anais,de badiane,de fenouil,de coriande,de cumin ou de carvi,baies de genievre:graines de coriandre*",1206015,1755877,2122758,1494887,2136656,1376357,1313320,1246580,2004102,846525,1796353,1880020,1119214,112823,0,0,0,0,0,Feuil1
+90921,Graines de coriandre non broyés ni pulvarisés,0,0,0,0,0,0,0,0,0,0,0,0,0,1908130,674710,722600,1809379,1164110,760887,Feuil1
+90922,Graines de coriandre broyés ou pulvarisés,0,0,0,0,0,0,0,0,0,0,0,0,0,157,19934,61,38412,18228,10033,Feuil1
+90930,"Graines d'anais,de badiane,de fenouil,de coriandre,de cumin ou de carvi,baies de geniervre:graine de cumin",527580,403821,512547,866769,433617,252155,564775,176160,558980,702110,484225,697570,614961,90002,0,0,0,0,0,Feuil1
+90931,Graines de cumin non broyés ni pulvarisés,0,0,0,0,0,0,0,0,0,0,0,0,0,610434,1015580,740950,514726,718475,584480,Feuil1
+90932,Graines de cumin broyés ou pulvarisés,0,0,0,0,0,0,0,0,0,0,0,0,0,305,823,188,51,3249,14238,Feuil1
+90940,"Graines d'anais,de badiane,de fenouil,de coriendre,de cumin ou de carvi,baies de geniervre:graines de carvi*",674430,734775,766378,589195,855155,458300,325475,624520,653379,331736,482306,42601,113458,23869,0,0,0,0,0,Feuil1
+90950,"Graines d'anais,de badiane,de fenouil,de coriendre,de cumin ou de carvi,baies de geniervre:graines de fenouil;baies de genièvre*",215880,445385,280875,394665,559125,670885,384780,657400,654595,718525,466843,530916,951507,144290,0,0,0,0,0,Feuil1
+90961,"Graines d'anis,de badiane,de carvi,de fenouil ,bais de géniévre non broyées ni pulvarisées",0,0,0,0,0,0,0,0,0,0,0,0,0,951240,721426,1405351,1568247,1155625,946322,Feuil1
+90962,"Graines d'anis,de badiane,de carvi,de fenouil ,bais de géniévre broyées ou pulvarisées",0,0,0,0,0,0,0,0,0,0,0,0,0,12011,513,35,20,540,14010,Feuil1
+91010,"Gingembre,safran,curcuma,thym,feuilles de laurier,curry et autres épices:gingembre*",40596,34952,42304,31265,39300,14000,62000,162810,56230,14156,43044,69328,226796,20755,0,0,0,0,0,Feuil1
+91011,Gingembre non broyés ni pulvarisés,0,0,0,0,0,0,0,0,0,0,0,0,0,47400,167665,34360,261705,258100,314128,Feuil1
+91012,Gingembre broyés ou pulvarisés,0,0,0,0,0,0,0,0,0,0,0,0,0,7150,295,4176,250,6741,44,Feuil1
+91020,"Gingembre,safran,curcuma,thym,feuilles de laurier,curry et autres épices:safran*",50,516,122,3351,79,663,1725,6370,2338,3720,715,0,25,15,424,1171,1009,5843,1309,Feuil1
+91030,"Gingembre,safran,curcuma,thym,feuilles de laurier,curry et autres épices:curcuma*",1262017,1377220,1356717,515932,1368165,1343242,2262298,1797513,1463425,1625250,1573500,1375196,3304868,3385010,1690067,2380264,2954962,3391343,2766137,Feuil1
+91040,"Gingembre,safran,curcuma,thym,feuilles de laurier,curry et autres épices:thym;feuilles de laurier *",21515,0,18447,9621,4814,11,3020,9500,3,0,0,0,0,0,0,0,0,0,0,Feuil1
+91050,"Gingembre,safran,curcuma,thym,feuilles de laurier,curry et autres épices:curry*",0,0,54095,0,0,100,0,15,11,0,0,0,0,0,0,0,0,0,0,Feuil1
+91091,Autres épices:mélange visées a la note 1 point b)du présent chapitre*,8243,11891,1365,612,260,516,2907,500,407,236,3588,4943,679,1157,2350,1035,606,6684,6756,Feuil1
+91099,Autres épices:autres graines de fenugrec*,213349,122136,41613,1430586,315523,806021,537500,1324895,391426,557052,1391732,1404187,1470662,1520599,2219813,2146119,1679370,1638352,1760469,Feuil1
+100110,Froment(ble)et métal:froment(ble)dur,248976494,414969600,501552614,801833663,471317279,89381997,183005090,343397168,600714408,659195661,433859593,811483692,512402308,308906992,0,0,0,0,0,Feuil1
+100111,Froment dur de semence,0,0,0,0,0,0,0,0,0,0,0,0,0,23960,21708,28072,10697,12500,19349,Feuil1
+100119,Autres froment et méteil,0,0,0,0,0,0,0,0,0,0,0,0,0,224441338,557964760,600004248,823142583,859321510,698231333,Feuil1
+100190,Froment(ble) et métal:autres,837474170,970055779,952747484,1013891465,773031814,926206279,949919114,1057806325,1095568543,1103244261,798566509,1103380380,1065560191,324007590,0,0,0,0,0,Feuil1
+100191,Autres semence,0,0,0,0,0,0,0,0,0,0,0,0,0,15990,13789,8805,4405020,4006,3546,Feuil1
+100199,Autres froment dur,0,0,0,0,0,0,0,0,0,0,0,0,0,604012591,1051967096,1046637544,1156170564,1197484806,1249868925,Feuil1
+100200,Forment(ble) et métal:seigle*,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+100290,Autres Seigle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,Feuil1
+100300,Forment(ble)et métal: orge*,211445594,408731872,585631304,825263139,72230657,150891107,636016297,619439503,787083722,505880482,65577890,429329677,237194631,181705179,0,0,0,0,0,Feuil1
+100310,Orge de semence,0,0,0,0,0,0,0,0,0,0,0,0,0,3500,5801,8036,6096,5023,3030,Feuil1
+100390,Autres orges,0,0,0,0,0,0,0,0,0,0,0,0,0,202793324,801238410,457562120,556466830,638688346,493333836,Feuil1
+100400,Forment(ble)et métal:avoine*,0,0,209150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+100410,Avoines de semence,0,0,0,0,0,0,0,0,0,0,0,0,0,12550,800,3775,3000,4047,4000,Feuil1
+100510,Forment(ble)etcetera:mais*,28500,56675,96065,69475,33494,52693,7870,27125,87325,34513,10078,44007,21612,13303,30228,9808,10601,9685,16707,Feuil1
+100590,Forment(ble)et métal:autres,681403176,678644675,810758024,884260860,605925766,723251100,661519290,588290413,618242226,749171190,664501780,889231600,850177834,855121800,867489080,1022115900,1109983400,1133281416,1217142220,Feuil1
+100610,Riz en paille(riz paddy,0,0,0,480,186,31767,540,753,4484,3600,56200,3424,1192,170,1069,1719,3430,720,31,Feuil1
+100620,Riz décortique(riz cargo ou riz brun),12,0,30,0,0,0,0,1418,0,1491,1020,2,3565,1989,2514,1961,3809,4226,46687,Feuil1
+100630,"Riz semi blanchi ou blanchi,même poli ou glace",21031961,13842451,9875050,11419160,18353854,13898156,17515038,18037946,17705742,19624872,9466314,10235832,17490538,10752591,12027031,16511481,23590860,22184867,32717639,Feuil1
+100640,Riz en brisures*,22770,0,0,0,0,0,0,300,0,0,0,0,0,2000,2000,5650,2190,0,0,Feuil1
+100700,Sorgho a grains*,224000,39692,638000,2238000,1441000,2465500,3371650,3877700,2897000,4392000,3610020,5755975,4904650,1797000,0,0,0,0,0,Feuil1
+100790,Autres sorgho à grains,0,0,0,0,0,0,0,0,0,0,0,0,0,2396000,6294835,4769550,4977925,5667650,4788775,Feuil1
+100810,"Sarrasin,millet et papiste,autres céréales :sarrasin*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,550,0,800,Feuil1
+100820,"Sarrasin,millet et papiste,autres céréales:millet*",25,600,0,80,0,1000,0,0,0,90,0,600,379055,0,0,0,0,0,0,Feuil1
+100821,"Céréales; millet, graine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Feuil1
+100829,Autres Millet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,234,65,Feuil1
+100830,"Sarrasin,millet et papiste,autres céréales:alpiste*",513079,726293,138700,107592,1326493,834843,0,244500,708570,833029,1077072,1200876,1583938,1501744,1940450,1683890,2715385,3813425,2150750,Feuil1
+100850,Céréales; quinoa (Chenopodium quinoa),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,Feuil1
+100860,Triticale,0,0,0,0,0,0,0,0,0,0,0,0,0,1300,1700,2000,1011,1000,3500,Feuil1
+100890,Sarrasin millet et alpiste;autres céréales,0,480,0,4920,75,619,4120,100,115,139,2104,159,766,400,262,77,0,0,0,Feuil1
+110100,Farines de froment(ble)ou de méteil*,121920,355,50,10200,200,3200,200,2460,10959,7766,9595,147150,47135000,40011,3125,2647,3902,14384,74934,Feuil1
+110210,Farines de céréales autres que de froment(ble)ou de méteil*,300,0,0,18000,107,0,4000,0,0,0,3500,825,1950,1025,0,0,0,0,0,Feuil1
+110220,Farines de céréales autres que de froment (ble)ou méteil:farine de seigle*,17789,12060,7750,4000,3000,1000,0,850,0,0,268,20,1004,0,20500,46555,345,1959,46500,Feuil1
+110230,Farines de céréales autres que de froment(ble)ou méteil: farine de riz*,650,250,1002,15400,2500,500,600,38500,23000,0,0,0,0,0,0,0,0,0,0,Feuil1
+110290,Farines de céréales autres que de froment(ble)ou méteil:autres*,0,50,1005,15100,405,0,25,2500,7969,22908,22890,53412,13614,49859,25774,52317,5025,5946,38525,Feuil1
+110311,"Gruaux,semoules et agglomères sous forme de pellets,de céréales*",10123600,2358000,4556500,3759025,2259000,2238000,1879500,103000,1177050,11853500,3007500,1160000,3189000,1515968,48000,1108000,1378000,0,7525,Feuil1
+110313,"Gruaux,semoules et agglomères sous forme de pellets,de céréales :de mais*",2310900,31000,651400,42500,64410,64500,65700,107820,66600,680460,108000,217780,555243,1041900,626695,282655,266500,264040,135000,Feuil1
+110319,"Gruaux,semoules et agglomères sous forme de pellets de céréales:d'autres céréales*",0,0,0,0,0,0,0,0,0,0,0,0,0,10950,6720,0,20000,750,0,Feuil1
+110320,"Gruaux,semoules et agglomères sous forme de pellets de céréales:agglomérés sous forme de pellets*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,Feuil1
+110412,"Grains de céréales autrement travaille(mondes,aplatis,en flocons,perles,tranches :d'orge",550,1180,1260,0,60,1445,11279,9710,3172,1970,5250,21210,16762,6875,12500,18551,46745,43272,110308,Feuil1
+110419,"Grains de céréales autrement travaille(mondes,aplatis,en flocons:d'autres céréales*",0,0,100,0,1000,150,20900,3000,3000,1995,3360,18455,9182,452,7324,600,819,2028,3881,Feuil1
+110422,"Autres grains travailles(mondes,perle;tranches ou concasses,par exemple);d'avoine*",0,0,0,0,0,0,0,0,0,0,0,0,4000,0,0,0,0,0,0,Feuil1
+110423,"Autres grains travailles(mondes,perles;tranches ou concasses,par exemple):de mais*",1000,0,1000,715,0,1020,3300,0,1610,3145,100,22300,108130,126672,178360,48442,69017,74940,68592,Feuil1
+110429,Autres grains travailles;autres céréales,0,0,60,428840,955500,0,109,0,100,0,0,500,48240,0,4000,3000,14000,7018,23700,Feuil1
+110430,"Germes de céréales,entiers,aplatis,en flocons ou moulus*",0,0,0,0,25,0,0,0,0,0,674,299,300,0,0,0,0,0,0,Feuil1
+110510,"Farine,semoule,poudre,flocons ,granules et agglomères sous forme de pellets de pommes de terre *",0,0,0,0,0,0,30,0,0,0,5000,0,0,9504,9504,0,9522,0,0,Feuil1
+110520,"Farine,semoule,poudre,flocons,granules et agglomères sous forme de pellets ,de pommes de terre:flocons,granules,et agglomérés sous forme de pellets*",458,420,9640,9380,8050,500,24522,9500,710,10050,22500,18106,1325,6494,4536,1675,12513,84000,26000,Feuil1
+110610,Farine;semoules;et poudre d e legumes a cosse secs du n° 0713 de sagou ou des racines ou tubercules du n° 0714 et des produits du chapitre 8*,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4750,1540,1950,1100,700,Feuil1
+110620,"Farines,semoules et produits de légumes a cosse secs du n° 0713 de sagou ou des racines ou tubercules du n° 0714 et des produits du chapitre 8 : de sa",0,0,0,0,0,0,0,0,0,1718,0,102,0,12,925,0,0,0,0,Feuil1
+110630,"Farines,semoules et poudres de légumes a cosse secs du n° 0713,de sagou ou des racines ou tubercules du n° 0714: des produits du chapitre 8*",27163,24925,41300,53395,0,70,114968,149700,101648,170210,129500,48,35892,1826,35236,6128,20502,173856,108000,Feuil1
+110710,Malt;même torréfie:non torréfie*,34000,118250,3000,15270,35775,1082350,100200,84150,67400,432503,66000,1027075,3026000,10418375,9120250,12138020,14210760,18236422,16401550,Feuil1
+110720,Malt;même torréfie:torréfie*,7500000,7040250,9177798,8029400,6563600,7242820,7166900,6269150,8562700,9047800,11416800,11322250,9032400,8832850,4907261,3992725,1037500,22025,27125,Feuil1
+110811,Amidons et fécules;inuline*,155975,53500,119360,194736,156796,77100,151125,139975,116800,110675,230048,81850,75625,59125,87475,119881,47800,85937,52605,Feuil1
+110812,Amidons et fécules;amidons de mais *,4876162,5197166,4492216,5707909,4257332,5153560,4428102,5453487,5321734,5193449,5494074,6006467,7842972,7470135,6213682,8693636,7997637,9027573,10811761,Feuil1
+110813,Amidons et fécules;fécules de pommes:fécules de pommes de terre*,96702,188951,148420,41852,66189,1301,7000,2750,18605,21140,23300,191375,135915,139510,357750,339850,326840,551600,267179,Feuil1
+110814,Amidons et fécules;fécules de pommes:fécules de manioc(cassave),0,0,0,57000,0,640,0,0,0,0,0,0,0,0,0,0,0,0,100,Feuil1
+110819,Amidons et fécules;fécules de pommes:autres amidons et fécules*,5781,11625,20123,764,146305,27564,17740,26796,32485,75901,159485,155625,354777,255032,286190,148855,198553,50950,26099,Feuil1
+110820,Amidons et fécules;fécules de pommes:inuline*,0,0,0,0,0,0,92,125,126,135,0,0,0,0,0,0,20,261,420,Feuil1
+110900,Gluten de froment(ble)même a l'état sec*,13700,26825,26480,11500,29175,13450,17158,6000,6303,10575,15695,15725,14520,10150,15285,53265,15650,61750,39137,Feuil1
+120100,"Fèves de soja,même concassées*",0,0,0,17000,148000,0,0,0,0,19334000,225405420,421799500,462651700,149660980,0,0,0,0,0,Feuil1
+120190,"Autres féves de soja, méme concassées",0,0,0,0,0,0,0,0,0,0,0,0,0,262693860,467490230,435347580,514388560,581648937,490416505,Feuil1
+120210,"Arachides non grillées ni autrement cuits,même décortiques ou concassées",1122260,1286130,1170890,801660,1279810,1075220,1020060,924860,916750,756880,963270,907220,644940,294810,0,0,0,0,0,Feuil1
+120220,"Arachides non grillées ni autrement cuits,même décortiques ou concassées: décortiques,même concassées *",19038350,21460695,24349614,1910900,4239000,6205200,7085395,4504800,6588300,6413600,5124710,4678300,3513410,2296600,0,0,0,0,0,Feuil1
+120241,"Arachides non grillées ni autrement cuites,meme décortiquées ou concassées en coques",0,0,0,0,0,0,0,0,0,0,0,0,0,255782,695493,349760,373760,278640,627450,Feuil1
+120242,"Arachides non grillées ni autrement cuites,meme décortiquées ou concassées",0,0,0,0,0,0,0,0,0,0,0,0,0,2099506,4735515,4653715,5286370,4406700,4991665,Feuil1
+120400,"Arachides non grillées ni autrement cuite même décortiques ou concassées:graines de lin,même concassées*",700,0,250,940,56025,0,0,0,43625,41050,255,137266,34187,82582,127850,228452,256950,297505,389659,Feuil1
+120500,"Graines de navette ou de colza,même concassées*",20312,150,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+120510,Graines de navette ou de colza a faible teneur en acide érucique*,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,5569,4980,21794,29586,Feuil1
+120590,"Graines de navette ou de colza d''une teneur élevée en acide érucique ""fournissant une huile fixe dont la teneur en acide érucique est >= 2% et un composant solide qui contient >= 30 micromoles/g de glucosinolates"", même concassées",0,0,0,440,200,0,0,0,3011,577,0,0,50,0,0,0,1500,0,0,Feuil1
+120600,"Graines de tournesol,même concasses*",40175,412015,440150,0,103000,276331,93736,98075,391318,731823,354609,922681,977823,1597476,5587846,6042414,7800421,11198845,3993750,Feuil1
+120710,"Autres graines et fruits oléagineux,même concasses:noix et amandes de palmiste*",0,0,0,0,0,0,0,0,0,0,0,0,0,6485,0,0,550,360,0,Feuil1
+120720,"Autres graines et fruits oléagineux,même concasses:graines de coton*",0,0,0,0,0,0,0,0,0,0,100,4050,0,0,0,0,0,0,0,Feuil1
+120729,Autres graines de coton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12500,5500,74680,0,Feuil1
+120730,"Autres graines et fruits oléagineux,même concasses:graines de ricin*",0,0,0,0,0,600,0,0,0,0,0,0,0,10,0,0,0,0,0,Feuil1
+120740,"Autres graines et fruits oléagineux,même concasses:graines de sésame*",7046020,7269908,10660607,9821372,8709458,10100570,9668917,10559779,11122266,10773945,11702896,9653283,13690690,14577573,11951926,12063846,13390237,14447800,14279961,Feuil1
+120750,"Autres graines et fruits oléagineux,même concasses:graines de moutarde*",0,10,0,0,0,0,0,0,0,0,0,375,0,16,0,0,0,0,0,Feuil1
+120760,"Autres graines et fruits oléagineux,même concasses:graines de carthame*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,45250,0,0,0,25000,Feuil1
+120770,Graines de melon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25006,0,5,Feuil1
+120791,"Autres graines et fruits oléagineux,même concasses:autres graines d'oeillette ou de pavot*",0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,Feuil1
+120799,"Autres graines et fruits oléagineux,même concasses:autres*",20000,49900,76440,164600,118000,104330,385912,93361,296489,125319,168895,126001,223170,276007,171839,538731,276250,301656,287243,Feuil1
+120810,"Farines de graines ou fruits oléagineux,même concasses:de fèves de soja",30225,59250,13050,7268,0,0,0,2975,0,900,90,160,14304,35780,8400,15050,37525,795400,837952,Feuil1
+120890,"Farines de graines ou fruits oléagineux,même concasses:autres",0,13475,0,19000,0,0,0,0,0,0,0,0,3600,6700,7004,5,2000,9,3750,Feuil1
+120910,"Graines,fruits et spores a ensemencer:graines de betteraves*",0,0,0,0,0,0,0,477,10,375,1242,1162,0,2803,8396,2724,8330,6261,5,Feuil1
+120911,"Graines,fruits et spores a ensemencer:graines de betteraves*",5056,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+120919,"Graines,fruits et spores a ensemencer: autres",1440,1500,2126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+120921,"Graines,fruits et spores a ensemencer:graines fourragères,autres que les graines de betteraves:de luzerne*",79847,135840,42950,92480,79902,5000,0,65000,98650,150592,135700,100561,74676,83196,50133,99149,23546,73464,83840,Feuil1
+120922,"Graines,fruits et spores a ensemencer: de trèfle(trifolium spp)",99760,122840,10000,44000,40000,41500,0,129300,266,170212,216,0,0,0,126000,25000,0,15,20000,Feuil1
+120923,"Graines,fruits et spores a ensemencer: de fétuque*",20695,21033,7770,23299,19790,2000,6510,11000,5500,13677,12000,5825,3500,8475,10380,1500,2000,7800,3000,Feuil1
+120924,"Graines,fruits et spores a ensemencer:de pâturin des pres du kentucky(poa pratensis)",0,200,0,500,6000,5220,3000,0,0,1500,0,0,0,0,0,0,0,0,0,Feuil1
+120925,Graines fruits et spores a ensemencer;de ray_grass(lolium multiflorum lam pérenne),69157,154728,125879,103495,143205,94915,71133,161375,216250,104008,200974,148529,141058,224513,128250,201175,130916,340557,351188,Feuil1
+120929,"Graines,fruits et spores a ensemencer:autres",579933,292286,441135,950902,965147,266345,210235,357189,474573,736290,664335,731572,573290,435033,301020,667811,668330,276669,295040,Feuil1
+120930,Graines de plantes herbacées utilisées principalement pour leurs fleurs*,583,831,898,649,458,698,116,159,114,100,92,172,1,5111,537,87,25,197,77,Feuil1
+120991,"Graines,fruits et spores a ensemencer: autres;graines de légumes*",444079,197263,284254,601103,619268,711283,482673,568849,793157,418023,808038,444408,773604,659713,349827,250117,225109,299892,289501,Feuil1
+120999,"Graines,fruits et spores a ensemencer:autres",20210,23273,19330,12192,21232,60815,20873,16262,13998,20067,29034,31940,18120,23714,21201,20123,43945,8605,19729,Feuil1
+121010,légumes de houblon broyés moulus ou sous forme de pellets,0,550,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+121020,"broyés de houblon,broyés,moulus ou sous forme de pellets;lupuline",105617,85660,41301,80399,120768,20630,111179,52272,93335,80882,86301,105420,85956,133599,116220,145985,120616,163239,24983,Feuil1
+121110,"Plantes,parties de plantes,",2052,0,0,0,0,0,2060,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+121120,"Plantes,parties de plantes,graines et fruits des .espèces utilisées principalement en parfumerie,en médecine ou a usages insecticides,parasiticides ou",10605,0,0,10500,0,0,0,3,720,415,0,0,0,0,20,0,0,578,0,Feuil1
+121130,"Feuilles de coca, fraîches ou séchées, même coupées, concassées ou pulvérisées",0,0,0,0,1950,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+121190,"Plantes,parties de plantes,graines et fruits des espèces utilisées principalement en parfumerie,en médecine ou a a usages insecticides,parasiticides o",187823,186688,178666,183068,243388,232762,317771,320511,393153,506465,349238,431994,448671,502226,419791,836415,553140,861868,618902,Feuil1
+121210,"Caroubes,algues,betteraves a sucre et cannes a sucre,fraîches,réfrigères,congelées ou séchées,même pulvérisées;noyaux et amandes de fruits et autres pr",0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+121220,Caroubes algues betteraves a sucre et cannes a sucre fraîches réfrigères congelées ou séchées même pulvérisées;algues,4123,40375,1020,320,50709,39100,1033519,719085,655248,162891,230176,144298,77123,0,0,0,0,0,0,Feuil1
+121221,Algues destinées à l'alimentation humaine,0,0,0,0,0,0,0,0,0,0,0,0,0,103,8,137,240,1129,548,Feuil1
+121229,Autres Algues,0,0,0,0,0,0,0,0,0,0,0,0,0,0,182181,854534,718477,529605,248945,Feuil1
+121230,"Noyaux et amandes d'abricots,de pêches ou de prunes*",0,0,15750,50,0,500,16986,13150,15000,0,0,0,0,0,0,0,0,0,0,Feuil1
+121292,Cannes a sucre*,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50000,Feuil1
+121293,"Canne à sucre; propres à la consommation humaine, frais, réfrigérés, congelés ou séchés, même moulus",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,Feuil1
+121294,Racines de chicorée,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,Feuil1
+121299,"Caroubes,algues,betteraves a sucre et cannes a sucre,fraîche ou refrigerée:",80000,104700,32362,86604,125970,34058,57578,45872,157670,20161,6818,14825,2071,36053,51725,45650,2000,52322,68439,Feuil1
+121300,"Pailles et balles de céréales brutes,même hachess moulues,pressées ou agglomérés sous forme de pellets *",0,0,0,400120,225000,0,0,0,0,0,0,0,0,0,800,0,0,3454120,6244780,Feuil1
+121410,"Rutabagas,betteraves fourragères,foin;luernz,trèfle,sainfoin,choux fourragers, lupin:farine et agglomères sous forme de pellets,de luzerne*",30039740,29688830,60285290,46498590,22336878,19207314,36694068,28751190,30216220,33584940,22674560,44386590,28413340,15042980,22806545,14220980,23865950,27534950,16217200,Feuil1
+121490,"Rutabagas,betteraves fourragères,racines fourragères,foin,luzerne,trèfle:autres",52000,0,6080,6212283,175,0,307242,27030,787260,108530,1906490,36940,28000,14000,14000,12300,247865,264007,509500,Feuil1
+130110,"Gomme laques;gommes,résines,gommes,résines,gommes0résines et oléorésines( baumes,par exemple),naturelle*",57615,3009,575,460,600,2015,2275,3175,2300,0,0,0,0,0,0,0,0,0,0,Feuil1
+130120,Gomme arabique*,148031,155101,54042,7014,13740,6451,12138,18725,21210,21747,40296,37035,32939,41313,25418,49924,38260,68986,62138,Feuil1
+130190,"Gomme laques,gommes,résines,gommes,résines,gommes0résines et oléorésines( baumes,par exemple):autres*",776970,790070,732706,1105506,1110659,862010,1026036,809668,742135,1039984,780055,720293,632303,821339,721766,824923,537399,725593,495003,Feuil1
+130211,"Sucs et extraits végétaux;matières pectiques,pectinates et pectates,agar0agar:opium",54,45,20,30,35,30,40,50,25,10,15,35,40,19,25,0,0,0,0,Feuil1
+130212,"Sucs et extraits végétaux;matières pectiques,pectinates et pectates,agar0agar:de réglisse*",1127,3444,9051,13760,7848,11096,11008,12201,16970,14152,18208,8115,7784,35548,12457,28586,14944,36052,12113,Feuil1
+130213,"Sucs et extraits végétaux;matières pectiques,pectinates et pectates,agar0agar:de houbmon*",0,0,0,0,0,208,1500,0,0,0,500,4560,2100,1420,3263,295,3060,3830,2535,Feuil1
+130214,"Sucs et extraits végétaux;matières pectiques;pectinates et pectates,agar0agar:de pyrèthre ou de racines de plantes a roténone*",0,7650,0,0,0,0,0,425,25,400,0,0,0,0,0,0,0,0,0,Feuil1
+130219,"Sucs et extraits végétaux;matières pectiques;pectinates et pectates,agar0agar:autres*",48569,45805,47330,48568,48264,38673,40065,44913,52746,33888,51701,76734,94222,118709,121156,88716,114766,131280,173275,Feuil1
+130220,"Sucs et extraits végétaux;matières pectiques,pectinates et pectates,agar0agar:matières pectiques,pectinates et pectates*",24785,36415,45647,48225,30875,52408,69195,69265,79968,88250,56625,58476,30515,42090,55060,38651,44610,24165,67108,Feuil1
+130231,"Sucs et extraits végétaux;matières pectiques,pectinates et pectates,agar0agar:mucilages et épaississant :agar0agar*",465,6102,5427,3291,6473,11238,146,1632,699,1360,868,2561,1099,1946,566,10965,63429,9302,1432,Feuil1
+130232,"Sucs et extraits végétaux;matières pectiques,pectinates et pectates,,agar0agar: mucilages et apaisantes de graines de guarée ,même modifie*",12982,31268,58254,55367,43305,35014,32229,51706,32587,42696,48950,62965,65587,83811,111102,118191,131396,141950,139670,Feuil1
+130239,"Sucs et extraits végétaux;matières pectiques,pectinates et pectates:autres*",77460,54143,43970,39012,29850,20687,43705,41479,35370,66236,30066,82272,47384,58760,61167,78538,85350,85025,81416,Feuil1
+140110,"Matières végétales des espèces principalement utilisées en vannerie ou en sparterie(bamous,rotins,roseaux,:bambous *",0,350,15584,10655,23719,6426,33471,15784,18008,7905,23626,17270,9370,12065,54185,67140,14945,17138,128115,Feuil1
+140120,Matières végétales des espèces principalement utilisées en vannerie ou en sparterie( rotins)*,47973,54130,70910,63217,51484,86077,89901,85972,69000,91422,107587,82522,72445,59766,80591,69089,36737,38585,26615,Feuil1
+140190,Matières végétales des espèces principalement utilisées en vannerie ou en sparterie( autres),8000,0,8,40,1,140,1310,726,0,1,9,0,0,0,0,134,5,61,0,Feuil1
+140200,Matieres vegetales des especes principalement utilisees pour le rembourrage meme en nappes avec ou sans support en autres matieres,0,0,0,6646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+140300,Matieres vegetales des especes principalement utilisees pour la fabrication des balais ou des brosses,0,0,0,4910,4240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+140310,Matières végétales des espèces principalement utilisées pour la fabrication des balais ou des brosses:sorgho a balis *,8990,7860,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+140410,Produits végétaux non dénommes ni compris ailleurs :matières premières végétales des espèces,174603,132790,130169,87388,138154,50500,53020,36100,38000,0,0,0,0,0,0,0,0,0,0,Feuil1
+140420,Produits végétaux non dénommes ni compris ailleurs: linters de coton*,0,1,0,0,4,28,0,0,0,0,2057,771,0,0,223,6,0,0,0,Feuil1
+140490,Produits végétaux non dénommes ni compris ailleurs: autres*,150050,73155,138847,135285,574205,1653575,648898,51930,123881,299534,186400,131276,333534,446777,138641,453762,267542,234963,790525,Feuil1
+150100,"Graisses de porc(y compris le saindoux)et graisses de volailles,autres que celles du n° 02009 ou n° 1503*",0,0,8,0,42,0,38,4,96,152,287,2837,82,10,0,0,0,0,0,Feuil1
+150120,Autres graisses de porc,0,0,0,0,0,0,0,0,0,0,0,0,0,40,6,10751,20796,1,61,Feuil1
+150190,Autres graisses de porc et graisses de volailles,0,0,0,0,0,0,0,0,0,0,0,0,0,51,30,0,0,25,37,Feuil1
+150200,"Graisses des animaux des espèces bovines,ovine ou caprine,autres que celles du n° 1503*",1745100,1331126,113182,111853,54605,118257,48161,55471,4,55782,38600,8,95460,0,0,0,0,0,0,Feuil1
+150210,"Autres graisses de porc et graisses de volailles autres que celles du stéarine solaire, huile de saindoux, oléo0stéarine, oléo0margarine et huile de suif, non émulsionnées, ni mélangées ni autrement préparées",0,0,0,0,0,0,0,0,0,0,0,0,0,0,19096,19301,19960,19720,19260,Feuil1
+150290,"Autres graisses des animaux des espéces bovine,ovine ou caprine",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Feuil1
+150300,"Stéarine solaire,huile de saindoux,oleostearine,oleomargarine et huile de suif,non émulsionnées,ni mélangées ni autrement préparées",0,0,148,450,95,3116,395,1237,0,12,12920,150,6783,2030,1600,1000,0,3200,5,Feuil1
+150410,"Graisses et huiles et leurs fractions,de poissons ou de mammifères marins,même raffinées,mais non chimiquement modifiées",2470,2110,5000,1600,2520,2710,2990,3500,2740,3283,4490,4055,1200,5000,6560,6341,5500,2090,6800,Feuil1
+150420,"Graisses et huiles de poissons et leurs fractions,autres que les huiles de foies*",9880,0,0,2660,0,26,2115,12560,7781,860,919,3299,4640,4375,29016,95544,168961,327389,415094,Feuil1
+150430,Graisses et huiles de mammifères marins et leurs fractions*,0,0,9,50,0,0,10,0,0,50,0,0,0,20,80,0,0,126,0,Feuil1
+150500,"Graisse suit et substances grasses dérivées,y compris la lanoline*",0,0,0,10443,14283,30369,21913,11437,22870,10803,24830,26677,14353,17166,20051,28926,11991,5676,13250,Feuil1
+150510,"Graisse suit et substances grasses dérivées,y compris la lanoline*",1000,2000,2430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+150590,"Graisse suit et substances grasses dérivées,y compris la lanoline:autres*",16715,10785,19794,10562,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+150600,"Autres graisse et huiles animales et leurs fractions,même raffinées,mais non chimiquement modifiés",505,569,18,768,588,235,119,119,31,125,78,30,60,91,70,37,0,54,87,Feuil1
+150710,"Huile de soja et ses fractions,même raffinées ,mais non chimiquement modifiées*",141919914,126964802,95608117,180930378,192876732,174044860,171238450,180116874,164968730,208887082,135997382,153529416,157860850,107418325,119797740,120529030,122563670,126222620,130955500,Feuil1
+150790,"Huile de soja et ses fractions,même raffinées,mais non chimiquement modifiées:autres*",52151,72804,38209,148725,136712,407978,1240165,970474,3118786,28722163,4273833,4092531,3509449,1665,247945,753820,696760,3159724,30,Feuil1
+150810,Huile d'arachide et ses fractions même raffinées mais non chimiquement modifiées;huile brute,0,0,0,0,1249,0,0,0,0,300,20,0,100,0,0,0,0,0,200,Feuil1
+150890,"Huiles d'arachide et ses fractions,même raffinées,mais non chimiquement modifiées:autres",104,0,0,4,0,0,0,0,0,0,0,9,0,1040,5,15,55,10,0,Feuil1
+150910,"Huile d'olive et ses fractions,même raffinées,mais non chimiquement modifiées:vierge*",24260,514610,662143,219256,164998,514762,115050,886699,794606,576648,185643,284735,571602,115583,423180,1082897,736244,3923601,1384580,Feuil1
+150990,"Huile d'olive et ses fractions,même raffinées,mais non chimiquement modifiées:autres",0,80,0,285,37745,73040,1304265,472607,212878,10060,11125,3800,34220,8600,23082,116724,168070,194609,234755,Feuil1
+151000,"Autres huiles et leurs fractions,obtenues exclusivement a partir d'olives,même raffinées,mais non chimiquement modifiées et mélange de ces huiles ou f",0,160000,1151741,500200,0,192,419520,2565333,2900137,1475630,3597300,321790,53150,0,0,1561120,1162278,1787304,1070084,Feuil1
+151110,Huile de palme et ses fractions même raffinées mais non chimiquement modifiées;huile brute,13308690,9214114,11754121,17992894,21439670,19982705,20579319,28628121,30342562,30473185,708280,1651830,2801818,936340,2514440,15620,3072580,21991,0,Feuil1
+151190,"Huile de palme et ses fractions,même raffinées,mais non chimiquement modifiées:autres*",0,38495,3599740,445192,50964,10040532,13415964,22457435,29946435,29924540,70415727,53680019,59771608,65230282,73474816,71844105,64134567,42676511,49721722,Feuil1
+151211,"Huiles de tournesol,de carthame ou de coton et leurs fractions,même raffinées,mais non chimiquement modifiées *",0,0,0,16008,610085,821989,2506580,4014480,8047986,4845369,15367897,9639077,7434727,16271595,5109882,10918655,10158600,14532000,36337516,Feuil1
+151219,"Huiles de tournesol,de carthame ou de coton et leurs fractions,même raffinées,mais non chimiquement modifiées:autres*",10216,43795,58914,45858,75817,123721,53051,10000,2228,94190,1653730,232217,1274263,232314,249343,54778,105225,166340,1048848,Feuil1
+151221,Huiles de coton et ses fractions:huile brute;même dépourvue de gossypol*,0,0,0,1,0,0,0,0,0,0,0,0,0,933,0,0,0,190,0,Feuil1
+151229,"Huile de tournesol,carthame ou de coton et leurs fractions,même raffinées;autres",10000,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190,0,Feuil1
+151311,"Huiles de coco(huile de coprah)de palmiste ou de babassu et leurs fractions,même raffinées,mais non chimiquement modifiées:huile de coco(huile de copr",3215280,3214032,3351340,3052482,3970294,3131223,2920162,4630191,3336632,2668305,1692860,2389845,1255370,3387198,1882780,1323341,604160,28540,26760,Feuil1
+151319,"Huiles de coco(huile de coprah),de palmiste ou de babassu et leurs fractions,même raffinées,mais non chimiquement modifie:autres*",96441,23958,110305,48268,504316,504937,443262,437908,693469,630550,2188554,2076214,1267960,1946170,3861264,3481667,2118240,2959404,2715194,Feuil1
+151321,Huiles de palmiste ou de babassu et leurs fractions:huiles brute*,599984,1573602,1763700,952045,1241207,1604640,1291580,1977039,3904454,3240860,2960920,399868,1298911,2896720,198820,500020,2249160,861175,260,Feuil1
+151329,"Huiles de coco(huile de coprah)de palmiste ou de babassu et leurs fractions,même raffinées,mais non chimiquement modifiées:autres;*",0,0,18620,0,0,0,1,2200,0,0,1333370,614820,0,1228010,2660388,4188073,3206970,3716412,4472361,Feuil1
+151410,"Huiles brutes de navette, de colza ou de moutarde et leurs fractions, même raffinées, mais non chimiquement modifiées",18339669,24371235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+151411,Huiles de navette;de colza ou de moutarde et leurs fractions;même raffinées;mais non chimiquement modifiées:huiles brute*,0,0,0,960,0,5993420,0,490,660,570,570,872,5261160,4194660,0,0,0,380,0,Feuil1
+151419,Huiles de navette;de colza ou de moutarde et leurs fractions;même raffinées;mais non chimiquement modifiées:autres*,0,0,0,0,0,0,0,0,0,0,0,0,270,360,28,0,68,255,0,Feuil1
+151490,"Huiles de navette, de colza ou de moutarde et leurs fractions, raffinées, mais non chimiquement modifiées",3770,1200,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+151491,Huiles de navette;de colza ou de moutarde et leurs fractions;même raffinées;mais non chimiquement modifiées:autres huiles brutes*,0,0,0,0,0,0,0,191670,900140,3204850,0,0,0,0,0,0,3003320,0,2418100,Feuil1
+151499,Huiles de navette;de colza ou de moutarde et leurs fractions;même raffinées;mais non chimiquement modifiées:autres *,0,0,0,0,0,0,0,0,28,3928,0,1170,12,11,0,0,0,1,3647,Feuil1
+151511,"Autres graisses et huiles végétales(y compris l'huile de jojoba)et leurs fractions,fixes,même raffines,mais non chimiquement modifiées*",1009306,833300,756960,564228,635680,592800,339150,663480,228000,92380,370500,260666,221458,334690,127708,159860,162070,222375,83817,Feuil1
+151519,"Autres graisses et huiles végétales(y compris l'huile de jojoba)et leurs fractions ,fixe,même raffines,mais non chimiquement modifiées:autres*",32568,47570,51970,363,15459,9985,134378,88258,92769,91326,205673,27509,122070,73027,91354,47224,63155,79527,45980,Feuil1
+151521,"Autres graisses et huiles végétales(y compris l'huile de jojoba)et leurs fractions,fixe,même raffines,mais non chimiquement modifies:huile de mais et",5979108,1999720,4300025,4999909,6499886,2373850,22076826,43766465,22445962,14804831,24244630,48160204,53717662,35296072,34757306,31662022,23631148,30615616,55704185,Feuil1
+151529,"Autres graisses et huiles végétales(y compris l'huile de jojoba)et leurs fractions,fixe,même raffines,mais non chimiquement modifiées: autres",12003866,15410495,11031814,24836197,42313248,79337165,68782212,76170555,25013882,31255456,6559543,9831890,64312515,55514949,22419490,2039200,10411094,12413514,22385282,Feuil1
+151530,Huile de ricin et ses fractions*,66708,36665,41916,22206,16129,35101,60410,15119,3540,18915,21700,43607,53465,12376,50777,82114,13512,34280,27171,Feuil1
+151540,Huile de tung(d'abrasin)et ses fractions,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+151550,Huile de sésame et ses fractions*,17,300,0,876,0,500,753,56,4245,8564,967,2690,926,607,1543,2688,1126,1126,1494,Feuil1
+151560,Huile de jojoba et ses fractions*,2,27,1221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+151590,"Autres graisses et huiles végétales(y compris l'huile de jojoba)et leurs fractions,fixe,même raffines,mais non chimiquement modifiées:autres",3126,22572,38331,45538,34667,42848,15105,9541,108756,57510,20365,24403,26492,31231,31095,37806,40584,47823,44814,Feuil1
+151610,"Graisses et huiles animales ou végétales et leurs fractions,partiellement ou totalement hydrogènes,interesterifiees,reesterifiees ou elaidinisees;me",116649,115675,40101,20000,98,112,2,1,0,210,8,30,110,1,1811,600,1200,0,150,Feuil1
+151620,Graisses et huiles végétale et leurs fractions,2219697,2646294,3554651,3725918,3488341,4228664,4222975,4549652,5197224,6112861,5772997,6703351,4708208,4290978,4519849,5074280,4077014,4199227,4207040,Feuil1
+151710,Margarine;mélanges ou préparations alimentaires de graisses ou d'huiles animales ou végétale ou de fractions de différente graisses ou huiles:margarine,0,0,0,0,0,0,45650,19810,0,396,7516,2185,25847,350,41300,20040,183040,210990,2485,Feuil1
+151790,Margarine;mélanges ou préparations alimentaires de graisses ou d'huiles animales ou végétales ou de fractions de différentes graisses ou huiles du pre,9503,29499,33925,672239,797279,21061,13988,19302,28188,940732,16952,823070,2205186,1619723,1490181,2264952,6238134,3706610,1059239,Feuil1
+151800,"Graisses et huiles animales ou végétale et leurs fractions,cuite,oxydées déshydratées,sulfurées,soufflées,standolisees ou autrement modifiées chimiques",20148,31922,34236,17646,21063,42497,19459,11693,14554,12592,5866,85950,293318,303317,603410,475211,396457,358448,267421,Feuil1
+152000,Glycérol brut;eaux et lessives glycerineuse,107348,94359,118435,163401,81206,32946,2451,1716,20374,1708,12075,1770,661,7446,1558,25482,2287,1623,11243,Feuil1
+152110,"Cires végétales(autres que les triglycéride);cires d'abeilles ou d'autres insectes et spermaceti,même raffines ou colores:cires végétales*",2668,11688,4480,6845,1150,8094,200,2606,1251,2125,232,400,452,924,1380,873,698,5233,2706,Feuil1
+152190,"Cires végétales,cires d'abeilles ou d'autres insectes et spermaceti;autres",68070,66845,35288,10936,47298,14697,7139,1452,12128,7660,2301,26115,25793,36202,31550,57424,24943,30646,57296,Feuil1
+152200,Dégras;résidus provenant du traitement des corps gras ou des cires animales ou végétales*,0,3060,1000,5080,13405,2,22001,0,0,1,670,80,25,0,0,0,100,1000,1000,Feuil1
+160100,"Saucisses,saucissons et produits similaires,de viande,d'abats ou de sang ;préparations alimentaires a base de ces produits",1150,1520,0,0,47,0,0,0,0,0,0,385,13623,16383,18973,29759,27473,22559,18001,Feuil1
+160210,"Autres préparations et conserves de viandes,d'abats ou de sang:préparations homogénéisées*",0,0,0,0,0,0,0,0,0,0,0,0,420,0,0,0,0,0,0,Feuil1
+160220,"Autres préparations et conserves de viandes,d'abats ou de sang:de foies de tous animaux*",798,565,569,415,453,547,3260,60,3384,1782,1394,2105,4970,764,1218,1205,133,870,890,Feuil1
+160231,"Autres préparations et conserves de viandes,d'abats ou de sang:de volailles du n° 01.05:de dinde*",0,0,0,0,0,0,3500,0,0,0,0,2350,1648,800,0,2199,2631,6620,6337,Feuil1
+160232,"Autres préparations et conserves de viandes,d'abats ou de sang:de coqs et de poule*",0,0,0,0,0,0,0,0,0,0,7200,89570,5642,58180,58043,56695,42848,50294,70051,Feuil1
+160239,"Autres préparations et conserves de viandes,d'abats ou de sang:autres",0,0,0,0,0,0,763,0,1008,725,1499,1866,3213,3796,2081,3784,3697,3013,3731,Feuil1
+160241,"Autres préparations et conserves de viandes,d'abats ou de sang: de l'espèces porcine:jambons et leurs morceaux*",42,161,0,150,0,0,0,0,0,0,0,0,2780,4525,11754,13994,17425,12984,12984,Feuil1
+160242,"Autres préparations et conserves de viandes,d'abats ou de sang: épaules et leurs morceaux*",0,0,0,0,0,0,0,0,0,0,0,0,4586,3125,1840,0,2036,13,594,Feuil1
+160249,"Articles de sellerie ou de bourrelleries pour tous animaux(y compris les traits,laisses,genouillères,muselières,tapis de selles,fontes manteaux pour",625,2081,70,0,0,0,0,0,0,0,0,0,10837,6773,2279,4743,6004,1977,2867,Feuil1
+160250,"Autres préparations et conserves de viandes,d'abats ou de sang:de l'espèces bovine*",25,0,0,0,0,0,0,0,0,0,0,0,264,11,809,1829,5000,8391,5014,Feuil1
+160290,"Autres préparations et conserves de viandes,d""abats ou de sang:autres,y compris les préparations de sang de tous anim",0,0,23,0,0,0,0,10,0,0,13,0,546,120,0,1017,1822,1376,878,Feuil1
+160300,"Extraits et jus de viande,de poissons ou de crustacés de mollusque ou d'autres invertébrés aquatiques*",0,0,0,0,0,0,61,0,0,0,0,0,0,0,0,5,0,0,0,Feuil1
+160411,Préparations et conserves de poissons;caviar et ses succédanés prépares a partir d'oeufs de poissons*,40,6205,4928,0,2600,0,1400,1000,72,0,0,0,0,0,0,0,0,0,0,Feuil1
+160412,"Préparations et conserves de poissons,caviar et ses succédanés prépares a partir d'oeufs de poisson: harengs*",0,0,0,79,6000,0,0,408,4,0,1970,20418,38826,5124,5194,0,0,0,0,Feuil1
+160413,"Préparations et conserves de poissons,caviar et ses succédanés prépares a partir d'oeufs de poissons*",0,20,0,0,0,0,25200,494,18750,0,88221,41840,138950,65625,80,13749,753,38725,0,Feuil1
+160414,"Préparations et conserves de poissons,cavier et ses succédanés prépares a partir d'oeufs de poissons:thon,listaos et bonites(sarda spp)",725606,385280,664810,1577560,1110170,400417,220497,966243,1316479,2564528,4446277,6734451,10011687,12576664,9984838,10118016,4127771,7085278,3150180,Feuil1
+160415,"Préparations et conserves de poissons,caviar,ses succédanés prépares a partir d'oeufs de poissons:marqueraux*",15,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+160416,"Préparations et conserves de poissons,caviar et ses succédanés prépares a partir d'oeufs de poissons:anchois*",0,0,0,0,0,3900,12717,0,0,0,0,0,14300,15762,162689,0,0,0,0,Feuil1
+160419,"Préparations et conserves de poissons,caviar et ses succédanés prépares a partir d'oeufs de poisson:autres*",20260,29631,34004,32656,23889,17795,21718,42212,36901,68700,38135,61963,6815,40951,55680,78687,58373,39743,59904,Feuil1
+160420,"Préparations et conserve de poissons,caviar et ses succédanés prépares a partir d'oeufs de poissons: autres préparations et conserves de poissons*",20172,1093,32847,172976,0,0,20,366,21543,0,3145,77476,300006,198693,263778,34418,33536,76607,19354,Feuil1
+160430,Autres caviar et ses succédanés prépares a partir d'oeufs de poissons*,1467,1059,2922,2073,470,392,1399,574,243,462,1491,2717,1221,733,0,0,0,0,0,Feuil1
+160432,Succédanés de caviar,0,0,0,0,0,0,0,0,0,0,0,0,0,1790,1625,1248,2561,3295,241,Feuil1
+160510,"Crustacés,mollusques et autres invertébrés aquatiques,prépares ou conserves:crabes*",234,0,0,584,0,4000,0,0,4975,600,0,9296,6672,1620,6,62,54,75,45090,Feuil1
+160520,"Crustacés,mollusques et autres invertébrés aquatiques,prépares ou conserves:crevettes*",784,0,0,150,0,7589,0,0,7808,1725,8116,3549,1429,2579,0,0,0,0,0,Feuil1
+160521,"Crustacés ,mollusques et autres invertébrés aquatiques,préparés ou conservés non présentées dans un contenant hermétique",0,0,0,0,0,0,0,0,0,0,0,0,0,1978,2304,500,500,32652,6236,Feuil1
+160529,Crevettes prepares ou conserves presentees dans un contenant hermetique,0,0,0,0,0,0,0,0,0,0,0,0,0,0,828,0,0,0,25,Feuil1
+160530,"Crustacé,mollusques et autres invertébrés aquatiques,prépares ou conserves:homards*",304,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+160540,"Crustacés,mollusques et autres invertébrés aquatiques,prépares ou conserve:autres crustacés*",234,0,2478,186,18,0,0,216,108,0,2000,5220,1464,588,0,0,0,0,0,Feuil1
+160552,"Coquilles St Jacques ou peignes, pétoncles ou vanneaux, autres coquillages",0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,Feuil1
+160553,Moules,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15000,2106,Feuil1
+160554,"Mollusques séches,sépioles,calmars et encornets",0,0,0,0,0,0,0,0,0,0,0,0,0,10644,7946,17105,6460,67286,91222,Feuil1
+160559,Autres Mollusques,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,486,0,0,70,Feuil1
+160569,Autres invertébrés aquatiques,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,Feuil1
+160590,"Crustacés,mollusques et autres invertébrés aquatiques,prépares ou conserve:autres*",0,480,0,0,27,0,0,0,3448,0,9147,12021,13937,7776,0,0,0,0,0,Feuil1
+170111,"Sucres de canne ou de betteraves et saccharoses chimiquement pur,a l'état solide:sucres bruts sans additions d'aromatisants ou de colorants:de canne*",114600316,111800000,99000000,129000000,139800170,139766740,130101631,142154060,146006150,132305904,73576714,98437431,143240672,41872100,0,0,0,0,0,Feuil1
+170112,"Sucres de canne ou de betteraves et saccharoses chimiquement pur,a l'état solide:de betteraves*",0,0,0,0,0,1,0,50,0,0,102,0,0,0,6,0,0,20550,0,Feuil1
+170113,Sucre de canne,0,0,0,0,0,0,0,0,0,0,0,0,0,1900,0,12906786,80900000,223374679,361350000,Feuil1
+170114,Autres sucre de canne,0,0,0,0,0,0,0,0,0,0,0,0,0,115522244,139004660,170532444,147999468,141558754,144548840,Feuil1
+170191,"Sucres de canne ou de betteraves et saccharoses chimiquement pur,a l'état solide:autres*",1,520,6063,193500,506250,540,1261,0,0,250030,100000,225000,0,1,15,125178,153120,106790,54840,Feuil1
+170199,"Sucres de canne ou de betteraves et saccharoses chimiquement pur,a l'état solide:autres;*",167028252,140001892,136303060,213722060,185842778,228417347,190091659,211743310,207668980,191775122,228617166,232038566,291529025,225663195,224741554,233473609,193979935,87547872,189703490,Feuil1
+170211,"Autres sucres,y compris le maltose,le glucose et le fructose(lévulose)chimiquement purs,a l'état solide,sirops de sucres sans addition d'aromatisants",19356,46666,57620,41246,85435,170162,120436,272233,212304,165248,365944,200540,171293,75347,129000,138691,99301,175904,159997,Feuil1
+170219,"Autres sucres,y compris le maltose,le glucose et le fructose(lévulose)chimiquement purs,a l'état solide,sirops de sucres sans addition d'aromatisant ou",42004,8172,28375,89272,189379,268069,320861,192491,198621,97462,125227,149270,100510,182883,175800,207248,199052,187558,148409,Feuil1
+170220,"Autres sucres,y compris le maltose,le glucose et le fructose(lévulose)chimiquement purs,a l'état solide;sirops de sucres sans addition d'aromatisant o",50,0,216120,325,0,0,0,0,0,0,0,0,129,483,90,0,0,450,14,Feuil1
+170230,"Glucose et sirop de glucose,ne contenant pas de fructose ou contenant en poids a l'état sec moins de 20% fructose*",6294659,7326244,8523090,10216712,8880985,8138318,8339296,8257787,11929557,10733981,11456970,10249130,10474505,11582123,11399590,10760886,11335450,11128063,14225881,Feuil1
+170240,"Glucose et sirop de glucose,contenant en poids a l'état sec de 20% inclus a 50% exclus de fructose *",27537,156349,532600,562525,410983,228291,223410,316820,136133,228314,362312,152612,715833,770592,840106,109585,33712,109990,48026,Feuil1
+170250,Fructose chimiquement pur*,266,9362,23339,652,9751,18633,5114,11600,15871,14000,4792,8528,13089,2613,12001,19051,10004,2332,651,Feuil1
+170260,Autres fructose et sirop de fructose contenant en poids a l'état sec plus de 50% fructose*,1747,35195,943,3598,5794,1575,11746,3445,30920,28280,7087,14875,13636,14603,17571,18190,26313,50150,109675,Feuil1
+170290,Autres y compris le sucre inverti(ou interverti)*,482076,528445,620758,771102,581888,849105,616939,785802,835094,802349,958086,829239,1088126,995869,1013647,1259329,972166,1104958,1166061,Feuil1
+170310,Mélasses résultant de l'extraction ou du raffinage du sucre:mélasses de canne*,132303,137404,3459130,9917580,6711569,302405,3473932,3225628,260348,4684680,4321143,316390,4537100,333091,283396,4213720,3175600,151499,94772,Feuil1
+170390,Mélasses résultant de l'extraction ou du raffinage du sucre:autre,16421368,17736380,20003357,12423890,24525000,21394000,12181508,30022000,28614803,21173703,30257280,15049517,22550000,24244181,21588000,27310000,18400000,21670018,20850000,Feuil1
+170410,"Sucreries sans cacao(y compris le chocolat blanc):gommes a marcher(chewing0gum),même enrobées de sucre*",84904,142208,190535,83298,181644,262361,292274,208648,263233,218772,297857,112351,181187,293172,615949,776012,591016,583310,298661,Feuil1
+170490,Sucreries sans cacao(y compris le chocolat blanc):autres*,236417,241955,358707,307347,281617,338891,331568,453606,550096,515105,637060,756021,924560,957295,1187571,1369048,1196624,1225137,1245039,Feuil1
+180100,"Cacao en fèves et brisures de fèves,bruts ou torréfie",1320036,1697905,2026970,3003000,3127643,3012000,3049427,5029846,5807140,6079864,7111617,4228834,4448571,6364302,5243236,6125353,3253079,3449485,5799439,Feuil1
+180200,"Coques,pellicules(pelures)et autres déchets de cacao*",308000,37775,0,20000,0,0,0,0,0,0,16250,31250,25000,56150,26250,22500,2000,27360,16250,Feuil1
+180310,"Pâte de cacao,même dégraisses:non dégraisse*",6799,3710,44670,5500,30000,142706,40024,2200,4800,300,0,200,3500,11800,9000,2200,5700,2000,3075,Feuil1
+180320,"Pâte de cacao,même dégraissée:complètement ou partiellement dégraisses*",18,100000,39600,0,0,5400,0,0,0,0,16,0,0,0,3000,6000,0,0,1110,Feuil1
+180400,"Beurre,graisse et huile de cacao*",19360,10606,2188,56450,93408,337450,511437,2286,12821,56561,6118,20712,39842,52700,31536,31594,5924,11607,11520,Feuil1
+180500,"Poudre de cacao,sans addition de sucre ou d'autres édulcorants*",905831,1775668,1503743,1272154,1432451,1565768,1519097,1650677,1782145,1695176,1684320,1320955,1845931,2047754,1997297,2079740,3089457,2590474,2840786,Feuil1
+180610,"Poudre de cacao,avec addition de sucre ou d'autres édulcorants *",0,2680,1590,27243,103448,2076,4144,1145,637,4510,8059,5541,8778,907,653,113826,109952,132018,88607,Feuil1
+180620,"Autres préparations présentées soit en blocs ou en barres d'un poids excédant 2 kg,soit a l'état liquide ou plateaux ou en poudres,granules ou formes s",77990,97167,150298,105572,73596,86743,41031,53030,50615,83879,48197,104952,83382,126460,154809,101224,121108,140820,172825,Feuil1
+180631,"Autres présentes en tablettes,barres ou bâtons:fourres *",193289,123691,176818,133206,122467,171976,160216,109579,105954,117749,225211,279754,403706,488980,389213,480080,611792,996797,654539,Feuil1
+180632,"Autres présentes en tablettes,barres ou bâtons*",123665,186004,136024,121806,110638,196061,106524,88515,171203,129923,187088,298485,578475,867158,1006764,1451877,1087410,1521716,1118992,Feuil1
+180690,"Autres présentes en tablettes,barres ou bâtons:autres*",253664,371905,447138,360642,418526,423468,359535,387438,370705,332922,480599,627546,953649,989691,1007114,854066,731285,826501,624311,Feuil1
+190110,"Extraits de malt;préparations alimentaires de farines,semoules,amidons,fécules ou extrait",585612,618764,673216,735676,718321,890423,946675,1005814,1352414,1136188,1464075,1785290,2007835,2215177,2519622,2287892,2102871,2283210,2974881,Feuil1
+190120,"Mélanges et pâtes pour la préparation des produits de la boulangerie,de la pâtisserie ou de la ou de biscuiterie du n?19.05*",33026,11378,7688,25073,12944,22850,31298,67348,10543,38118,43160,31156,50941,48246,50658,49072,93362,99122,305558,Feuil1
+190190,"Autres mélange et pâtes pour la préparation des produits de la boulangie,de la pâtisserie du n° 19.05",179031,227614,275919,156063,215192,166860,457803,1436839,919170,732307,793268,763714,656371,907431,965459,1382500,1083758,855759,597389,Feuil1
+190211,Pâtes alimentaires même cuits ou farcies ou bien autrement prépares;contenant des oeufs,191,216,6966,5329,0,4293,54,793,0,8808,9515,9541,4426,4622,5990,31627,16523,5232,8404,Feuil1
+190219,Autres mélanges et pâte alimentaires non cuits ni farcies autrement préparées,5478,56957,4533,4800,3266,4525,23936,66676,65258,92777,109778,113438,180002,191739,273416,579800,846461,2417623,1304340,Feuil1
+190220,Pâtes alimentaires farcies(même cuites ou autrement préparées)*,5000,50,1510,0,4980,0,18242,13813,9860,8886,16990,9851,10240,18335,8467,8006,23,2572,3680,Feuil1
+190230,Autres pâtes alimentaires*,0,663,160,136,10913,980,6660,325,5744,44426,46653,32128,2158322,763,23559,233418,3106,5123,57104,Feuil1
+190240,Couscous*,4005,0,0,0,16408,3901,0,0,40600,0,400102,144,206,603,19412,2525,533659,8984,1333,Feuil1
+190300,"Tapioca et ses succédanés prépares a partir de fécules,sous forme de flocons,grumeaux,grains,perles,criblures ou forme similaires*",14404,0,18238,10624,6058,0,5510,7500,0,0,0,0,0,0,0,0,0,75,0,Feuil1
+190410,"Produits a base de céréales obtenus par soufflage ou grillage(corn flakes"",céréales(autres que le mais)en grain ou sous forme de flocons ou d'autres g",145034,112222,70533,46620,72953,105944,168501,311401,379019,422630,608526,554530,488764,642275,597503,627030,352484,365757,585448,Feuil1
+190420,Préparations alimentaires obtenues a partir de flocons de céréales non grilles ou de meanges de flocons de céréales non grilles *,47042,17389,57367,53880,28583,69331,96504,69364,60839,71930,69749,48079,60015,37675,33027,64032,53896,65372,136682,Feuil1
+190430,Bulgur de ble*,0,0,0,0,0,72,260,0,0,0,0,277440,146000,384000,257100,808000,956000,778800,669250,Feuil1
+190490,Autres produits a base de céréales obtenus par soufflage ou grillage précuites ou autrement préparées non dénommées ni comprises ailleurs*,801700,1765767,1658311,474128,171412,16813,193,6195,6450,1022,12194,3943,12417,2799,24202,10940,2784,32708,8545,Feuil1
+190510,"Produits de boulangerie de la pâtisserie ou biscuiterie;pain croustillant dit ""knackebort""",0,0,0,0,0,33,2100,132,378,5864,0,4200,5850,0,0,0,0,0,7,Feuil1
+190520,Autres draps de lit et articles similaires a usage chirurgical médical ou hygiénique conditionnes pour la vente au détail en papier ouate de cellulose,4000,6100,9620,3000,0,15,0,0,300,0,50415,43225,49150,0,904,950,758,209,0,Feuil1
+190530,Biscuits additionnés d'édulcorants; gaufres et gaufrettes,258978,314324,436754,121046,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+190531,"Biscuits additionnes d'édulcorant,gaufres et gaufrettes biscuits additionnes d édulcorants *",0,0,0,249097,381312,369992,601191,1302560,1124293,1018638,310696,727123,848228,796054,609936,1274205,1063894,1364070,741875,Feuil1
+190532,"Biscuits additionnes d'édulcorant,gaufres et gaufrettes gaufres et gaufrettes *",0,0,0,40769,65845,84950,87570,51746,81151,76085,86681,86833,203871,270018,147312,138530,126727,222268,217642,Feuil1
+190540,"Biscottes,pain grille et produits similaires grilles*",8272,16418,17863,8919,1201,1718,1445,13309,493,2230,2100,1620,21,8596,4880,3242,2369,554,4311,Feuil1
+190590,"Autres produits de la boulangerie,de la pâtisserie ou de la biscuiterie,même additionnes de cacao;hosties;cachets vides des types utilises pour medicam",791776,679479,879222,579559,244756,387642,247393,161636,236533,300327,2000075,881655,1142011,946112,1128079,1790942,1850369,1824599,1512208,Feuil1
+200110,"Légumes,fruits et autres parties comestibles de plantes,prépares ou conserves au vinaigre ou a l'acide acétique:concombres et cornichons*",52649,46082,15737,89544,13468,73773,74468,71868,82957,35626,97392,49574,34720,52604,44057,47264,17288,3718,20137,Feuil1
+200120,"Légumes,fruits et autres parties comestibles de plantes prépares ou conserves au vinaigre ou l'acide acétique:oignons *",422,0,5,760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+200190,"Autres légumes,fruits et autres parties comestibles de plantes prépares ou conserves au vinaigre ou a l'acide acétique:concombres et cornichons *",3404,16898,17726,22487,49668,61993,69094,64024,152312,190960,189765,19687,93588,54560,68915,59936,126204,137241,58291,Feuil1
+200210,"Tomates préparées ou conservées autrement qu'au vinaigre ou a l'acide acétique:tomates,entières ou en morceaux*",0,0,0,0,0,18376,0,0,0,0,37638,0,18000,0,9094,25622,7691,4800,9600,Feuil1
+200290,Autres tomates prépares ou conservées autrement qu'au vinaigre ou a l'acide acétique,7103779,1970436,300,0,0,167512,30,105708,8192468,0,0,3310620,216087,0,0,0,132600,391269,108794,Feuil1
+200310,"Champignons et truffes,prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique: champignons *",466869,458342,406950,192442,79452,384900,271726,329555,399765,665277,368990,375542,312083,606791,515114,479522,531197,740211,485554,Feuil1
+200320,"Champignons et truffes,prépares ou conserves autrement qu'au vinaigre ou a l'acide acétiques:truffes*",0,17069,2340,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+200390,"Champignons et truffes,prépares ou conserves autrement qu'au vinaigre ou a l'acide acétiques:autres*",0,0,0,297723,352422,422354,412077,294438,253531,725763,237287,273572,307176,1144219,637780,709663,438837,523035,835797,Feuil1
+200410,"Autres légumes prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique,congelés,autres que les produits n° 20.06*",110094,71161,81140,67590,71500,96760,168000,256786,397836,387644,921860,1658279,1305711,2151618,2240488,2356253,2456392,2280616,2677775,Feuil1
+200490,"Autres légumes prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique,congelés,autres que les produits du n° 20.06:pommes de terre*",18530,0,7920,4365,686,50,0,8604,12326,33259,19043,31001,16808,772,22484,5669,21618,53027,18914,Feuil1
+200510,"Autres légumes prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique,non congelés,autres que les produits du n° 20.06*",2693,0,9861,4550,2339,4484,4657,12752,18866,10379,26440,22174,29076,25053,29166,24799,32681,21926,12774,Feuil1
+200520,"Autres légumes prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique,non congelés,autres que les produits du n° 20.06: pommes de terre*",57109,120725,172926,97418,141440,125218,104288,162988,221212,421273,421925,657547,853604,1024502,1339970,1096364,1293757,1191754,1273142,Feuil1
+200540,"Autres légumes prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique,non congelés,autres que les produits du n° 20.06*",763160,1314724,936433,1284250,674663,749880,882758,827933,542727,709555,535148,610983,680995,711677,691303,556820,595696,564301,416923,Feuil1
+200551,"Autres légumes prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique,non congelés,autres que les produits du n° 20.06:haricots(vigna sp",185587,96665,188671,91206,150556,141271,133783,73124,44576,161944,91885,48423,124675,228371,181089,92985,46343,52805,36465,Feuil1
+200559,"Autres légumes prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique,non congèles,autres que les produits du n° 20.06:autres*",294075,180731,109313,131407,117725,123833,113808,137163,149718,223945,90396,136414,149874,170362,104888,173227,151916,188229,142069,Feuil1
+200560,"Autres légumes prépares ou conserves autrement qu'au vinaigre ou a l'acide acétique,non congèles,autres que les produits du n° 20.06:asperges*",31178,19350,24536,3484,26934,17802,23824,21327,22150,30329,24478,2457,1578,26125,4800,8019,3840,8723,6380,Feuil1
+200570,Olives*,3000,0,2070,209927,32890,600,0,57,96096,249790,119000,57814,271156,396328,384465,202615,554798,498660,2114302,Feuil1
+200580,"Mais doux(zea mays var , saccharata)*",281089,165215,280716,158854,221431,246972,282903,151723,281604,406235,414965,316145,381871,586648,621150,686325,448975,507508,658017,Feuil1
+200590,Autres légumes et mélanges de légumes*,100678,119521,67704,30582,69037,64303,129688,68856,22769,0,0,0,0,0,0,0,0,0,0,Feuil1
+200591,"Jets de bambou, préparés ou conservés autrement qu''au vinaigre ou à l''acide acétique, non0congelés",0,0,0,0,0,0,0,0,0,3078,0,0,637,678,1699,0,154,0,0,Feuil1
+200599,"Légumes et mélanges de légumes, préparés ou conservés autrement qu''au vinaigre ou à l''acide acétique, non0congelés (à l''excl. des légumes confits au sucre, des légumes homogénéisés du n° 2005.10, ainsi que des tomates, des champignons, des truffes, de",0,0,0,0,0,0,0,0,90302,277372,307543,306484,252972,455527,344810,419768,477153,289953,1040658,Feuil1
+200600,"Légumes,fruits,écorces de fruits et autres parties de plantes,conflits au sucre(égouttes,glaces ou cristallises)",50518,21614,49000,42063,30222,46947,28440,47778,93369,116493,48498,73245,20133,61713,16227,40012,30554,24017,47988,Feuil1
+200710,"Confitures,gelées,marmelades,purées et pâtes de fruits,obtenues par cuisson,avec ou sans addition de sucre ou d'autres édulcorant*",11778,19119,22287,33022,16953,39708,25862,44393,24689,16293,53190,41012,51067,60289,74077,64487,68373,39402,49687,Feuil1
+200791,"Confitures,gelées,marmelades,purées et pâtes de fruits,obtenues par cuisson,avec ou sans addition de sucre ou d'autres édulcorant:autres;agrumes*",3413,21320,6286,4185,910,342,21955,81025,89970,191731,253856,235483,179634,27203,50504,18173,35547,11728,9345,Feuil1
+200799,"Autres confitures,gelées,marmelades,purées et pâtes de fruits,obtenues par cuisson,avec ou sans addition de sucre ou d'autres édulcorant:agrumes*",263695,242543,279570,794512,579059,1080162,1297313,1075094,1249106,1582117,1775578,2057234,2339757,3025705,3215361,3287308,2850166,2870560,3055092,Feuil1
+200811,"Fruits et autres parties comestibles de plantes,autrement prépares ou conserves,avec ou sans addition de sucre ou d'autres édulcorants ou d'alcool,non",0,450,1908,0,0,508,49255,126545,8141,5277,15903,12707,12302,24774,50705,171487,204035,93204,39708,Feuil1
+200819,"Fruits et autres parties comestibles de plantes,autrement prépares ou conserves,avec ou sans de sucre ou d'autres édulcorant ou d'alcool:autres,y comri",1440,2688,17380,5500,28732,52420,77832,494127,703814,161883,354656,1025229,1376023,1729553,2250660,1798360,1826529,1953813,2338548,Feuil1
+200820,Fruits et autres parties comestibles de plantes;ananas,263438,611930,241182,467746,164524,331731,386534,365661,216203,405827,408705,194726,352660,735132,310287,364264,166279,303467,330207,Feuil1
+200830,Agrumes*,40810,8395,16368,16000,0,7724,16983,23726,0,4926,18166,10887,4630,448871,31840,74497,59520,95924,109448,Feuil1
+200840,Poires et autres parties comestibles de plantes*,127336,122734,118409,115580,110227,139796,111732,68407,0,122218,31130,44323,28553,639672,81801,20508,12334,97053,30814,Feuil1
+200850,Abricots autrement prépares ou conserves avec addition d'alcool d'une teneur en sucres excédant 13%*,196010,179398,193174,51252,60211,170385,33284,39388,105673,68313,76562,13414,12356,148988,52667,30187,12714,15523,6396,Feuil1
+200860,Fruits et autres parties comestibles de plantes;cerises,120132,69453,37958,5430,10495,264,4635,734,404,616,430,0,0,1016,2051,338,1922,2305,1603,Feuil1
+200870,Pêches autrement préparées ou conservées avec addition d'alcool d'une teneur en sucres excédant 13% en poids*,216419,213307,212077,56913,50727,145879,88604,40040,44076,92174,24376,21278,18372,322828,139874,41359,26937,21153,12981,Feuil1
+200880,Fraises et autres parties comestibles de plantes*,274552,533443,313894,111550,69421,132989,258272,224410,43610,60,0,2000,5840,328378,139346,186346,75903,168604,233737,Feuil1
+200891,Fruits et autres parties comestibles;coeurs de palmiers,2150,1256,1776,2388,2268,2212,2786,2878,9264,7086,4631,4662,1170,7525,1100,4249,0,964,3336,Feuil1
+200892,Mélanges de fruits et autres parties comestibles de plantes*,150441,287912,232342,92076,33370,22070,84891,83260,74347,6405,41168,48698,24416,32136,0,0,0,0,0,Feuil1
+200893,"Fruit; canneberges (Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis0idaea), préparé ou conservé, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,Feuil1
+200897,Autres mélanges de fruits y compris les mélanges à l'exception de ceux n°2008.19,0,0,0,0,0,0,0,0,0,0,0,0,0,30193,156029,162843,244840,305424,337130,Feuil1
+200899,Autres fruits et autres parties comestibles de plantes autrement prépares ou conserves avec ou sans addition de sucre ou d'autres édulcorants ou d'alc,294802,266760,230374,148707,76710,74674,145555,92164,41616,31296,93266,122724,62093,103552,281877,117865,94843,112163,244924,Feuil1
+200911,"Jus de fruit(y compris les moûts de raisin)ou de légumes,non fermentes,sans addition d'alcool,avec ou sans addition de sucre ou d'autres édulcorant:ju",2000,3660,440840,349968,35260,1000,95788,160436,233069,291090,134600,418490,361930,1073573,906720,213756,116705,121106,115538,Feuil1
+200912,"Jus de fruit(y compris les moûts de raisin)ou de légumes,non fermentes,sans addition d'alcool,avec ou sans addition de sucre ou d'autres édulcorant: j",0,0,0,31725,28165,52209,10459,4411,151777,53554,41784,71037,86596,119094,65868,221470,97548,96926,44442,Feuil1
+200919,"Autres jus de fruits(y compris les moûts de raisin)ou de légumes,non fermentes,sans addition d'alcool,avec ou sans addition de sucre:autres*",919755,838433,928515,734163,1046649,1282058,1473147,1106698,1395129,1381699,848358,1148221,1425964,1390902,1503168,1117516,1132988,799511,811709,Feuil1
+200920,Jus de pampemousse ou de pomelo,24591,20234,15970,4508,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+200921,Jus de pamplemousse ou de pomelo*,0,0,0,0,11107,2083,0,0,1200,3907,0,5015,16120,10774,9300,5804,7830,10950,11469,Feuil1
+200929,Autres jus de pamplemousse ou de pomelo*,0,0,0,11802,0,2150,13495,3140,2573,20520,13650,14280,15540,9211,1560,2163,6484,1511,0,Feuil1
+200930,Jus de tout autre agrume,10897,1335,4966,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+200931,"Jus de fruits et autres parties comestibles, jus de tout autres argume*",0,0,0,0,0,236,0,0,17680,9392,8210,36100,10350,36951,39623,25648,34737,19889,16821,Feuil1
+200939,"Autres jus de fruits et autres parties comestibles, jus de tout autres argume*",0,0,0,0,162,11000,16200,27000,41398,17695,46229,33071,31122,43592,57668,40462,46169,22826,50237,Feuil1
+200940,Jus d'ananas,115582,288693,585421,21823,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+200941,"Jus de fruits,jus d'ananas*",0,0,0,33353,11380,4524,16766,9060,18108,13327,8179,30907,51092,86305,39415,71458,55156,24450,21431,Feuil1
+200949,"Autres jus de fruits,jus d'ananas*",0,0,0,182923,133855,191147,240375,288196,147476,244501,137594,260073,96149,204188,163508,84682,6932,14712,26710,Feuil1
+200950,"Jus de fruits, jus de tomates*",19717,8089,19780,7742,12720,13849,3036,17504,14239,4693,10198,14270,35339,8050,10314,11986,1982,2017,797,Feuil1
+200960,Jus de raisin,30469,24801,106906,82614,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+200961,Jus de raisins (y compris les moûts de raisins)*,0,0,0,0,2500,22419,6175,0,0,3456,1152,6912,22554,13320,4320,28589,53292,44606,42444,Feuil1
+200969,Autres jus de raisins (y compris les moûts de raisins)*,0,0,0,14042,63973,152883,176487,64525,66657,60820,47785,56908,57625,64152,53881,48680,23466,47096,32600,Feuil1
+200970,Jus de pomme,78677,183617,175489,29175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+200971,"Jus de fruits,jus de pommes*",0,0,0,10369,10015,9706,30550,26114,66404,18237,7899,58661,47257,67123,28263,33043,38772,71262,32098,Feuil1
+200979,"Autres jus de fruits,jus de pommes*",0,0,0,97902,130676,230857,140409,197701,234942,198378,172595,224771,445952,380876,397905,490281,369236,281326,170690,Feuil1
+200980,Jus de tout autres fruit ou légume*,540270,214920,193721,273681,248749,189684,198134,525123,1266323,913143,659240,1057928,1737112,360184,0,0,0,0,0,Feuil1
+200981,Jus d’airelle rouge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,8800,0,Feuil1
+200989,Autres jus de tout autre fruit ou légume,0,0,0,0,0,0,0,0,0,0,0,0,0,836576,644577,721607,983841,370253,490006,Feuil1
+200990,"Jus de fruits, mélange de jus*",186004,346103,206870,116383,181337,157144,326857,191137,456510,187300,148329,273136,496085,714671,599412,716643,389815,482952,1834250,Feuil1
+210111,"Mort extrait,essence et concentres de café et préparations a base de ces extraits,essences ou concentres ou a base de café*",383650,436856,547079,554877,684681,699449,731230,700763,991392,825858,1092972,1102837,1202088,1363045,1386736,1292605,1261528,1616222,1488740,Feuil1
+210112,"Préparation a base d'extraits,d'essence ou de concentres ou a base de café*",20688,33145,36008,36619,32495,46472,31240,70528,27359,30490,39724,52778,37433,21279,79470,55346,59932,23227,63582,Feuil1
+210120,"Extrait,essences,et concentres de thé ou de mate et préparations a base de ces extraits,essences ou concentres ou a base de thé ou de mate *",150,162,14225,9626,234,1162,3746,1914,1304,174,135,482,86,657,667,818,417,5552,5918,Feuil1
+210130,"Café et leurs extraits,essences et concentres*",54600,70808,97194,107431,87950,105167,83792,86281,70911,99187,64800,88510,95685,109587,110474,73696,130596,168873,132472,Feuil1
+210210,Levures(vivantes ou mortes);autres micro0organismes monocellulaires morts (a l'exclusion des vaccins du n°(30.02);poudres a lever préparées:levures vi,434596,2989,1292483,404845,919375,591905,660964,515203,500629,1075614,807231,837626,669576,826158,623858,661779,1107140,1026607,1025110,Feuil1
+210220,Levures mortes;autres micro0organismes monocellulaires morts*,503,41,100,372,8800,9800,3915,17055,1655,31568,17809,15824,3221,734,1818,1834,2265,11440,24721,Feuil1
+210230,Poudres a lever préparées *,0,280,0,0,10,0,0,0,2352,0,35,42124,11496,6020,6975,1350,0,52,6,Feuil1
+210310,Sauce de soja *,25197,84978,7114,15385,948,3401,415,659,1908,4284,3801,2248,6695,2850,5673,4513,9920,7361,17944,Feuil1
+210320,"""tomato0ketchup""et autres sauces tomates*",131064,173906,330065,187852,134718,316168,257821,341279,265812,375544,206453,252529,186930,192043,203226,208370,206112,120331,176028,Feuil1
+210330,Farine de moutarde et moutarde préparée*,89245,81568,123111,93249,73666,151783,138511,172303,190974,220152,147304,185088,157821,195782,227931,166725,199956,186837,165911,Feuil1
+210390,"Autres préparations pour sauces et sauces préparées;condiments et assaisonnement,composes;farine de moutarde et moutarde préparée*",156180,172723,233403,336615,271876,343538,491272,499897,613711,808138,600113,954785,863558,1084380,987417,1051651,971027,1041917,1075047,Feuil1
+210410,"Préparations pour soupes,potages ou bouillons;soupes,potages ou bouillons prépares;préparations alimentaires composites homogénéisées0*",18192,11266,493,6,33,1667,35052,4847,20203,28111,25909,107530,165363,129394,80401,101138,51956,85517,79020,Feuil1
+210420,Préparations alimentaires composites homogénéisées*,454,475,450,2326,561,627,1655,554,1933,0,1759,20998,13786,20104,9753,15127,5711,11949,27119,Feuil1
+210500,"Glaces de consommation,même contenant du cacao*",30478,24216,44036,27713,41522,45873,60569,33007,120020,58873,256341,162468,148969,352427,333346,378269,1935819,1134077,693674,Feuil1
+210610,Préparations alimentaires non dénommées ni comprises ailleurs*,20474,3795,3150,11630,11600,1791,15293,28361,42889,61250,56900,32182,58720,69094,32402,85448,46869,95837,52322,Feuil1
+210690,Autres concentras de protéines et substances protéiques texturées*,1674704,1370217,2173322,2541490,2286004,2323582,2384899,2827540,3177679,3640236,3654348,5178950,5327248,6236862,6437530,6656046,6701131,5329032,4614767,Feuil1
+220110,Eaux minérales et eaux gazéifiées*,3258,8079,4,6000,2263,7168,26146,23771,38738,33089,24345,15961,361644,47457,5910,3799,1021,4053,22878,Feuil1
+220190,"Autres eaux,y compris les eaux minérales naturelles ou artificielles et les eaux gazéifiées,non additionnées de sucre ou d'autres édulcorants ni arom",0,155,215,0,108,1,4201,3041,3029,586,3822,302,3052,40,3605,1713,43,13929,4027,Feuil1
+220210,"Eaux,y compris les eaux minérales et les eaux gazéifiées,additionnées de sucre ou d'autres édulcorants ou aromatisées,et autres boissons non alcooliques",7255,63497,121316,45810,14815,58,197606,108728,11234,20917,68898,101497,499597,177937,686052,528047,3815800,4212817,2564527,Feuil1
+220290,"Autres y compris les eaux minérales et les eaux gazéifiées,addtitionnées de sucre ou d'autres édulcorants ou aromatisées,et autre boissons non alcoolé",451053,291173,602504,432268,610382,1268548,1727940,1494138,1831439,1529741,1693109,1764032,4005671,4006859,4270414,7415134,5664346,7873083,1938223,Feuil1
+220299,Boissons non alcoolisées,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2701245,Feuil1
+220300,Bières de malt*,155773,167872,207226,253161,399920,516853,248060,314739,169892,248121,110602,155305,106555,110355,20948,12880,74083,81619,60044,Feuil1
+220410,"Vin de raisin frais,y compris les vins enrechis en alcool ;mouts de raisins autres que ceux du n° 20.09:vin mousseux*",13276,17898,15247,21022,50582,22876,15696,14421,18807,19179,18231,32290,7468,28777,103290,156088,54674,100117,113945,Feuil1
+220421,"Vin de raisin frais,y compris les vins enrechis en alcool,moûts de raisins autres que ceux du n° 20.09:en récipient d'une contenance n'excédant pas 2l",42157,22400,26139,19317,11724,18195,32475,38256,19460,19589,13960,47408,96047,64200,51908,53581,78625,79973,98544,Feuil1
+220429,"Autres vin de raisin frais,y compris les vins enrechis en alcool,moûts de raisin autres que ceux du n° 20.09*",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+220510,Vermouths et autres vins de raisins frais prépares a l'aide de plantes ou de substances aromatiques:en récipients d'une contenance n'excédant pas 2l*,36516,31410,27308,29908,16179,39769,20000,12736,6264,9804,16718,2361,4104,8469,0,12083,4680,28007,12738,Feuil1
+220590,Autres vermouths et autres vins de raisins frais préparés a l'aide de plantes ou de substances aromatiques*,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,155,0,0,0,Feuil1
+220600,"Autres boissons fermentées(cidre,poire,hydromel,)mélange de boisson fermentées et mélange fermentées et de boisson alcooliques,non dénommées ni compris",41,0,0,0,0,0,140,1025,65,0,18000,0,9000,1669,0,0,11890,0,5258,Feuil1
+220710,Alcool éthylique non dénature d'un titre alcoométrique volumique de 80%vol ou plus;alcool ethylique et eaux de vie dénatures de tous titres:alcool eth,1344,7049,11732,1397912,2528833,3897002,2726268,2905274,5180290,4128803,3752913,3373442,3657921,9025651,3390555,1511040,3406018,2697023,4466694,Feuil1
+220720,Alcool éthylique et eaux de vie dénatures de tous titres*,4636649,2554416,5984913,268388,186477,145872,133761,158344,15888,61443,114407,119291,101941,63352,107935,57908,68829,85275,73600,Feuil1
+220820,"Alcool stylique non dénature d'un titre alcoométrique volumique de moins de 80% vol;eaux de vie,liqueurs et autres et boissons spiritueuses:eaux de",7431,7611,5278,40924,25953,3310,384,544,1215,128,923,2729,8896,24092,17522,33795,12708,32039,32335,Feuil1
+220830,Whiskies*,312631,337398,366479,569079,652252,275309,339919,203408,237290,151939,160456,194240,118796,126841,137446,235225,351598,533879,527481,Feuil1
+220840,Rhum et tafia*,2589,2852,1200,1106,126,2332,120,1280,0,240,1772,3123,8518,11372,13996,26696,12021,35963,45510,Feuil1
+220850,Gin et genièvre*,43634,68999,22357,45520,32263,79394,25886,30831,38239,25757,23351,18787,12501,16908,19562,26045,26812,68457,145361,Feuil1
+220860,Vodka,11589,12577,25512,38678,65866,51842,79859,101469,160683,143017,192397,186573,128744,188963,110206,181134,248108,635620,762742,Feuil1
+220870,Liqueurs,39700,55443,124415,96894,147742,120774,126818,62050,66615,68934,49419,66596,54421,84367,59742,89599,92775,189007,183852,Feuil1
+220890,Autres alcool éthylique non dénatures d'un titre alcoométriques volumique,1195,3252,547,784,20179,378,180,220,121582,77824,19839,57549,66581,36003,8812,19687,25198,85310,133806,Feuil1
+220900,Vinaigres comestibles et succédanés de vinaigre comestibles obtenus a partir d'acide acétique*,100,12,60910,260,2273,2952,5870,5667,15092,47299,21552,97762,67702,155978,56620,123466,236607,295364,422078,Feuil1
+230110,"Farine,poudre et agglomères sous forme de pellets ,de viande,d'abats ,de poissons ou de crustacés,de mollusques ou d'autres invertébrés aquatiques i",0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+230120,"Farines,poudres et agglomères sous forme de pellets,de poissons ou de crustacés,de mollusques ou d'autres invertébrés aquatiques*",120800,50400,0,0,0,0,0,60,59258,2000,20140,4800,871,125000,702459,2226466,1962700,3273550,2427820,Feuil1
+230210,"Sons,remoulages et autres résidus,même agglomérés sous forme de pellets, du criblage,de la mouture ou d'autres",6248,5635,6420,15000,0,3000,540,0,1000,0,4050,8330,0,0,1000,450,0,0,700,Feuil1
+230220,Farine poudre et agglomères sous forme de pellets de viandes de poissons ou crustacés de mollusques;riz,0,0,0,4000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+230230,Farine poudre et agglomères sous forme de viande;de forment,17706047,44126067,84944260,124767981,26829737,27004010,72860396,63988282,29499622,34356199,58107429,115362901,52702891,71232064,56647287,73555363,76811062,102394054,81468078,Feuil1
+230240,Sons remoulages et autres résidus même agglomères sous forme de pellets;d'autre céréales*,10,110,54,0,0,0,3274700,3861130,0,300,525,1925,1133,3019,2670,5142,4189,2517,14495,Feuil1
+230250,Sons remoulages et autres résidus même agglomères sous forme de pellets;de légumineuses*,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,Feuil1
+230310,"Résidus d'amidonnerie et résidus similaires,pulpes de betteraves,bagasses de cannes a sucre et autres déchets de sucrerie,drèches et déchets de brasse",1000,0,0,0,63,0,9815583,14478358,12057983,0,2938100,0,100,0,728000,396000,4306120,1108000,834000,Feuil1
+230320,"Pulpes de betteraves,bagasses de cannes a sucre et autres déchets de sucrerie*",0,0,0,0,0,0,0,0,0,30,0,0,0,6210,18170,22365,2693530,6210,7170980,Feuil1
+230330,Déchets et déchets de brasserie ou de distillerie*,0,0,0,0,0,0,0,46684,0,4167622,0,12309320,0,11052800,0,0,4750160,14128200,10988720,Feuil1
+230400,"Tourteaux et autres résidus solides,même broyés ou agglomères sous forme de pellets,de l'extraction de l'huile de soja*",237172569,263920906,265978069,338736360,270274887,391223698,271379567,240115840,257760573,266790281,190842600,78973020,35890660,137868385,93462335,138112460,156356478,183667060,104717360,Feuil1
+230500,"Tourteaux et autres résidus solides,même broyés ou agglomères sous forme de pellets,de l'extraction de l'huile d'arachide*",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4225,0,Feuil1
+230630,"Tourteaux et autres résidus solides,même broyés ou agglomères sous forme de pellets:de tournesol*",4698270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3204920,6064140,Feuil1
+230641,Tourteaux et autres résidus solides de navettes ou de colza a faibles teneur en acide érucique*,0,0,0,0,0,0,0,0,0,88557,0,0,0,0,0,0,0,0,0,Feuil1
+230690,"Autres tourteaux et autres résidus solides,même broyés ou agglomères sous forme de pellets,de l'extraction de graisses ou huiles végétales,autres que",0,0,0,0,0,0,0,3051000,0,0,0,344,0,0,0,650000,410245,0,0,Feuil1
+230800,"Matières végétales et déchets végétaux,résidus et sous0produits végétaux,même agglomères sous forme des types utilises pour l'alimentation,non dénomme",0,0,0,0,0,0,67,26300,640,0,0,0,0,1165,435,8961,7840,1940,10490,Feuil1
+230810,"Matières végétales et déchets végétaux,résidus et sous0produits végétaux,même agglomères sous forme des types utilises pour l'alimentation,non dénomme",100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+230890,"Autres matières et déchets végétaux,résidus et sous0produits végétaux,même agglomères sous forme de pellets,des types utilises pour l'alimentation des",12000,14000,8000,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Feuil1
+230910,"Préparation des types utilises pour l'alimentation des animaux:aliments pour chiens ou chats,conditionnes pour la vente au détail*",0,0,0,0,0,0,0,9760,74782,204039,194759,299324,338781,441012,564215,696698,829733,1088178,1104603,Feuil1
+230990,"Autres préparations des types utilises pour l'alimentation des animaux:aliments pour chiens ou chats,conditionnes pour la vente au détail*",2089362,3657025,5250587,5260233,5817843,5736412,7047050,6023713,4917737,7549941,8705229,15368266,24546535,24920095,25980420,25391841,31369190,35506295,35289661,Feuil1
+240110,Tabacs bruts ou non fabriques;déchets tabac:tabacs non écotés*,5977783,4782079,5959868,1224587,2927306,3424423,3002307,2707396,2149778,2402551,3557154,1168059,339975,1779977,761200,1745589,549385,1034123,129971,Feuil1
+240120,Tabacs partiellement ou totalement écotés*,2027886,2469806,4641830,4285721,4068982,4610096,5752214,3535151,5022260,5060442,7427571,4068533,2713363,7695001,5839596,4876946,5632527,4729461,7135112,Feuil1
+240130,Déchets de tabacs présentes pour le compte d'autres personnes*,7090,9460,0,0,0,0,520280,842780,758970,1253680,3197870,1835600,249260,1696000,474486,1098480,907100,910000,1298150,Feuil1
+240210,"Cigares(y compris ceux a bouts coupes),cigarillos et cigarettes,en tabac ou en succédanés de tabac *",1549,1807,1707,1589,951,308,364,258,129,297,124,1966,1413,4366,1745,6649,13084,12856,19808,Feuil1
+240220,Cigarettes contenant du tabac*,1680099,1372187,1810560,2107138,2332826,2607633,2878969,3102297,2984224,2160950,3176423,4331985,4143921,3923238,3331042,3652582,2858670,4170756,4795958,Feuil1
+240290,"Autres cigares(y compris ceux a bouts coupes),cigarillos et cigarettes,en tabac ou en succédanés de tabac:cigares(y compris ceux a bouts coupes)et ciga",631,210292,88353,408,315,2159,2159,3223,3303,923,3181,160,1822,1638,609,574,513,502,532,Feuil1
+240310,"Autres tabacs et succédanés de tabac,fabriques;tabac""homogenèses""ou ""reconstitues"";extraits et sauces de tabac:tabac a fumer;même contenant des succède",87641,140073,67871,37914,60468,90502,112845,1501337,1389445,268105,230903,302184,420694,58318,0,0,0,0,0,Feuil1
+240311,Tabac à pipe d'eau spécifié,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53675,0,Feuil1
+240319,"Autres Tabac à fumer, même contenant des succédanés de tabac en toute propositions",0,0,0,0,0,0,0,0,0,0,0,0,0,316551,462310,300097,93199,12889,5842,Feuil1
+240391,"Autres tabacs ""homogenèses""ou""reconstitues""*",2241,200,2504,0,0,570,0,0,0,950,0,18810,376200,415000,415000,239970,400000,1169920,512960,Feuil1
+240399,Autres tabacs et succédanés de tabac fabriques extrait de tabacs;autres,2421395,2398224,762234,248948,295391,171260,467808,1010645,1415533,966732,559988,529987,422294,501709,328486,504038,212540,89275,112155,Feuil1

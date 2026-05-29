@@ -1,0 +1,661 @@
+﻿annee,delegation,station,mois,moyenne_mensuel_mm,valeur_mensuel_mm,feuille
+2020,Siliana Nord,الإدارة الفنية,janvier,40,9.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,février,49,4.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,mars,39,49.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,avril,47,89.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,mai,35,0.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,juin,37,32.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,juillet,47,13.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,Août,44,33.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,septembre,19,122.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,octobre,8,8.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,novembre,16,26.0,Feuil1
+2020,Siliana Nord,الإدارة الفنية,décembre,36,27.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,janvier,41,6.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,février,51,3.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,mars,32,59.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,avril,53,68.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,mai,40,0.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,juin,40,36.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,juillet,45,22.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,Août,54,29.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,septembre,25,110.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,octobre,9,10.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,novembre,18,27.0,Feuil1
+2020,Siliana Sud,الرصد الجوي,décembre,34,28.0,Feuil1
+2020,Bargou,إدارة الغابات,janvier,52,3.0,Feuil1
+2020,Bargou,إدارة الغابات,février,60,4.0,Feuil1
+2020,Bargou,إدارة الغابات,mars,54,98.0,Feuil1
+2020,Bargou,إدارة الغابات,avril,67,112.0,Feuil1
+2020,Bargou,إدارة الغابات,mai,57,0.0,Feuil1
+2020,Bargou,إدارة الغابات,juin,51,40.0,Feuil1
+2020,Bargou,إدارة الغابات,juillet,59,12.0,Feuil1
+2020,Bargou,إدارة الغابات,Août,50,3.0,Feuil1
+2020,Bargou,إدارة الغابات,septembre,20,116.0,Feuil1
+2020,Bargou,إدارة الغابات,octobre,9,16.0,Feuil1
+2020,Bargou,إدارة الغابات,novembre,16,41.0,Feuil1
+2020,Bargou,إدارة الغابات,décembre,35,27.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,janvier,36,4.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,février,41,2.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,mars,44,32.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,avril,49,81.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,mai,39,0.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,juin,41,12.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,juillet,34,1.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,Août,32,30.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,septembre,15,71.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,octobre,4,18.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,novembre,16,34.0,Feuil1
+2020,Bouarada,إدارة  الفلاحة,décembre,27,38.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,janvier,40,8.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,février,49,0.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,mars,43,51.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,avril,61,90.5,Feuil1
+2020,Aroussa,إدارة الفلاحة,mai,44,0.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,juin,39,5.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,juillet,35,1.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,Août,50,20.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,septembre,19,98.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,octobre,4,13.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,novembre,16,36.0,Feuil1
+2020,Aroussa,إدارة الفلاحة,décembre,25,31.0,Feuil1
+2020,Gaafour,المعتمدية,janvier,47,3.0,Feuil1
+2020,Gaafour,المعتمدية,février,43,4.0,Feuil1
+2020,Gaafour,المعتمدية,mars,58,56.0,Feuil1
+2020,Gaafour,المعتمدية,avril,68,76.5,Feuil1
+2020,Gaafour,المعتمدية,mai,49,0.0,Feuil1
+2020,Gaafour,المعتمدية,juin,46,4.0,Feuil1
+2020,Gaafour,المعتمدية,juillet,40,20.0,Feuil1
+2020,Gaafour,المعتمدية,Août,47,21.0,Feuil1
+2020,Gaafour,المعتمدية,septembre,10,102.0,Feuil1
+2020,Gaafour,المعتمدية,octobre,3,19.0,Feuil1
+2020,Gaafour,المعتمدية,novembre,13,35.0,Feuil1
+2020,Gaafour,المعتمدية,décembre,24,31.0,Feuil1
+2020,Krib,تعاضدية كوسام,janvier,55,9.0,Feuil1
+2020,Krib,تعاضدية كوسام,février,69,3.0,Feuil1
+2020,Krib,تعاضدية كوسام,mars,67,68.0,Feuil1
+2020,Krib,تعاضدية كوسام,avril,82,52.5,Feuil1
+2020,Krib,تعاضدية كوسام,mai,65,0.0,Feuil1
+2020,Krib,تعاضدية كوسام,juin,60,7.0,Feuil1
+2020,Krib,تعاضدية كوسام,juillet,43,3.0,Feuil1
+2020,Krib,تعاضدية كوسام,Août,38,27.0,Feuil1
+2020,Krib,تعاضدية كوسام,septembre,13,119.0,Feuil1
+2020,Krib,تعاضدية كوسام,octobre,4,12.0,Feuil1
+2020,Krib,تعاضدية كوسام,novembre,17,76.0,Feuil1
+2020,Krib,تعاضدية كوسام,décembre,38,44.0,Feuil1
+2020,Bourouis,الرصد الجوي,janvier,47,4.0,Feuil1
+2020,Bourouis,الرصد الجوي,février,59,2.0,Feuil1
+2020,Bourouis,الرصد الجوي,mars,51,51.0,Feuil1
+2020,Bourouis,الرصد الجوي,avril,61,77.0,Feuil1
+2020,Bourouis,الرصد الجوي,mai,49,0.0,Feuil1
+2020,Bourouis,الرصد الجوي,juin,46,9.0,Feuil1
+2020,Bourouis,الرصد الجوي,juillet,47,7.0,Feuil1
+2020,Bourouis,الرصد الجوي,Août,43,5.0,Feuil1
+2020,Bourouis,الرصد الجوي,septembre,14,139.0,Feuil1
+2020,Bourouis,الرصد الجوي,octobre,6,3.0,Feuil1
+2020,Bourouis,الرصد الجوي,novembre,22,50.0,Feuil1
+2020,Bourouis,الرصد الجوي,décembre,36,31.0,Feuil1
+2020,Makthar,إدارة الغابات,janvier,51,4.0,Feuil1
+2020,Makthar,إدارة الغابات,février,52,2.0,Feuil1
+2020,Makthar,إدارة الغابات,mars,47,85.0,Feuil1
+2020,Makthar,إدارة الغابات,avril,57,96.0,Feuil1
+2020,Makthar,إدارة الغابات,mai,45,0.0,Feuil1
+2020,Makthar,إدارة الغابات,juin,40,65.0,Feuil1
+2020,Makthar,إدارة الغابات,juillet,50,19.0,Feuil1
+2020,Makthar,إدارة الغابات,Août,49,30.0,Feuil1
+2020,Makthar,إدارة الغابات,septembre,25,64.0,Feuil1
+2020,Makthar,إدارة الغابات,octobre,10,17.0,Feuil1
+2020,Makthar,إدارة الغابات,novembre,20,58.0,Feuil1
+2020,Makthar,إدارة الغابات,décembre,39,45.0,Feuil1
+2020,Kessra,كسرى B9,janvier,46,5.0,Feuil1
+2020,Kessra,كسرىB9,février,46,4.0,Feuil1
+2020,Kessra,كسرى B9,mars,41,97.0,Feuil1
+2020,Kessra,كسرى B9,avril,49,70.0,Feuil1
+2020,Kessra,كسرى B9,mai,43,0.0,Feuil1
+2020,Kessra,كسرى B9,juin,39,68.0,Feuil1
+2020,Kessra,كسرى B9,juillet,41,35.0,Feuil1
+2020,Kessra,كسرىB9,Août,43,23.0,Feuil1
+2020,Kessra,كسرىB9,septembre,27,64.0,Feuil1
+2020,Kessra,كسرى B9,octobre,6,4.0,Feuil1
+2020,Kessra,كسرى B9,novembre,22,43.0,Feuil1
+2020,Kessra,كسرى B9,décembre,36,33.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,janvier,38,6.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,février,32,3.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,mars,21,66.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,avril,32,33.5,Feuil1
+2020,Rouhia,إدارة الفلاحة,mai,30,0.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,juin,29,56.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,juillet,31,6.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,Août,46,12.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,septembre,24,31.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,octobre,9,9.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,novembre,22,30.0,Feuil1
+2020,Rouhia,إدارة الفلاحة,décembre,33,53.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,janvier,47,6.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,février,39,20.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,mars,49,41.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,avril,40,26.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,mai,36,18.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,juin,16,5.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,juillet,8,,Feuil1
+2021,Siliana Nord,الإدارة الفنية,Août,19,5.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,septembre,44,,Feuil1
+2021,Siliana Nord,الإدارة الفنية,octobre,47,86.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,novembre,37,5.0,Feuil1
+2021,Siliana Nord,الإدارة الفنية,décembre,35,38.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,janvier,53,6.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,février,32,15.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,mars,51,36.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,avril,41,19.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,mai,34,13.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,juin,18,1.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,juillet,9,,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,Août,25,7.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,septembre,54,,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,octobre,45,18.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,novembre,40,5.0,Feuil1
+2021,Siliana Sud,مركز التجارب الرملية,décembre,40,31.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,janvier,49,10.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,février,44,13.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,mars,41,57.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,avril,36,28.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,mai,27,10.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,juin,16,13.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,juillet,4,,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,Août,15,5.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,septembre,32,,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,octobre,34,88.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,novembre,41,6.0,Feuil1
+2021,Bouarada,بوعرادة  - د. م .,décembre,39,55.0,Feuil1
+2021,Gaafour,المعتمدية,janvier,68,12.0,Feuil1
+2021,Gaafour,المعتمدية,février,58,13.0,Feuil1
+2021,Gaafour,المعتمدية,mars,43,48.0,Feuil1
+2021,Gaafour,المعتمدية,avril,47,34.0,Feuil1
+2021,Gaafour,المعتمدية,mai,24,5.0,Feuil1
+2021,Gaafour,المعتمدية,juin,13,24.0,Feuil1
+2021,Gaafour,المعتمدية,juillet,3,,Feuil1
+2021,Gaafour,المعتمدية,Août,10,3.0,Feuil1
+2021,Gaafour,المعتمدية,septembre,47,7.5,Feuil1
+2021,Gaafour,المعتمدية,octobre,40,90.0,Feuil1
+2021,Gaafour,المعتمدية,novembre,46,10.0,Feuil1
+2021,Gaafour,المعتمدية,décembre,49,49.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,janvier,61,9.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,février,43,20.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,mars,49,62.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,avril,40,27.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,mai,25,13.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,juin,16,5.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,juillet,4,,Feuil1
+2021,Aroussa,إدارة الفلاحة,Août,19,3.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,septembre,50,2.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,octobre,35,82.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,novembre,39,4.0,Feuil1
+2021,Aroussa,إدارة الفلاحة,décembre,44,57.0,Feuil1
+2021,Krib,تعاضدية كوسام,janvier,82,27.0,Feuil1
+2021,Krib,تعاضدية كوسام,février,67,30.0,Feuil1
+2021,Krib,تعاضدية كوسام,mars,69,61.0,Feuil1
+2021,Krib,تعاضدية كوسام,avril,55,53.0,Feuil1
+2021,Krib,تعاضدية كوسام,mai,38,12.0,Feuil1
+2021,Krib,تعاضدية كوسام,juin,17,44.0,Feuil1
+2021,Krib,تعاضدية كوسام,juillet,4,,Feuil1
+2021,Krib,تعاضدية كوسام,Août,13,10.0,Feuil1
+2021,Krib,تعاضدية كوسام,septembre,38,,Feuil1
+2021,Krib,تعاضدية كوسام,octobre,43,101.5,Feuil1
+2021,Krib,تعاضدية كوسام,novembre,60,11.0,Feuil1
+2021,Krib,تعاضدية كوسام,décembre,65,106.0,Feuil1
+2021,Bourouis,بورويس - SM,janvier,61,9.0,Feuil1
+2021,Bourouis,بورويس - SM,février,51,12.0,Feuil1
+2021,Bourouis,بورويس - SM,mars,59,70.0,Feuil1
+2021,Bourouis,بورويس - SM,avril,47,38.0,Feuil1
+2021,Bourouis,بورويس - SM,mai,36,20.0,Feuil1
+2021,Bourouis,بورويس - SM,juin,22,22.0,Feuil1
+2021,Bourouis,بورويس - SM,juillet,6,,Feuil1
+2021,Bourouis,بورويس - SM,Août,14,7.0,Feuil1
+2021,Bourouis,بورويس - SM,septembre,43,,Feuil1
+2021,Bourouis,بورويس - SM,octobre,47,69.5,Feuil1
+2021,Bourouis,بورويس - SM,novembre,46,4.0,Feuil1
+2021,Bourouis,بورويس - SM,décembre,49,55.0,Feuil1
+2021,Makthar,إدارة الغابات,janvier,57,10.0,Feuil1
+2021,Makthar,إدارة الغابات,février,47,28.0,Feuil1
+2021,Makthar,إدارة الغابات,mars,52,43.0,Feuil1
+2021,Makthar,إدارة الغابات,avril,51,20.0,Feuil1
+2021,Makthar,إدارة الغابات,mai,39,15.0,Feuil1
+2021,Makthar,إدارة الغابات,juin,20,8.0,Feuil1
+2021,Makthar,إدارة الغابات,juillet,10,,Feuil1
+2021,Makthar,إدارة الغابات,Août,25,26.0,Feuil1
+2021,Makthar,إدارة الغابات,septembre,49,2.0,Feuil1
+2021,Makthar,إدارة الغابات,octobre,50,23.0,Feuil1
+2021,Makthar,إدارة الغابات,novembre,40,2.0,Feuil1
+2021,Makthar,إدارة الغابات,décembre,45,36.0,Feuil1
+2021,Bargou,إدارة الغابات,janvier,67,6.0,Feuil1
+2021,Bargou,إدارة الغابات,février,54,28.0,Feuil1
+2021,Bargou,إدارة الغابات,mars,60,41.0,Feuil1
+2021,Bargou,إدارة الغابات,avril,52,31.0,Feuil1
+2021,Bargou,إدارة الغابات,mai,35,15.0,Feuil1
+2021,Bargou,إدارة الغابات,juin,16,,Feuil1
+2021,Bargou,إدارة الغابات,juillet,9,,Feuil1
+2021,Bargou,إدارة الغابات,Août,20,17.0,Feuil1
+2021,Bargou,إدارة الغابات,septembre,50,15.0,Feuil1
+2021,Bargou,إدارة الغابات,octobre,59,68.0,Feuil1
+2021,Bargou,إدارة الغابات,novembre,51,4.0,Feuil1
+2021,Bargou,إدارة الغابات,décembre,57,62.0,Feuil1
+2021,Kessra,كسرى B9,janvier,49,14.0,Feuil1
+2021,Kessra,كسرىB9,février,41,18.0,Feuil1
+2021,Kessra,كسرى B9,mars,46,71.0,Feuil1
+2021,Kessra,كسرى B9,avril,46,23.0,Feuil1
+2021,Kessra,كسرى B9,mai,36,23.0,Feuil1
+2021,Kessra,كسرى B9,juin,22,10.0,Feuil1
+2021,Kessra,كسرى B9,juillet,6,,Feuil1
+2021,Kessra,كسرىB9,Août,27,28.0,Feuil1
+2021,Kessra,كسرىB9,septembre,43,13.0,Feuil1
+2021,Kessra,كسرى B9,octobre,41,21.0,Feuil1
+2021,Kessra,كسرى B9,novembre,39,2.0,Feuil1
+2021,Kessra,كسرى B9,décembre,43,17.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,janvier,32,2.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,février,21,12.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,mars,32,34.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,avril,38,18.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,mai,33,12.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,juin,22,7.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,juillet,9,,Feuil1
+2021,Rouhia,إدارة الفلاحة,Août,24,2.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,septembre,46,11.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,octobre,31,7.0,Feuil1
+2021,Rouhia,إدارة الفلاحة,novembre,29,,Feuil1
+2021,Rouhia,إدارة الفلاحة,décembre,30,14.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,janvier,47,61.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,février,39,8.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,mars,49,118.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,avril,40,18.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,mai,36,18.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,juin,16,,Feuil1
+2022,Siliana Nord,الإدارة الفنية,juillet,8,2.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,Août,19,4.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,septembre,44,47.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,octobre,47,2.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,novembre,37,31.0,Feuil1
+2022,Siliana Nord,الإدارة الفنية,décembre,35,3.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,janvier,53,49.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,février,32,10.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,mars,51,136.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,avril,41,17.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,mai,34,11.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,juin,18,,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,juillet,9,,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,Août,25,2.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,septembre,54,43.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,octobre,45,,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,novembre,40,23.0,Feuil1
+2022,Siliana Sud,مركز التجارب الرملية,décembre,40,,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,janvier,49,55.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,février,44,4.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,mars,41,132.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,avril,36,13.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,mai,27,23.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,juin,16,,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,juillet,4,,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,Août,15,19.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,septembre,32,59.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,octobre,34,2.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,novembre,41,19.0,Feuil1
+2022,Bouarada,بوعرادة  - د. م .,décembre,39,,Feuil1
+2022,Gaafour,المعتمدية,janvier,68,49.0,Feuil1
+2022,Gaafour,المعتمدية,février,58,7.0,Feuil1
+2022,Gaafour,المعتمدية,mars,43,107.0,Feuil1
+2022,Gaafour,المعتمدية,avril,47,20.5,Feuil1
+2022,Gaafour,المعتمدية,mai,24,20.0,Feuil1
+2022,Gaafour,المعتمدية,juin,13,4.0,Feuil1
+2022,Gaafour,المعتمدية,juillet,3,,Feuil1
+2022,Gaafour,المعتمدية,Août,10,12.0,Feuil1
+2022,Gaafour,المعتمدية,septembre,47,43.0,Feuil1
+2022,Gaafour,المعتمدية,octobre,40,11.0,Feuil1
+2022,Gaafour,المعتمدية,novembre,46,27.0,Feuil1
+2022,Gaafour,المعتمدية,décembre,49,1.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,janvier,61,69.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,février,43,6.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,mars,49,126.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,avril,40,18.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,mai,25,11.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,juin,16,6.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,juillet,4,,Feuil1
+2022,Aroussa,إدارة الفلاحة,Août,19,3.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,septembre,50,53.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,octobre,35,3.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,novembre,39,23.0,Feuil1
+2022,Aroussa,إدارة الفلاحة,décembre,44,2.0,Feuil1
+2022,Krib,تعاضدية كوسام,janvier,82,136.0,Feuil1
+2022,Krib,تعاضدية كوسام,février,67,14.0,Feuil1
+2022,Krib,تعاضدية كوسام,mars,69,117.5,Feuil1
+2022,Krib,تعاضدية كوسام,avril,55,26.0,Feuil1
+2022,Krib,تعاضدية كوسام,mai,38,26.0,Feuil1
+2022,Krib,تعاضدية كوسام,juin,17,,Feuil1
+2022,Krib,تعاضدية كوسام,juillet,4,,Feuil1
+2022,Krib,تعاضدية كوسام,Août,13,9.0,Feuil1
+2022,Krib,تعاضدية كوسام,septembre,38,25.0,Feuil1
+2022,Krib,تعاضدية كوسام,octobre,43,27.0,Feuil1
+2022,Krib,تعاضدية كوسام,novembre,60,91.0,Feuil1
+2022,Krib,تعاضدية كوسام,décembre,65,3.0,Feuil1
+2022,Bourouis,بورويس - SM,janvier,61,91.0,Feuil1
+2022,Bourouis,بورويس - SM,février,51,12.0,Feuil1
+2022,Bourouis,بورويس - SM,mars,59,98.0,Feuil1
+2022,Bourouis,بورويس - SM,avril,47,31.0,Feuil1
+2022,Bourouis,بورويس - SM,mai,36,31.0,Feuil1
+2022,Bourouis,بورويس - SM,juin,22,,Feuil1
+2022,Bourouis,بورويس - SM,juillet,6,,Feuil1
+2022,Bourouis,بورويس - SM,Août,14,2.0,Feuil1
+2022,Bourouis,بورويس - SM,septembre,43,40.0,Feuil1
+2022,Bourouis,بورويس - SM,octobre,47,5.0,Feuil1
+2022,Bourouis,بورويس - SM,novembre,46,64.0,Feuil1
+2022,Bourouis,بورويس - SM,décembre,49,7.0,Feuil1
+2022,Makthar,إدارة الغابات,janvier,57,84.0,Feuil1
+2022,Makthar,إدارة الغابات,février,47,8.0,Feuil1
+2022,Makthar,إدارة الغابات,mars,52,105.0,Feuil1
+2022,Makthar,إدارة الغابات,avril,51,15.0,Feuil1
+2022,Makthar,إدارة الغابات,mai,39,19.0,Feuil1
+2022,Makthar,إدارة الغابات,juin,20,15.0,Feuil1
+2022,Makthar,إدارة الغابات,juillet,10,,Feuil1
+2022,Makthar,إدارة الغابات,Août,25,2.0,Feuil1
+2022,Makthar,إدارة الغابات,septembre,49,41.0,Feuil1
+2022,Makthar,إدارة الغابات,octobre,50,,Feuil1
+2022,Makthar,إدارة الغابات,novembre,40,36.0,Feuil1
+2022,Makthar,إدارة الغابات,décembre,45,1.0,Feuil1
+2022,Bargou,إدارة الغابات,janvier,67,87.0,Feuil1
+2022,Bargou,إدارة الغابات,février,54,16.0,Feuil1
+2022,Bargou,إدارة الغابات,mars,60,232.0,Feuil1
+2022,Bargou,إدارة الغابات,avril,52,27.0,Feuil1
+2022,Bargou,إدارة الغابات,mai,35,18.0,Feuil1
+2022,Bargou,إدارة الغابات,juin,16,,Feuil1
+2022,Bargou,إدارة الغابات,juillet,9,2.0,Feuil1
+2022,Bargou,إدارة الغابات,Août,20,9.0,Feuil1
+2022,Bargou,إدارة الغابات,septembre,50,43.0,Feuil1
+2022,Bargou,إدارة الغابات,octobre,59,24.0,Feuil1
+2022,Bargou,إدارة الغابات,novembre,51,31.0,Feuil1
+2022,Bargou,إدارة الغابات,décembre,57,5.0,Feuil1
+2022,Kessra,كسرى B9,janvier,49,102.0,Feuil1
+2022,Kessra,كسرىB9,février,41,16.0,Feuil1
+2022,Kessra,كسرى B9,mars,46,212.0,Feuil1
+2022,Kessra,كسرى B9,avril,46,19.0,Feuil1
+2022,Kessra,كسرى B9,mai,36,18.0,Feuil1
+2022,Kessra,كسرى B9,juin,22,7.0,Feuil1
+2022,Kessra,كسرى B9,juillet,6,11.0,Feuil1
+2022,Kessra,كسرىB9,Août,27,10.0,Feuil1
+2022,Kessra,كسرىB9,septembre,43,81.0,Feuil1
+2022,Kessra,كسرى B9,octobre,41,,Feuil1
+2022,Kessra,كسرى B9,novembre,39,22.0,Feuil1
+2022,Kessra,كسرى B9,décembre,43,,Feuil1
+2022,Rouhia,إدارة الفلاحة,janvier,32,26.0,Feuil1
+2022,Rouhia,إدارة الفلاحة,février,21,15.0,Feuil1
+2022,Rouhia,إدارة الفلاحة,mars,32,84.0,Feuil1
+2022,Rouhia,إدارة الفلاحة,avril,38,6.5,Feuil1
+2022,Rouhia,إدارة الفلاحة,mai,33,9.0,Feuil1
+2022,Rouhia,إدارة الفلاحة,juin,22,12.0,Feuil1
+2022,Rouhia,إدارة الفلاحة,juillet,9,10.0,Feuil1
+2022,Rouhia,إدارة الفلاحة,Août,24,,Feuil1
+2022,Rouhia,إدارة الفلاحة,septembre,46,67.0,Feuil1
+2022,Rouhia,إدارة الفلاحة,octobre,31,,Feuil1
+2022,Rouhia,إدارة الفلاحة,novembre,29,1.0,Feuil1
+2022,Rouhia,إدارة الفلاحة,décembre,30,2.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,janvier,44,47.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,février,54,2.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,mars,37,31.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,avril,35,3.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,mai,47,0.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,juin,39,22.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,juillet,49,0.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,Août,40,23.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,septembre,36,70.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,octobre,16,25.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,novembre,8,63.0,Feuil1
+2023,Siliana Nord,الإدارة الفنية,décembre,19,0.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,janvier,54,43.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,février,45,0.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,mars,40,23.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,avril,40,0.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,mai,53,0.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,juin,32,20.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,juillet,51,0.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,Août,41,23.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,septembre,34,94.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,octobre,18,23.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,novembre,9,40.0,Feuil1
+2023,Siliana Sud,مركز التجارب الرملية,décembre,25,0.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,janvier,32,59.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,février,34,2.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,mars,41,19.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,avril,39,0.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,mai,49,0.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,juin,44,24.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,juillet,41,1.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,Août,36,55.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,septembre,27,76.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,octobre,16,74.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,novembre,4,4.0,Feuil1
+2023,Bouarada,بوعرادة  - د. م .,décembre,15,0.0,Feuil1
+2023,Gaafour,المعتمدية,janvier,47,43.0,Feuil1
+2023,Gaafour,المعتمدية,février,40,11.0,Feuil1
+2023,Gaafour,المعتمدية,mars,46,27.0,Feuil1
+2023,Gaafour,المعتمدية,avril,49,1.0,Feuil1
+2023,Gaafour,المعتمدية,mai,68,0.0,Feuil1
+2023,Gaafour,المعتمدية,juin,58,21.0,Feuil1
+2023,Gaafour,المعتمدية,juillet,43,1.0,Feuil1
+2023,Gaafour,المعتمدية,Août,47,23.0,Feuil1
+2023,Gaafour,المعتمدية,septembre,24,92.0,Feuil1
+2023,Gaafour,المعتمدية,octobre,13,63.0,Feuil1
+2023,Gaafour,المعتمدية,novembre,3,12.0,Feuil1
+2023,Gaafour,المعتمدية,décembre,10,0.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,janvier,50,53.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,février,35,3.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,mars,39,23.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,avril,44,2.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,mai,61,6.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,juin,43,28.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,juillet,49,0.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,Août,40,28.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,septembre,25,83.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,octobre,16,67.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,novembre,4,2.0,Feuil1
+2023,Aroussa,إدارة الفلاحة,décembre,19,0.0,Feuil1
+2023,Krib,تعاضدية كوسام,janvier,38,25.0,Feuil1
+2023,Krib,تعاضدية كوسام,février,43,27.0,Feuil1
+2023,Krib,تعاضدية كوسام,mars,60,91.0,Feuil1
+2023,Krib,تعاضدية كوسام,avril,65,3.0,Feuil1
+2023,Krib,تعاضدية كوسام,mai,82,4.0,Feuil1
+2023,Krib,تعاضدية كوسام,juin,67,17.0,Feuil1
+2023,Krib,تعاضدية كوسام,juillet,69,0.0,Feuil1
+2023,Krib,تعاضدية كوسام,Août,55,52.0,Feuil1
+2023,Krib,تعاضدية كوسام,septembre,38,69.0,Feuil1
+2023,Krib,تعاضدية كوسام,octobre,17,65.0,Feuil1
+2023,Krib,تعاضدية كوسام,novembre,4,14.0,Feuil1
+2023,Krib,تعاضدية كوسام,décembre,13,0.0,Feuil1
+2023,Bourouis,بورويس - SM,janvier,43,40.0,Feuil1
+2023,Bourouis,بورويس - SM,février,47,5.0,Feuil1
+2023,Bourouis,بورويس - SM,mars,46,64.0,Feuil1
+2023,Bourouis,بورويس - SM,avril,49,7.0,Feuil1
+2023,Bourouis,بورويس - SM,mai,61,5.0,Feuil1
+2023,Bourouis,بورويس - SM,juin,51,20.0,Feuil1
+2023,Bourouis,بورويس - SM,juillet,59,2.0,Feuil1
+2023,Bourouis,بورويس - SM,Août,47,25.0,Feuil1
+2023,Bourouis,بورويس - SM,septembre,36,77.0,Feuil1
+2023,Bourouis,بورويس - SM,octobre,22,52.0,Feuil1
+2023,Bourouis,بورويس - SM,novembre,6,32.0,Feuil1
+2023,Bourouis,بورويس - SM,décembre,14,0.0,Feuil1
+2023,Makthar,إدارة الغابات,janvier,49,41.0,Feuil1
+2023,Makthar,إدارة الغابات,février,50,0.0,Feuil1
+2023,Makthar,إدارة الغابات,mars,40,36.0,Feuil1
+2023,Makthar,إدارة الغابات,avril,45,1.0,Feuil1
+2023,Makthar,إدارة الغابات,mai,57,0.0,Feuil1
+2023,Makthar,إدارة الغابات,juin,47,13.0,Feuil1
+2023,Makthar,إدارة الغابات,juillet,52,1.0,Feuil1
+2023,Makthar,إدارة الغابات,Août,51,30.0,Feuil1
+2023,Makthar,إدارة الغابات,septembre,39,103.0,Feuil1
+2023,Makthar,إدارة الغابات,octobre,20,43.0,Feuil1
+2023,Makthar,إدارة الغابات,novembre,10,11.0,Feuil1
+2023,Makthar,إدارة الغابات,décembre,25,0.0,Feuil1
+2023,Bargou,إدارة الغابات,janvier,50,43.0,Feuil1
+2023,Bargou,إدارة الغابات,février,59,24.0,Feuil1
+2023,Bargou,إدارة الغابات,mars,51,31.0,Feuil1
+2023,Bargou,إدارة الغابات,avril,57,5.0,Feuil1
+2023,Bargou,إدارة الغابات,mai,67,2.0,Feuil1
+2023,Bargou,إدارة الغابات,juin,54,43.0,Feuil1
+2023,Bargou,إدارة الغابات,juillet,60,1.0,Feuil1
+2023,Bargou,إدارة الغابات,Août,52,36.0,Feuil1
+2023,Bargou,إدارة الغابات,septembre,35,135.0,Feuil1
+2023,Bargou,إدارة الغابات,octobre,16,36.0,Feuil1
+2023,Bargou,إدارة الغابات,novembre,9,39.0,Feuil1
+2023,Bargou,إدارة الغابات,décembre,20,9.0,Feuil1
+2023,Kessra,كسرى B9,janvier,43,81.0,Feuil1
+2023,Kessra,كسرىB9,février,41,0.0,Feuil1
+2023,Kessra,كسرى B9,mars,39,22.0,Feuil1
+2023,Kessra,كسرى B9,avril,43,0.0,Feuil1
+2023,Kessra,كسرى B9,mai,49,0.0,Feuil1
+2023,Kessra,كسرى B9,juin,41,37.0,Feuil1
+2023,Kessra,كسرى B9,juillet,46,0.0,Feuil1
+2023,Kessra,كسرىB9,Août,46,20.0,Feuil1
+2023,Kessra,كسرىB9,septembre,36,154.0,Feuil1
+2023,Kessra,كسرى B9,octobre,22,82.0,Feuil1
+2023,Kessra,كسرى B9,novembre,6,8.0,Feuil1
+2023,Kessra,كسرى B9,décembre,27,0.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,janvier,46,67.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,février,31,0.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,mars,29,1.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,avril,30,2.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,mai,32,0.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,juin,21,1.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,juillet,32,0.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,Août,38,14.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,septembre,33,77.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,octobre,22,66.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,novembre,9,1.0,Feuil1
+2023,Rouhia,إدارة الفلاحة,décembre,24,7.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,janvier,44,0.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,février,47,0.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,mars,37,22.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,avril,35,75.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,mai,47,12.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,juin,39,36.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,juillet,49,25.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,Août,40,9.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,septembre,36,42.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,octobre,16,0.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,novembre,8,0.0,Feuil1
+2024,Siliana Nord,الإدارة الفنية,décembre,19,9.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,janvier,54,0.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,février,45,0.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,mars,40,20.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,avril,40,77.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,mai,53,12.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,juin,32,34.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,juillet,51,23.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,Août,41,11.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,septembre,34,30.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,octobre,18,0.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,novembre,9,0.0,Feuil1
+2024,Siliana Sud,مركز التجارب الرملية,décembre,25,12.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,janvier,32,0.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,février,34,0.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,mars,41,37.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,avril,39,106.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,mai,49,28.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,juin,44,29.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,juillet,41,17.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,Août,36,11.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,septembre,27,42.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,octobre,16,0.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,novembre,4,0.0,Feuil1
+2024,Bouarada,بوعرادة  - د. م .,décembre,15,17.0,Feuil1
+2024,Gaafour,المعتمدية,janvier,47,0.0,Feuil1
+2024,Gaafour,المعتمدية,février,40,0.0,Feuil1
+2024,Gaafour,المعتمدية,mars,46,36.0,Feuil1
+2024,Gaafour,المعتمدية,avril,49,80.0,Feuil1
+2024,Gaafour,المعتمدية,mai,68,19.0,Feuil1
+2024,Gaafour,المعتمدية,juin,58,27.0,Feuil1
+2024,Gaafour,المعتمدية,juillet,43,21.0,Feuil1
+2024,Gaafour,المعتمدية,Août,47,12.0,Feuil1
+2024,Gaafour,المعتمدية,septembre,24,27.0,Feuil1
+2024,Gaafour,المعتمدية,octobre,13,0.0,Feuil1
+2024,Gaafour,المعتمدية,novembre,3,0.0,Feuil1
+2024,Gaafour,المعتمدية,décembre,10,7.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,janvier,50,0.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,février,35,0.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,mars,39,29.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,avril,44,97.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,mai,61,15.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,juin,43,30.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,juillet,49,33.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,Août,40,3.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,septembre,25,63.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,octobre,16,0.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,novembre,4,0.0,Feuil1
+2024,Aroussa,إدارة الفلاحة,décembre,19,17.0,Feuil1
+2024,Krib,تعاضدية كوسام,janvier,38,0.0,Feuil1
+2024,Krib,تعاضدية كوسام,février,43,0.0,Feuil1
+2024,Krib,تعاضدية كوسام,mars,60,44.0,Feuil1
+2024,Krib,تعاضدية كوسام,avril,65,130.0,Feuil1
+2024,Krib,تعاضدية كوسام,mai,82,45.0,Feuil1
+2024,Krib,تعاضدية كوسام,juin,67,77.0,Feuil1
+2024,Krib,تعاضدية كوسام,juillet,69,25.0,Feuil1
+2024,Krib,تعاضدية كوسام,Août,55,9.0,Feuil1
+2024,Krib,تعاضدية كوسام,septembre,38,33.0,Feuil1
+2024,Krib,تعاضدية كوسام,octobre,17,0.0,Feuil1
+2024,Krib,تعاضدية كوسام,novembre,4,0.0,Feuil1
+2024,Krib,تعاضدية كوسام,décembre,13,8.0,Feuil1
+2024,Bourouis,بورويس - SM,janvier,43,0.0,Feuil1
+2024,Bourouis,بورويس - SM,février,47,0.0,Feuil1
+2024,Bourouis,بورويس - SM,mars,46,36.0,Feuil1
+2024,Bourouis,بورويس - SM,avril,49,112.0,Feuil1
+2024,Bourouis,بورويس - SM,mai,61,14.0,Feuil1
+2024,Bourouis,بورويس - SM,juin,51,52.0,Feuil1
+2024,Bourouis,بورويس - SM,juillet,59,32.0,Feuil1
+2024,Bourouis,بورويس - SM,Août,47,11.0,Feuil1
+2024,Bourouis,بورويس - SM,septembre,36,51.0,Feuil1
+2024,Bourouis,بورويس - SM,octobre,22,0.0,Feuil1
+2024,Bourouis,بورويس - SM,novembre,6,0.0,Feuil1
+2024,Bourouis,بورويس - SM,décembre,14,38.0,Feuil1
+2024,Makthar,إدارة الغابات,janvier,49,0.0,Feuil1
+2024,Makthar,إدارة الغابات,février,50,0.0,Feuil1
+2024,Makthar,إدارة الغابات,mars,40,63.0,Feuil1
+2024,Makthar,إدارة الغابات,avril,45,126.0,Feuil1
+2024,Makthar,إدارة الغابات,mai,57,5.0,Feuil1
+2024,Makthar,إدارة الغابات,juin,47,50.0,Feuil1
+2024,Makthar,إدارة الغابات,juillet,52,25.0,Feuil1
+2024,Makthar,إدارة الغابات,Août,51,18.0,Feuil1
+2024,Makthar,إدارة الغابات,septembre,39,23.0,Feuil1
+2024,Makthar,إدارة الغابات,octobre,20,0.0,Feuil1
+2024,Makthar,إدارة الغابات,novembre,10,0.0,Feuil1
+2024,Makthar,إدارة الغابات,décembre,25,30.0,Feuil1
+2024,Bargou,إدارة الغابات,janvier,50,0.0,Feuil1
+2024,Bargou,إدارة الغابات,février,59,0.0,Feuil1
+2024,Bargou,إدارة الغابات,mars,51,36.0,Feuil1
+2024,Bargou,إدارة الغابات,avril,57,125.0,Feuil1
+2024,Bargou,إدارة الغابات,mai,67,31.0,Feuil1
+2024,Bargou,إدارة الغابات,juin,54,53.0,Feuil1
+2024,Bargou,إدارة الغابات,juillet,60,87.0,Feuil1
+2024,Bargou,إدارة الغابات,Août,52,32.0,Feuil1
+2024,Bargou,إدارة الغابات,septembre,35,46.0,Feuil1
+2024,Bargou,إدارة الغابات,octobre,16,0.0,Feuil1
+2024,Bargou,إدارة الغابات,novembre,9,0.0,Feuil1
+2024,Bargou,إدارة الغابات,décembre,20,10.0,Feuil1
+2024,Kessra,كسرى B9,janvier,43,0.0,Feuil1
+2024,Kessra,كسرىB9,février,41,0.0,Feuil1
+2024,Kessra,كسرى B9,mars,39,39.0,Feuil1
+2024,Kessra,كسرى B9,avril,43,149.0,Feuil1
+2024,Kessra,كسرى B9,mai,49,7.0,Feuil1
+2024,Kessra,كسرى B9,juin,41,54.0,Feuil1
+2024,Kessra,كسرى B9,juillet,46,47.0,Feuil1
+2024,Kessra,كسرىB9,Août,46,24.0,Feuil1
+2024,Kessra,كسرىB9,septembre,36,30.0,Feuil1
+2024,Kessra,كسرى B9,octobre,22,0.0,Feuil1
+2024,Kessra,كسرى B9,novembre,6,0.0,Feuil1
+2024,Kessra,كسرى B9,décembre,27,49.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,janvier,46,0.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,février,31,0.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,mars,29,15.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,avril,30,39.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,mai,32,2.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,juin,21,18.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,juillet,32,14.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,Août,38,12.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,septembre,33,22.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,octobre,22,0.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,novembre,9,0.0,Feuil1
+2024,Rouhia,إدارة الفلاحة,décembre,24,30.0,Feuil1

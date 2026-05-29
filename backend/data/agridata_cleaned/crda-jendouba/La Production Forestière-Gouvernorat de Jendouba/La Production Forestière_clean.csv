@@ -1,0 +1,37 @@
+﻿annee,delegation,bois_en_metre_cube,nombre_des_pepinieres,capacite_de_production_mille_plants,superficie_myrthe,production_liege_qtx,production_fourragere_million_uf,viande_de_chasse_tonne,escargot_en_tonne,champignons_en_tonne,feuille
+2021,Jendouba,,,,,,,,0.8,,forets
+2021,Jendouba Nord,,,,,,,,13.6,,forets
+2021,bousalem,,1.0,1600.0,,,,,,,forets
+2021,Baltabouauen,2500.0,1.0,1500.0,,1264.0,,,,4.0,forets
+2021,Tabarka,15749.0,1.0,159200.0,,3725.0,7.8,5.5,,,forets
+2021,Aïn Draham,10329.0,3.0,85000.0,1327.0,15857.0,8.0,99.0,11.1,,forets
+2021,Fernana,500.0,1.0,9760.0,2400.0,4215.0,,,,5.0,forets
+2021,Ghardimaou,,1.0,22023.0,1300.0,7452.0,,,,7.0,forets
+2021,Oued Mliz,7500.0,,,,,,,,,forets
+2022,Jendouba,,,,,,,,,,forets
+2022,Jendouba Nord,,,,,,,,,,forets
+2022,bousalem,,,,,,,,,,forets
+2022,Baltabouauen,,,,,,,,,,forets
+2022,Tabarka,,,,,,,,,,forets
+2022,Aïn Draham,,,,,,,,,,forets
+2022,Fernana,,,,,,,,,,forets
+2022,Ghardimaou,,,,,,,,,,forets
+2022,Oued Mliz,,,,,,,,,,forets
+2023,Jendouba,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,forets
+2023,Jendouba Nord,,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,forets
+2023,bousalem,3700.0,1.0,3000.0,0.0,0.0,0.0,0.0,0.0,0.0,forets
+2023,Baltabouauen,,1.0,4000.0,0.0,0.0,0.0,0.0,0.0,0.0,forets
+2023,Tabarka,68863.63,1.0,75140.0,0.0,4278.96,7.8,5.5,0.0,0.0,forets
+2023,Aïn Draham,4674.422,3.0,135000.0,0.0,12440.76,8.2,30.8,0.0,0.0,forets
+2023,Fernana,16501.0,1.0,90000.0,1000.0,8205.5,0.0,0.0,0.0,0.0,forets
+2023,Ghardimaou,19741.0,1.0,124000.0,1300.0,11213.43,0.0,0.0,0.0,0.0,forets
+2023,Oued Mliz,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,forets
+2024,Jendouba,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,forets
+2024,Jendouba Nord,,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,forets
+2024,bousalem,3960.5,1.0,0.0,0.0,0.0,2.0,6.5,0.0,0.0,forets
+2024,Baltabouauen,,1.0,0.0,0.0,0.0,2.5,6.5,0.0,0.0,forets
+2024,Tabarka,678.431,1.0,275799.0,0.0,2744.0,7.8,3.4,0.0,1.95,forets
+2024,Aïn Draham,4628.0,3.0,128704.0,0.0,6438.0,8.2,8.7,0.0,0.0,forets
+2024,Fernana,1365.85,1.0,95.0,785.0,,,,,,forets
+2024,Ghardimaou,1596.5,1.0,111.0,809.0,,,,,,forets
+2024,Oued Mliz,,0.0,0.0,0.0,0.0,0.5,2.0,0.0,0.0,forets

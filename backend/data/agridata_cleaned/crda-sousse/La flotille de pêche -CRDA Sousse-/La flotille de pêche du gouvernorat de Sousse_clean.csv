@@ -1,0 +1,16 @@
+﻿port_ar,port_fr,type_unite_de_peche_ar,type_unite_de_peche_fr,nombre_unites_fonctionnelles,nombre_unites_non_fonctionnelles,feuille
+سوسة,sousse,مراكب صيد ساحلي مجهزة بمحرك,barque côtière motorisée,159,7,أسطول الصيد البحري
+سوسة,sousse,مراكب صيد ساحلي بدون محرك,barque côtière non motorisée,58,2,أسطول الصيد البحري
+سوسة,sousse,وحدات صيد السمك الأزرق,unité de pêche de poisson bleu,2,0,أسطول الصيد البحري
+سوسة,sousse,وحدات الصيد بالجر,unité de pêche au chalut de fond,10,1,أسطول الصيد البحري
+سوسة,sousse,تربية الأسماك,aquaculture,0,0,أسطول الصيد البحري
+سيدي عبد الحميد,sidi abdelhamid,مراكب صيد ساحلي مجهزة بمحرك,barque côtière motorisée,21,0,أسطول الصيد البحري
+سيدي عبد الحميد,sidi abdelhamid,مراكب صيد ساحلي بدون محرك,barque côtière non motorisée,30,2,أسطول الصيد البحري
+القنطاوي,el kantaoui,مراكب صيد ساحلي مجهزة بمحرك,barque cotière motorisée,30,0,أسطول الصيد البحري
+القنطاوي,el kantaoui,مراكب صيد ساحلي بدون محرك,barque côtière non motorisée,1,0,أسطول الصيد البحري
+هرقلة,hergla,مراكب صيد ساحلي مجهزة بمحرك,barque côtière motorisée,59,2,أسطول الصيد البحري
+هرقلة,hergla,مراكب صيد ساحلي بدون محرك,barque côtière non motorisée,3,2,أسطول الصيد البحري
+هرقلة,hergla,وحدات صيد السمك الأزرق,unité de pêche de poisson bleu,1,0,أسطول الصيد البحري
+هرقلة,hergla,تربية أسماك وتسمين تن,aquaculture et engraissement du thon rouge,7,1,أسطول الصيد البحري
+السلوم - بوفيشة,salloum_bouficha,مراكب صيد ساحلي مجهزة بمحرك,barque côtière motorisée,2,1,أسطول الصيد البحري
+السلوم - بوفيشة,salloum_bouficha,مراكب صيد ساحلي بدون محرك,barque côtière non motorisée,28,2,أسطول الصيد البحري

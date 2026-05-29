@@ -1,0 +1,29 @@
+﻿annee,delegation,superficie_cereales_ha,production_cereales_tonne,superficie_fourrages_ha,production_fourrages_tonne,superficie_legumes_ha,production_legumes_tonne,superficie_leumineuses_ha,production_legumineuses_tonne,feuille
+2021,Tozeur,,,100,4500,290,2450,,,Feuil1
+2021,Dgueche,,,60,2500,170,1450,,,Feuil1
+2021,Tamaghza,,,10,800,50,450,,,Feuil1
+2021,Nefta,,,85,6000,290,2440,,,Feuil1
+2021,Hazoua,,,5,200,10,120,,,Feuil1
+2021,Hammet El Djérid,,,30,1000,40,300,,,Feuil1
+2021,Total,0,0,290,15000,850,7210,0,0,Feuil1
+2022,Tozeur,,,80,4500,250,2125,,,Feuil1
+2022,Dgueche,,,80,4500,160,1360,,,Feuil1
+2022,Tamaghza,5,8,25,1450,70,630,,,Feuil1
+2022,Nefta,,,75,4000,300,2400,,,Feuil1
+2022,Hazoua,,,5,180,20,170,,,Feuil1
+2022,Hammet El Djérid,,,25,880,50,370,,,Feuil1
+2022,Total,5,8,290,15510,850,7055,,,Feuil1
+2023,Tozeur,,,85,3800,235,2110,,,Feuil1
+2023,Degache,,,80,3650,160,1365,,,Feuil1
+2023,Tamaghza,,,30,1800,70,620,,,Feuil1
+2023,Nefta,5,8,80,3600,280,2200,,,Feuil1
+2023,Hezoua,,,5,200,20,165,,,Feuil1
+2023,Hammet eljerid,,,25,1000,50,350,,,Feuil1
+2023,Total,5,8,305,14050,815,6810,,,Feuil1
+2024,Tozeur,,,85,3800,235,2110,235,2110,Feuil1
+2024,Degache,,,80,3650,160,1365,160,1365,Feuil1
+2024,Tamaghza,,,30,1800,70,620,70,620,Feuil1
+2024,Nefta,,,80,3600,280,2200,280,2200,Feuil1
+2024,Hezoua,,,5,200,20,165,20,165,Feuil1
+2024,Hammet eljerid,,,25,1000,50,350,50,350,Feuil1
+2024,Total,0,0,305,14050,815,6810,815,6810,Feuil1

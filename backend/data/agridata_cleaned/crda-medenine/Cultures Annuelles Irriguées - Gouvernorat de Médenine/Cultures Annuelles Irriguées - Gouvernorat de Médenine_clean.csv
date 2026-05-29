@@ -1,0 +1,21 @@
+﻿annee,delegation,superficie_cereales_ha,production_cereales_quintal,superficie_legumineuses_ha,production_legumineuses_tonne,superficie_maraichages_ha,production_maraichage_tonne,superficie_fourrages_ha,production_fourrages_tonne,feuille
+2023,Médenine Nord,25,625,−,−,150,4050,30,1050,Feuil1
+2023,Médenine Sud,525,13125,−,−,780,21050,115,4030,Feuil1
+2023,Sidi Makhlouf,125,3125,−,−,510,13750,50,1750,Feuil1
+2023,Ajim,5,125,−,−,20,550,2,80,Feuil1
+2023,Houmet Essouk,5,125,−,−,50,1350,3,110,Feuil1
+2023,Midoun,5,125,−,−,100,2700,65,2300,Feuil1
+2023,Zarzis,5,125,−,−,120,3250,10,350,Feuil1
+2023,Ben Guerdane,50,1250,−,−,180,4850,80,2800,Feuil1
+2023,Beni Khedech,5,125,−,−,37,1000,5,180,Feuil1
+2023,Total,750,18750,−,−,1947,52550,360,12650,Feuil1
+2024,Médenine Nord,200,140,35,35,120,3200,30,940,Feuil1
+2024,Médenine Sud,300,240,60,60,750,21000,125,3900,Feuil1
+2024,Sidi Makhlouf,180,144,70,70,520,14000,55,1720,Feuil1
+2024,Ajim,1,1,20,20,25,450,5,150,Feuil1
+2024,Houmet Essouk,1,1,20,20,45,1150,5,150,Feuil1
+2024,Midoun,1,1,95,95,80,2150,75,2350,Feuil1
+2024,Zarzis,80,80,90,135,120,3250,10,320,Feuil1
+2024,Ben Guerdane,200,200,70,105,200,4850,85,2650,Feuil1
+2024,Beni Khedech,40,36,40,45,40,950,10,320,Feuil1
+2024,Total,1003,843,500,585,1900,51000,400,12500,Feuil1

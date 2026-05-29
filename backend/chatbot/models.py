@@ -1,7 +1,11 @@
 from django.db import models
+from django.contrib.auth.models import User # <-- Ajouter l'import
+
 
 class ChatSession(models.Model):
     id = models.AutoField(primary_key=True)
+    # null=True, blank=True permet de ne pas casser tes sessions existantes (anonymes) lors de la migration
+    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='sessions', null=True, blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
     title = models.CharField(max_length=255, default="Nouvelle conversation")
 

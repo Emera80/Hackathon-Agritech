@@ -1,0 +1,155 @@
+﻿annee,culture,superficie_ha,feuille
+2004,Pomme_de_terre,23.3,Sup_ha
+2004,Tomate,26.0,Sup_ha
+2004,Artichaut,1.9,Sup_ha
+2004,Piment,20.3,Sup_ha
+2004,Oignon,13.0,Sup_ha
+2004,Pasteque _Melon,22.8,Sup_ha
+2004,Autres legumes,50.3,Sup_ha
+2005,Pomme_de_terre,24.8,Sup_ha
+2005,Tomate,26.6,Sup_ha
+2005,Artichaut,2.2,Sup_ha
+2005,Piment,20.9,Sup_ha
+2005,Oignon,14.1,Sup_ha
+2005,Pasteque _Melon,21.3,Sup_ha
+2005,Autres legumes,48.2,Sup_ha
+2006,Pomme_de_terre,25.1,Sup_ha
+2006,Tomate,23.1,Sup_ha
+2006,Artichaut,2.9,Sup_ha
+2006,Piment,20.6,Sup_ha
+2006,Oignon,13.6,Sup_ha
+2006,Pasteque _Melon,21.4,Sup_ha
+2006,Autres legumes,52.5,Sup_ha
+2007,Pomme_de_terre,24.55,Sup_ha
+2007,Tomate,24.5,Sup_ha
+2007,Artichaut,3.0,Sup_ha
+2007,Piment,19.8,Sup_ha
+2007,Oignon,14.1,Sup_ha
+2007,Pasteque _Melon,20.2,Sup_ha
+2007,Autres legumes,52.4,Sup_ha
+2008,Pomme_de_terre,25.6,Sup_ha
+2008,Tomate,26.2,Sup_ha
+2008,Artichaut,2.2,Sup_ha
+2008,Piment,19.7,Sup_ha
+2008,Oignon,17.4,Sup_ha
+2008,Pasteque _Melon,20.0,Sup_ha
+2008,Autres legumes,43.4,Sup_ha
+2009,Pomme_de_terre,22.6,Sup_ha
+2009,Tomate,27.6,Sup_ha
+2009,Artichaut,2.15,Sup_ha
+2009,Piment,18.9,Sup_ha
+2009,Oignon,16.3,Sup_ha
+2009,Pasteque _Melon,21.3,Sup_ha
+2009,Autres legumes,58.4,Sup_ha
+2010,Pomme_de_terre,23.76,Sup_ha
+2010,Tomate,33.0,Sup_ha
+2010,Artichaut,1.8,Sup_ha
+2010,Piment,19.4,Sup_ha
+2010,Oignon,16.6,Sup_ha
+2010,Pasteque _Melon,15.8,Sup_ha
+2010,Autres legumes,58.5,Sup_ha
+2011,Pomme_de_terre,24.16,Sup_ha
+2011,Tomate,32.25,Sup_ha
+2011,Artichaut,2.32,Sup_ha
+2011,Piment,18.07,Sup_ha
+2011,Oignon,16.2,Sup_ha
+2011,Pasteque _Melon,15.5,Sup_ha
+2011,Autres legumes,57.0,Sup_ha
+2012,Pomme_de_terre,23.3,Sup_ha
+2012,Tomate,28.9,Sup_ha
+2012,Artichaut,2.7,Sup_ha
+2012,Piment,18.7,Sup_ha
+2012,Oignon,16.5,Sup_ha
+2012,Pasteque _Melon,15.2,Sup_ha
+2012,Autres legumes,58.0,Sup_ha
+2013,Pomme_de_terre,24.28,Sup_ha
+2013,Tomate,23.34,Sup_ha
+2013,Artichaut,2.55,Sup_ha
+2013,Piment,21.19,Sup_ha
+2013,Oignon,16.58,Sup_ha
+2013,Pasteque _Melon,13.32,Sup_ha
+2013,Autres legumes,40.61,Sup_ha
+2014,Pomme_de_terre,24.0,Sup_ha
+2014,Tomate,27.0,Sup_ha
+2014,Artichaut,2.5,Sup_ha
+2014,Piment,18.5,Sup_ha
+2014,Oignon,16.5,Sup_ha
+2014,Pasteque _Melon,15.2,Sup_ha
+2014,Autres legumes,58.0,Sup_ha
+2015,Pomme_de_terre,23.24,Sup_ha
+2015,Tomate,27.73,Sup_ha
+2015,Artichaut,2.44,Sup_ha
+2015,Piment,22.96,Sup_ha
+2015,Oignon,15.99,Sup_ha
+2015,Pasteque _Melon,17.86,Sup_ha
+2015,Autres legumes,42.81,Sup_ha
+2016,Pomme_de_terre,24.83,Sup_ha
+2016,Tomate,15.5,Sup_ha
+2016,Artichaut,2.84,Sup_ha
+2016,Piment,18.0,Sup_ha
+2016,Oignon,15.74,Sup_ha
+2016,Pasteque _Melon,14.61,Sup_ha
+2016,Autres legumes,46.2,Sup_ha
+2017,Pomme_de_terre,24.71,Sup_ha
+2017,Tomate,19.89,Sup_ha
+2017,Artichaut,2.88,Sup_ha
+2017,Piment,19.5,Sup_ha
+2017,Oignon,15.22,Sup_ha
+2017,Pasteque _Melon,16.43,Sup_ha
+2017,Autres legumes,47.4,Sup_ha
+2018,Pomme_de_terre,23.96,Sup_ha
+2018,Tomate,19.47,Sup_ha
+2018,Artichaut,2.11,Sup_ha
+2018,Piment,20.1,Sup_ha
+2018,Oignon,15.81,Sup_ha
+2018,Pasteque _Melon,13.61,Sup_ha
+2018,Autres legumes,48.0,Sup_ha
+2019,Pomme_de_terre,21.38,Sup_ha
+2019,Tomate,23.64,Sup_ha
+2019,Artichaut,2.1,Sup_ha
+2019,Piment,19.16,Sup_ha
+2019,Oignon,14.44,Sup_ha
+2019,Pasteque _Melon,13.38,Sup_ha
+2019,Autres legumes,57.41,Sup_ha
+2020,Pomme_de_terre,21.88,Sup_ha
+2020,Tomate,23.01,Sup_ha
+2020,Artichaut,3.12,Sup_ha
+2020,Piment,19.68,Sup_ha
+2020,Oignon,14.11,Sup_ha
+2020,Pasteque _Melon,12.97,Sup_ha
+2020,Autres legumes,45.4,Sup_ha
+2021,Pomme_de_terre,23.35,Sup_ha
+2021,Tomate,22.66,Sup_ha
+2021,Artichaut,2.9,Sup_ha
+2021,Piment,19.37,Sup_ha
+2021,Oignon,13.73,Sup_ha
+2021,Pasteque _Melon,14.43,Sup_ha
+2021,Autres legumes,51.6,Sup_ha
+2022,Pomme_de_terre,19.8,Sup_ha
+2022,Tomate,18.3,Sup_ha
+2022,Artichaut,2.4,Sup_ha
+2022,Piment,19.3,Sup_ha
+2022,Oignon,15.7,Sup_ha
+2022,Pasteque _Melon,15.1,Sup_ha
+2022,Autres legumes,52.0,Sup_ha
+2023,Pomme_de_terre,19.9,Sup_ha
+2023,Tomate,16.8,Sup_ha
+2023,Artichaut,2.2,Sup_ha
+2023,Piment,16.7,Sup_ha
+2023,Oignon,13.7,Sup_ha
+2023,Pasteque _Melon,9.9,Sup_ha
+2023,Autres legumes,36.5,Sup_ha
+2024,Pomme_de_terre,19.0,Sup_ha
+2024,Tomate,17.0,Sup_ha
+2024,Artichaut,2.2,Sup_ha
+2024,Piment,16.0,Sup_ha
+2024,Oignon,13.5,Sup_ha
+2024,Pasteque _Melon,9.0,Sup_ha
+2024,Autres legumes,35.0,Sup_ha
+2025,Pomme_de_terre,18.6,Sup_ha
+2025,Tomate,19.0,Sup_ha
+2025,Artichaut,1.4,Sup_ha
+2025,Piment,16.3,Sup_ha
+2025,Oignon,13.2,Sup_ha
+2025,Pasteque _Melon,9.2,Sup_ha
+2025,Autres legumes,35.0,Sup_ha

@@ -1,0 +1,39 @@
+﻿composante,frequence_ar,frequence,source_ar,source,unite_ar,unite,composante_ar,images,feuille
+Concentré vache laitière,سنويا,ANNUELLE,ديوان تربية الماشية و توفير المرعى,OEP,دينار/طن,TND/t,أعلاف مركزة للابقار,https://drive.google.com/file/d/1wMx0Wib2i-aKHjsc0yYWH8KuhFhcTUXj/view?usp=sharing,Feuil1
+Concentré engraissement bovin,سنويا,ANNUELLE,ديوان تربية الماشية و توفير المرعى,OEP,دينار/طن,TND/t,اعلاف مركزة للتسمين,https://drive.google.com/file/d/1QDSdlqGetN0jmfkD_ugjq6h5MSm93PYN/view?usp=sharing,Feuil1
+Concentré engraissement ovin,سنويا,ANNUELLE,ديوان تربية الماشية و توفير المرعى,OEP,دينار/طن,TND/t,اعلاف مركزة للاغنام,https://drive.google.com/file/d/1iZtM4wENQUfy3E4dSZw-kJeitEN_e2uK/view?usp=sharing,Feuil1
+Son (prix détail),سنويا,ANNUELLE,ديوان الحبوب,OC,دينار/القنطار,TND/q,النخالة (سعر التفصيل),https://drive.google.com/file/d/1iZtM4wENQUfy3E4dSZw-kJeitEN_e2uK/view?usp=sharing,Feuil1
+Son (prix de gros),سنويا,ANNUELLE,ديوان الحبوب,OC,دينار/القنطار,TND/q,النخالة (سعر المزودين),https://drive.google.com/file/d/1iZtM4wENQUfy3E4dSZw-kJeitEN_e2uK/view?usp=sharing,Feuil1
+Foin (Nord),شهريا,MENSUELLE,ديوان تربية الماشية و توفير المرعى,OEP,دينار/البالة,TND/balle,القرط (الشمال),,Feuil1
+Foin ( Centre et Sud),شهريا,MENSUELLE,ديوان تربية الماشية و توفير المرعى,OEP,دينار/البالة,TND/balle,القرط (الوسط و الجنوب),,Feuil1
+Paille (Nord),شهريا,MENSUELLE,ديوان تربية الماشية و توفير المرعى,OEP,دينار/البالة,TND/balle,التبن(الشمال),https://drive.google.com/file/d/1iZtM4wENQUfy3E4dSZw-kJeitEN_e2uK/view?usp=sharing,Feuil1
+Paille ( Centre et Sud),شهريا,MENSUELLE,ديوان تربية الماشية و توفير المرعى,OEP,دينار/البالة,TND/balle,التبن (الوسط و الجنوب),,Feuil1
+CF1 émietté (vrac),شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف دجاج اللحم رقم1,,Feuil1
+CF2 émietté (vrac),شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف دجاج اللحم رقم2,,Feuil1
+CF2 granulé (vrac),شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف دجاج اللحم محبب رقم 2,,Feuil1
+CF3 granulé (vrac),شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف دجاج اللحم محبب رقم 3,,Feuil1
+PP1,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف دجاج البيضPP1,,Feuil1
+PP2,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف دجاج البيض PP2,,Feuil1
+PP3 FARINE,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف دجاج البيض PP3,,Feuil1
+PP4 FARINE,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف دجاج البيض   PP4,,Feuil1
+R1,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف الراحةR1,,Feuil1
+R2,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف الراحةR2,,Feuil1
+R3,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف الراحةR3,,Feuil1
+R4,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف الراحةR4,,Feuil1
+D1,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف ديك روميD1,,Feuil1
+D2,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف ديك روميD2,,Feuil1
+D3,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف ديك روميD3,,Feuil1
+D4,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف ديك روميD4,,Feuil1
+D5,شهريا,MENSUELLE,المجمع المهني المشترك لمنتوجات الدواجن والأرانب,GIPAC,دينار/طن,TND/t,علف ديك روميD5,,Feuil1
+Orge subventionné,شهريا,MENSUELLE,الادارة العامة للإنتاج الفلاحي,DGPA,دينار/طن,TND/t,شعير علفي,,Feuil1
+Foin,شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,balle,TND,القرط,,Feuil1
+Paille,شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,balle,TND,,,Feuil1
+Concentré N° 7 (Lait),شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,أعلاف مركزة رقم 7,,Feuil1
+Concentré N° 11 (Genisse),شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,أعلاف مركزة رقم 11,,Feuil1
+Concentré N° 9 (Jeunes),شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,أعلاف مركزة رقم 9,,Feuil1
+Concentré N° 5 (Eng.),شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,أعلاف مركزة رقم 5,,Feuil1
+Mais,شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,الذرة,,Feuil1
+Soja,شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,الصوجا,,Feuil1
+Concentré N° 6 A,شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,أعلاف مركزة رقم 6 A,,Feuil1
+Concentré N° 6 B (Brebis),شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,أعلاف مركزة رقم 6 B,,Feuil1
+Concentré SB (Beliers),شهريا,MENSUELLE,مكتب مراقبة وحدات الإنتاج الفلاحي بباجة,Bureau de contrôle Production agricole Béja,دينار,TND,أعلاف مركزة SB,,Feuil1

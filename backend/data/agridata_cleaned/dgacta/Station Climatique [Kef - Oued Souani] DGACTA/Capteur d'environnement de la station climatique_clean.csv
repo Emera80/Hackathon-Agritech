@@ -1,0 +1,37 @@
+﻿date,nom_ar,nom_fr,unite,valeur
+2025-12-19 04:00:01,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2025-12-19 04:00:01,Vitesse du vent,Vitesse du vent,m/s,1.04
+2025-12-19 04:00:01,Humidité relative,Humidité relative,%,90.8
+2025-12-19 04:00:01,Point de Rosée,Point de Rosée,°c,11.1
+2025-12-19 04:00:01,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,0.0
+2025-12-19 04:00:01,Température,Température,°c,12.6
+2025-12-19 04:00:01,Évapotranspiration journalière,Évapotranspiration journalière,mm/j,0.51
+2025-12-19 04:00:01,Direction du vent,Direction du vent,Deg,344.3
+2025-12-19 04:00:01,Pression atmosphérique,Pression atmosphérique,hPa,976.5
+2025-12-19 03:00:01,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2025-12-19 03:00:01,Vitesse du vent,Vitesse du vent,m/s,1.22
+2025-12-19 03:00:01,Direction du vent,Direction du vent,Deg,94.2
+2025-12-19 03:00:01,Humidité relative,Humidité relative,%,88.1
+2025-12-19 03:00:01,Point de Rosée,Point de Rosée,°c,11.1
+2025-12-19 03:00:01,Pression atmosphérique,Pression atmosphérique,hPa,976.5
+2025-12-19 03:00:01,Température,Température,°c,13.1
+2025-12-19 03:00:01,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,0.0
+2025-12-19 03:00:01,Évapotranspiration journalière,Évapotranspiration journalière,mm/j,0.51
+2025-12-19 02:00:01,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2025-12-19 02:00:01,Humidité relative,Humidité relative,%,85.4
+2025-12-19 02:00:01,Pression atmosphérique,Pression atmosphérique,hPa,976.8
+2025-12-19 02:00:01,Température,Température,°c,13.7
+2025-12-19 02:00:01,Évapotranspiration journalière,Évapotranspiration journalière,mm/j,0.51
+2025-12-19 02:00:01,Direction du vent,Direction du vent,Deg,111.8
+2025-12-19 02:00:01,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,0.0
+2025-12-19 02:00:01,Vitesse du vent,Vitesse du vent,m/s,1.01
+2025-12-19 02:00:01,Point de Rosée,Point de Rosée,°c,11.3
+2025-12-19 00:00:01,Direction du vent,Direction du vent,Deg,68.6
+2025-12-19 00:00:01,Évapotranspiration Horaire,Évapotranspiration Horaire,mm/h,0.0
+2025-12-19 00:00:01,Pression atmosphérique,Pression atmosphérique,hPa,977.5
+2025-12-19 00:00:01,Point de Rosée,Point de Rosée,°c,10.8
+2025-12-19 00:00:01,Évapotranspiration journalière,Évapotranspiration journalière,mm/j,0.73
+2025-12-19 00:00:01,Humidité relative,Humidité relative,%,84.3
+2025-12-19 00:00:01,Température,Température,°c,13.4
+2025-12-19 00:00:01,Rayonnement solaire,Rayonnement solaire,W/m²,0.0
+2025-12-19 00:00:01,Vitesse du vent,Vitesse du vent,m/s,1.53

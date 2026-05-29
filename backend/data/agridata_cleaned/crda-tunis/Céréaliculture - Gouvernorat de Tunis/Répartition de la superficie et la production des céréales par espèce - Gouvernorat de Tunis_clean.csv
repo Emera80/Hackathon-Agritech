@@ -1,0 +1,25 @@
+﻿campagne_agricole,type_de_culture,superficie_cultivee_hectare,superficie_recoltee_hectare,production_quintaux,feuille
+2017/2018,Blé dur,550,550,12100,Feuil1
+2017/2018,Blé tendre,150,144,2016,Feuil1
+2017/2018,Orge,650,650,13397,Feuil1
+2017/2018,Triticale,10,10,170,Feuil1
+2018/2019,Blé dur,540,540,14580,Feuil1
+2018/2019,Blé tendre,260,260,8320,Feuil1
+2018/2019,Orge,700,700,11900,Feuil1
+2018/2019,Triticale,10,10,260,Feuil1
+2019/2020,Blé dur,650,650,17550,Feuil1
+2019/2020,Blé tendre,120,120,3360,Feuil1
+2019/2020,Orge,700,700,16800,Feuil1
+2019/2020,Triticale,50,50,1250,Feuil1
+2020/2021,Blé dur,520,520,15600,Feuil1
+2020/2021,Blé tendre,100,100,3000,Feuil1
+2020/2021,Orge,600,600,10800,Feuil1
+2020/2021,Triticale,60,60,1560,Feuil1
+2021/2022,Blé dur,520,520,16640,Feuil1
+2021/2022,Blé tendre,100,100,3000,Feuil1
+2021/2022,Orge,600,600,15900,Feuil1
+2021/2022,Triticale,60,60,1560,Feuil1
+2022/2023,Blé dur,550,100,500,Feuil1
+2022/2023,Blé tendre,40,0,0,Feuil1
+2022/2023,Orge,700,60,300,Feuil1
+2022/2023,Triticale,20,10,150,Feuil1

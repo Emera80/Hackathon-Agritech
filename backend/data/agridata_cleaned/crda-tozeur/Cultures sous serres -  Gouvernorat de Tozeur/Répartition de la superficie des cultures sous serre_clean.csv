@@ -1,0 +1,30 @@
+﻿annee,delegation,nombre_de_serres,superficie_des_serres_ha,superficie_cultivee_ha,production_tonne,feuille
+2021,Tozeur,105.0,5.25,5.25,266.3,Feuil1
+2021,Dgueche,1.0,0.05,0.05,0.5,Feuil1
+2021,Tamaghza,0.0,0.0,0.0,0.0,Feuil1
+2021,Nefta,40.0,2.0,2.0,95.5,Feuil1
+2021,Hazoua,115.0,5.75,5.75,293.0,Feuil1
+2021,Hammet El Djérid,210.0,10.8,10.8,705.5,Feuil1
+2021,Total,471.0,23.85,23.85,1360.8,Feuil1
+2022,Tozeur,76.0,3.8,3.8,200.0,Feuil1
+2022,Dgueche,0.0,0.0,0.0,,Feuil1
+2022,Tamaghza,0.0,0.0,0.0,,Feuil1
+2022,Nefta,38.0,1.9,1.9,94.0,Feuil1
+2022,Hazoua,133.0,6.65,6.65,350.0,Feuil1
+2022,Hammet,193.0,9.65,9.65,640.75,Feuil1
+2022,El Djérid,,,,,Feuil1
+2022,Total,440.0,22.0,22.0,1284.75,Feuil1
+2023,Tozeur,74.0,3.7,3.7,200.0,Feuil1
+2023,Degache,0.0,0.0,0.0,,Feuil1
+2023,Tamaghza,0.0,0.0,0.0,,Feuil1
+2023,Nefta,43.0,2.15,2.15,92.0,Feuil1
+2023,Hezoua,127.0,6.35,6.35,360.0,Feuil1
+2023,Hammet eljerid,194.0,9.7,9.7,640.0,Feuil1
+2023,Total,438.0,22.0,22.0,1292.0,Feuil1
+2024,Tozeur,50.0,12.3,2.5,94.5,Feuil1
+2024,Degache,0.0,5.0,0.0,0.0,Feuil1
+2024,Tamaghza,0.0,0.0,0.0,0.0,Feuil1
+2024,Nefta,27.0,3.5,1.35,102.5,Feuil1
+2024,Hezoua,171.0,19.5,8.55,444.0,Feuil1
+2024,Hammet eljerid,193.0,13.75,9.65,636.0,Feuil1
+2024,Total,441.0,54.05,22.05,1277.0,Feuil1

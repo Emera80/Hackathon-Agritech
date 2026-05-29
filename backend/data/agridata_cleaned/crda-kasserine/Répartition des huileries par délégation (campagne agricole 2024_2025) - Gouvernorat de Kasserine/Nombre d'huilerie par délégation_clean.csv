@@ -1,0 +1,10 @@
+﻿delegation,nombre_dhuilerie,systeme_traditionnel,systeme_de_pression,systeme_continu,capacite_de_production_tonne_par_jour,capacite_de_stockage_tonne,feuille
+Kasserine nord,4,0,1,3,75,200,Feuil1
+Kasserine sud,6,0,1,4,240,410,Feuil1
+Sbeitla,15,0,4,10,580,995,Feuil1
+Sbiba,1,0,0,1,120,160,Feuil1
+Foussena,1,0,0,1,70,120,Feuil1
+Tela,1,0,0,1,40,80,Feuil1
+Feriana,5,0,0,5,220,375,Feuil1
+Mejel Belabbess,4,0,0,4,400,390,Feuil1
+Total,37,0,6,31,1745,2730,Feuil1

@@ -1,0 +1,97 @@
+﻿mois,station,nombre_jours_pluvieux,precipitations_en_millimetres,feuille
+Septembre,Manoubia,1,16.0,Feuil1
+Septembre,CRDA Bouchoucha,1,12.0,Feuil1
+Septembre,Tunis Carthage,1,6.2,Feuil1
+Septembre,Pepiniere Gammarth,1,2.0,Feuil1
+Septembre,Sidi Hassine,1,20.0,Feuil1
+Septembre,SMVDA Borj Chakir,0,0.0,Feuil1
+Septembre,El Hrayria,1,23.0,Feuil1
+Septembre,Pepiniere El Agba,1,21.5,Feuil1
+Octobre,Manoubia,8,105.1,Feuil1
+Octobre,CRDA Bouchoucha,8,107.5,Feuil1
+Octobre,Tunis Carthage,8,89.2,Feuil1
+Octobre,Pepiniere Gammarth,8,169.5,Feuil1
+Octobre,Sidi Hassine,8,79.2,Feuil1
+Octobre,SMVDA Borj Chakir,9,152.0,Feuil1
+Octobre,El Hrayria,7,135.6,Feuil1
+Octobre,Pepiniere El Agba,7,147.0,Feuil1
+Novembre,Manoubia,4,13.1,Feuil1
+Novembre,CRDA Bouchoucha,4,13.5,Feuil1
+Novembre,Tunis Carthage,4,13.6,Feuil1
+Novembre,Pepiniere Gammarth,4,16.0,Feuil1
+Novembre,Sidi Hassine,3,10.5,Feuil1
+Novembre,SMVDA Borj Chakir,3,13.0,Feuil1
+Novembre,El Hrayria,4,10.5,Feuil1
+Novembre,Pepiniere El Agba,4,15.0,Feuil1
+Decembre,Manoubia,5,48.2,Feuil1
+Decembre,CRDA Bouchoucha,5,57.0,Feuil1
+Decembre,Tunis Carthage,5,53.4,Feuil1
+Decembre,Pepiniere Gammarth,5,51.0,Feuil1
+Decembre,Sidi Hassine,5,53.0,Feuil1
+Decembre,SMVDA Borj Chakir,6,72.0,Feuil1
+Decembre,El Hrayria,5,61.0,Feuil1
+Decembre,Pepiniere El Agba,5,64.5,Feuil1
+Janvier,Manoubia,5,20.8,Feuil1
+Janvier,CRDA Bouchoucha,5,22.0,Feuil1
+Janvier,Tunis Carthage,5,26.2,Feuil1
+Janvier,Pepiniere Gammarth,5,21.0,Feuil1
+Janvier,Sidi Hassine,4,21.0,Feuil1
+Janvier,SMVDA Borj Chakir,7,30.5,Feuil1
+Janvier,El Hrayria,5,31.0,Feuil1
+Janvier,Pepiniere El Agba,5,23.5,Feuil1
+Fevrier,Manoubia,2,19.0,Feuil1
+Fevrier,CRDA Bouchoucha,2,19.0,Feuil1
+Fevrier,Tunis Carthage,2,24.4,Feuil1
+Fevrier,Pepiniere Gammarth,2,15.5,Feuil1
+Fevrier,Sidi Hassine,2,14.0,Feuil1
+Fevrier,SMVDA Borj Chakir,3,23.0,Feuil1
+Fevrier,El Hrayria,2,17.0,Feuil1
+Fevrier,Pepiniere El Agba,2,16.5,Feuil1
+Mars,Manoubia,6,24.6,Feuil1
+Mars,CRDA Bouchoucha,7,27.0,Feuil1
+Mars,Tunis Carthage,7,21.1,Feuil1
+Mars,Pepiniere Gammarth,7,34.5,Feuil1
+Mars,Sidi Hassine,6,28.0,Feuil1
+Mars,SMVDA Borj Chakir,4,41.0,Feuil1
+Mars,El Hrayria,6,24.9,Feuil1
+Mars,Pepiniere El Agba,6,23.5,Feuil1
+Avril,Manoubia,0,0.0,Feuil1
+Avril,CRDA Bouchoucha,0,0.0,Feuil1
+Avril,Tunis Carthage,0,0.0,Feuil1
+Avril,Pepiniere Gammarth,0,0.0,Feuil1
+Avril,Sidi Hassine,0,0.0,Feuil1
+Avril,SMVDA Borj Chakir,2,3.0,Feuil1
+Avril,El Hrayria,0,0.0,Feuil1
+Avril,Pepiniere El Agba,0,0.0,Feuil1
+Mai,Manoubia,6,62.5,Feuil1
+Mai,CRDA Bouchoucha,6,71.0,Feuil1
+Mai,Tunis Carthage,6,62.0,Feuil1
+Mai,Pepiniere Gammarth,6,61.0,Feuil1
+Mai,Sidi Hassine,7,81.5,Feuil1
+Mai,SMVDA Borj Chakir,6,90.5,Feuil1
+Mai,El Hrayria,6,69.0,Feuil1
+Mai,Pepiniere El Agba,6,74.0,Feuil1
+Juin,Manoubia,0,0.0,Feuil1
+Juin,CRDA Bouchoucha,0,0.0,Feuil1
+Juin,Tunis Carthage,0,0.0,Feuil1
+Juin,Pepiniere Gammarth,0,0.0,Feuil1
+Juin,Sidi Hassine,0,0.0,Feuil1
+Juin,SMVDA Borj Chakir,0,0.0,Feuil1
+Juin,El Hrayria,0,0.0,Feuil1
+Juin,Pepiniere El Agba,0,0.0,Feuil1
+Juillet,Manoubia,0,0.0,Feuil1
+Juillet,CRDA Bouchoucha,0,0.0,Feuil1
+Juillet,Tunis Carthage,0,0.0,Feuil1
+Juillet,Pepiniere Gammarth,0,0.0,Feuil1
+Juillet,Sidi Hassine,0,0.0,Feuil1
+Juillet,SMVDA Borj Chakir,0,0.0,Feuil1
+Juillet,El Hrayria,0,0.0,Feuil1
+Juillet,Pepiniere El Agba,0,0.0,Feuil1
+Aout,Manoubia,0,0.0,Feuil1
+Aout,CRDA Bouchoucha,0,0.0,Feuil1
+Aout,Tunis Carthage,0,0.0,Feuil1
+Aout,Pepiniere Gammarth,0,0.0,Feuil1
+Aout,Sidi Hassine,0,0.0,Feuil1
+Aout,SMVDA Borj Chakir,1,8.0,Feuil1
+Aout,El Hrayria,0,0.0,Feuil1
+Aout,Pepiniere El Agba,0,0.0,Feuil1
