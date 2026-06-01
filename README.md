@@ -1,5 +1,13 @@
 # 🚜 AgriBot AI — Assistant Agricole Intelligent & RAG Full-Stack
 
+[![Django](https://img.shields.io/badge/Backend-Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/)
+[![React](https://img.shields.io/badge/Frontend-React%20%252B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![OpenRouter](https://img.shields.io/badge/AI%20Engine-OpenRouter-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://openrouter.ai/)
+[![Cloudinary](https://img.shields.io/badge/Storage-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![Render](https://img.shields.io/badge/Deployment-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
+[![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
 🤖 **AgriBot AI** est un conseiller agricole intelligent conçu de bout en bout pour offrir une expertise agronomique ultra-localisée, spécifiquement adaptée aux sols et cultures en Tunisie. Alliant la puissance des modèles de langage de pointe (Google Gemini) à une architecture RAG (Retrieval-Augmented Generation) personnalisée, cette application fournit des recommandations précises, conscientes des conditions météo en temps réel et enrichies par du contenu multimédia.
 
 ---
