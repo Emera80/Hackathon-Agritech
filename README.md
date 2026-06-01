@@ -34,7 +34,7 @@
 - **Base de données** : PostgreSQL / SQLite (Supporté via `dj-database-url`)
 - **Données Climat** : OpenWeatherMap API
 - **Recherche Vidéo** : YouTube Search Python
-- **Hébergement** : Prêt pour Render (Backend) & Vercel (Frontend)
+- **Hébergement** : Prêt pour Render (Backend) & Vercel (Frontend) & Supabase (Base de données)
 
 ---
 
@@ -44,8 +44,8 @@ Le projet est divisé en deux répertoires distincts pour le Frontend et le Back
 
 ### 1. Clonage du projet
 ```bash
-git clone https://github.com/Emera80/agritech.git
-cd agritech
+git clone https://github.com/Emera80/Hackathon-Agritech.git
+cd Hackathon-Agritech
 ```
 
 ### 2. Configuration du Backend (Django)
@@ -102,5 +102,8 @@ Le projet utilise un moteur RAG "Light" optimisé :
 ## 👨‍💻 Auteur
 
 **Emera** — Étudiant en Licence Informatique
+- Portefolio : [Mon Portefolio](https://mon_lien_portefolio)
 - GitHub : [@Emera80](https://github.com/Emera80)
-- Projet réalisé avec une attention particulière sur l'ergonomie (UI/UX) et l'utilité réelle pour les agriculteurs tunisiens.
+---
+
+*Projet réalisé avec une attention particulière sur l'ergonomie (UI/UX) et l'utilité réelle pour les agriculteurs tunisiens.*
