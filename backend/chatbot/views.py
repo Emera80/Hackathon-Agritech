@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from django.http import HttpResponse, StreamingHttpResponse
+from django.http import HttpResponse, StreamingHttpResponse, JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.views.decorators.http import require_POST
 from rest_framework.decorators import api_view, permission_classes
@@ -16,6 +16,12 @@ from .models import ChatSession, ChatMessage
 import io
 import json as json_module
 from gtts import gTTS
+
+@api_view(['GET'])
+def health_check(request):
+    # Vérification simple de la connexion à la base de données
+    count = ChatSession.objects.count()
+    return JsonResponse({"status": "ok", "sessions_count": count})
 
 LANG_MAP = {
     'arabic': 'ar',
