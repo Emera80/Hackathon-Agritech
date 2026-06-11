@@ -326,7 +326,7 @@ def _preparer_donnees_requete(question, localisation, contexte_meteo, image_b64=
     messages.append({"role": "user", "content": content})
 
     # Modèle par défaut si non spécifié
-    target_model = model if model else "google/gemini-2.0-flash-001"
+    target_model = model if model else "google/gemini-2.0-flash-exp"
 
     payload = {
         "model": target_model,
@@ -340,9 +340,10 @@ def _preparer_donnees_requete(question, localisation, contexte_meteo, image_b64=
 
 def demander_a_gemini(question, localisation, contexte_meteo, image_b64=None, video_b64=None, history=None):
     models_to_try = [
-        "google/gemini-2.0-flash-001", 
-        "google/gemini-flash-1.5", 
-        "google/gemini-pro-1.5"
+        "google/gemini-1.5-flash",
+        "google/gemini-1.5-pro",
+        "openai/gpt-4o-mini",
+        "openai/gpt-3.5-turbo"
     ]
     
     for i, model_name in enumerate(models_to_try):
@@ -366,6 +367,11 @@ def demander_a_gemini(question, localisation, contexte_meteo, image_b64=None, vi
                 return "Désolé, la limite de requêtes d'OpenRouter est atteinte. Réessayez dans quelques minutes."
             elif response.status_code == 401:
                 return "Erreur d'authentification : la clé API OpenRouter est invalide."
+            elif response.status_code == 404:
+                if i < len(models_to_try) - 1:
+                    print(f"404 sur {model_name}, tentative avec le modèle suivant...")
+                    continue
+                return f"Erreur de l'API OpenRouter (Modèle introuvable : {model_name})."
             else:
                 if i < len(models_to_try) - 1: continue # On essaie le suivant pour toute erreur 5xx ou autre
                 return f"Erreur de l'API OpenRouter (Code {response.status_code})."
@@ -382,9 +388,10 @@ def demander_a_gemini_stream(question, localisation, contexte_meteo, image_b64=N
     Supporte également le fallback de modèle en cas de 429 au démarrage.
     """
     models_to_try = [
-        "google/gemini-2.0-flash-001", 
-        "google/gemini-flash-1.5", 
-        "google/gemini-pro-1.5"
+        "google/gemini-1.5-flash",
+        "google/gemini-1.5-pro",
+        "openai/gpt-4o-mini",
+        "openai/gpt-3.5-turbo"
     ]
     
     for i, model_name in enumerate(models_to_try):
@@ -405,6 +412,10 @@ def demander_a_gemini_stream(question, localisation, contexte_meteo, image_b64=N
                 time.sleep(2)
                 continue
             
+            if response.status_code == 404 and i < len(models_to_try) - 1:
+                print(f"404 (Stream) sur {model_name}, basculement...")
+                continue
+
             if response.status_code != 200:
                 if i < len(models_to_try) - 1: continue
                 yield f"Erreur API (Code {response.status_code})."
